@@ -1,0 +1,26 @@
+# Python & Virtual Envs
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Evaluation Inputs & Outputs
+app/input/*
+app/output/*
+!app/input/.gitkeep
+!app/output/.gitkeep
+
+# Weights & Storage
+models/*
+!models/.gitkeep
+*.pt
+*.bin
+*.safetensors
+*.onnx
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Secrets & Local Configs
+.env
+*.pem
