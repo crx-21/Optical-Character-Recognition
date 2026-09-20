@@ -1,21 +1,21 @@
-# Must use the exact mandated ROCm base image
+# Base image for ROCm 10.0 on Ubuntu 26.04
 FROM rocm/pytorch:rocm10.0_ubuntu26.04_py3.14_pytorch_release_2.13.0
 
-# Set environment variables for ROCm / PyTorch execution
-ENV PYTHONUNBUFFERED=1 \
-    DEBIAN_FRONTEND=noninteractive
-
+# Set working directory
 WORKDIR /app
 
-# Copy requirements and install dependencies
-COPY requirements.txt /app/requirements.txt
-RUN pip install --no-cache-dir -r /app/requirements.txt
+# Install dependencies
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy application source code
-COPY app/ /app/
+# Copy application code
+COPY app/ ./app/
 
-# Make sure scripts and output directory exist
+# Setup mandatory directories
 RUN mkdir -p /app/output /models
 
-# Start background server daemon on container boot
-CMD ["python3", "/app/server.py"]
+# Expose server port
+EXPOSE 8000
+
+# Start the server using uvicorn directly for better process management
+CMD ["uvicorn", "app.server:app", "--host", "0.0.0.0", "--port", "8000"]
