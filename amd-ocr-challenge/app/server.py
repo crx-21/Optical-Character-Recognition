@@ -4,14 +4,14 @@ from pydantic import BaseModel
 import torch
 from PIL import Image
 import io
-from transformers import AutoProcessor, AutoModelForCausalLM
-from app.config import MODEL_ID, DEVICE
+import numpy as np
+import easyocr
+from app.config import DEVICE
 
 app = FastAPI(title="AMD OCR Challenge Server")
 
-# Global variables for model and processor
-model = None
-processor = None
+# Global variable for the OCR reader
+reader = None
 
 class PredictionResponse(BaseModel):
     """Schema for OCR prediction responses."""
@@ -30,30 +30,25 @@ def log_vram(label: str):
 @app.on_event("startup")
 async def load_model():
     """
-    Loads the VLM and processor into memory on server startup.
+    Loads EasyOCR reader into memory on server startup.
     Ensures weights are loaded into VRAM to avoid per-image latency.
     """
-    global model, processor
-    print(f"Loading model {MODEL_ID} onto {DEVICE}...")
+    global reader
+    print(f"Loading EasyOCR reader onto {DEVICE}...")
 
     log_vram("Pre-Load")
 
-    # Florence-2 requires trust_remote_code=True
-    processor = AutoProcessor.from_pretrained(MODEL_ID, trust_remote_code=True)
-    model = AutoModelForCausalLM.from_pretrained(
-        MODEL_ID,
-        trust_remote_code=True,
-        torch_dtype=torch.float16 if DEVICE == "cuda" else torch.float32
-    ).to(DEVICE)
+    # Initialize reader for English and Simplified Chinese
+    # EasyOCR handles GPU automatically if torch.cuda.is_available()
+    reader = easyocr.Reader(['en', 'ch_sim'], gpu=(DEVICE == "cuda"))
 
-    model.eval()
     log_vram("Post-Load")
-    print("Model loaded successfully.")
+    print("OCR reader loaded successfully.")
 
 @app.post("/predict", response_model=PredictionResponse)
 async def predict(file: UploadFile = File(...)):
     """
-    Processes an uploaded image and returns the extracted text using Florence-2.
+    Processes an uploaded image and returns the extracted text using EasyOCR.
 
     Args:
         file: The image file to process.
@@ -61,46 +56,38 @@ async def predict(file: UploadFile = File(...)):
     Returns:
         A PredictionResponse containing the extracted text and a confidence score.
     """
-    if model is None or processor is None:
+    if reader is None:
         return PredictionResponse(text="Model not loaded", confidence=0.0)
 
     try:
-        # Read image
+        # Read image bytes
         contents = await file.read()
+
+        # Use PIL to open image (handles PNG, JPEG, TIFF) and convert to RGB
         image = Image.open(io.BytesIO(contents)).convert("RGB")
 
-        # Florence-2 OCR task
-        prompt = "<OCR>"
+        # Convert PIL image to numpy array for EasyOCR
+        image_np = np.array(image)
 
-        inputs = processor(text=prompt, images=image, return_tensors="pt").to(DEVICE, torch.float16 if DEVICE == "cuda" else torch.float32)
+        # Perform OCR
+        # result is a list of tuples: (bbox, text, confidence)
+        results = reader.readtext(image_np)
 
-        with torch.no_grad():
-            generated_ids = model.generate(
-                input_ids=inputs["input_ids"],
-                pixel_values=inputs["pixel_values"],
-                max_new_tokens=1024,
-                num_beams=3
-            )
+        if not results:
+            return PredictionResponse(text="", confidence=0.0)
 
-        generated_text = processor.batch_decode(generated_ids, skip_special_tokens=False)[0]
+        # Concatenate text fragments and calculate average confidence
+        texts = [res[1] for res in results]
+        confidences = [res[2] for res in results]
 
-        # Parse Florence-2 output
-        parsed_answer = processor.post_process_generation(
-            generated_text,
-            task=prompt,
-            pairwise=False
-        )
+        full_text = " ".join(texts)
+        avg_confidence = sum(confidences) / len(confidences)
 
-        # For <OCR>, parsed_answer is a dictionary with 'text' key
-        text_result = parsed_answer.get("text", "") if isinstance(parsed_answer, dict) else str(parsed_answer)
-
-        return PredictionResponse(text=text_result, confidence=0.95)
+        return PredictionResponse(text=full_text, confidence=float(avg_confidence))
 
     except Exception as e:
         print(f"Prediction error: {e}")
         return PredictionResponse(text=f"Error: {str(e)}", confidence=0.0)
 
 if __name__ == "__main__":
-    # This block is kept for local development.
-    # In production/Docker, uvicorn is called directly via CMD.
     uvicorn.run(app, host="0.0.0.0", port=8000)
