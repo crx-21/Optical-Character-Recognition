@@ -1,7 +1,7 @@
-fastapi==0.110.0
-uvicorn==0.28.0
-requests==2.31.0
-pillow==10.2.0
-transformers==4.44.2
-accelerate==0.33.0
-python-multipart==0.0.9
+fastapi>=0.115.0
+uvicorn>=0.31.0
+requests>=2.32.3
+pillow>=11.0.0
+easyocr
+opencv-python-headless
+python-multipart>=0.0.12

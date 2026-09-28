@@ -1,7 +1,6 @@
 import torch
 
-# Model and Device Configuration
-MODEL_ID = "microsoft/Florence-2-base"
+# Device Configuration
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
 # Server Settings
