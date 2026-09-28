@@ -1,0 +1,36 @@
+from typing import Dict, Type
+from app.engines.base import BaseOCREngine
+from app.engines.easyocr_engine import EasyOCREngine
+
+class OCREngineFactory:
+    """Factory to create OCR engines based on configuration."""
+
+    _engines: Dict[str, Type[BaseOCREngine]] = {
+        "easyocr": EasyOCREngine,
+        # Future models will be added here:
+        # "qwen2.5-vl": QwenVLEngine,
+        # "paddle": PaddleOCREngine,
+        # "deepseek-ocr": DeepSeekOCREngine,
+        # "florence-2": Florence2Engine,
+    }
+
+    @classmethod
+    def create(cls, model_type: str) -> BaseOCREngine:
+        """
+        Instantiates the specified OCR engine.
+
+        Args:
+            model_type: The key identifying the model in the _engines map.
+
+        Returns:
+            An instance of a BaseOCREngine.
+
+        Raises:
+            ValueError: If the model_type is not supported.
+        """
+        engine_class = cls._engines.get(model_type.lower())
+        if not engine_class:
+            supported = ", ".join(cls._engines.keys())
+            raise ValueError(f"Unsupported model type '{model_type}'. Supported types: {supported}")
+
+        return engine_class()
