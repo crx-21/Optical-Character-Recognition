@@ -4,14 +4,14 @@ from pydantic import BaseModel
 import torch
 from PIL import Image
 import io
-import numpy as np
-import easyocr
-from app.config import DEVICE
+
+from app.config import DEVICE, MODEL_TYPE
+from app.engines.factory import OCREngineFactory
 
 app = FastAPI(title="AMD OCR Challenge Server")
 
-# Global variable for the OCR reader
-reader = None
+# Global variable for the OCR engine
+engine = None
 
 class PredictionResponse(BaseModel):
     """Schema for OCR prediction responses."""
@@ -30,60 +30,45 @@ def log_vram(label: str):
 @app.on_event("startup")
 async def load_model():
     """
-    Loads EasyOCR reader into memory on server startup.
-    Ensures weights are loaded into VRAM to avoid per-image latency.
+    Initializes the OCR engine based on configuration.
+    Ensures weights are loaded into VRAM on startup.
     """
-    global reader
-    print(f"Loading EasyOCR reader onto {DEVICE}...")
+    global engine
+    print(f"Initializing OCR engine with model type: {MODEL_TYPE} onto {DEVICE}...")
 
     log_vram("Pre-Load")
 
-    # Initialize reader for English and Simplified Chinese
-    # EasyOCR handles GPU automatically if torch.cuda.is_available()
-    reader = easyocr.Reader(['en', 'ch_sim'], gpu=(DEVICE == "cuda"))
+    try:
+        engine = OCREngineFactory.create(MODEL_TYPE)
+        engine.load()
+    except Exception as e:
+        print(f"Failed to load OCR engine: {e}")
+        # We allow the server to start even if the model fails,
+        # but predictions will return an error.
+        engine = None
 
     log_vram("Post-Load")
-    print("OCR reader loaded successfully.")
+    print("OCR engine initialized successfully.")
 
 @app.post("/predict", response_model=PredictionResponse)
 async def predict(file: UploadFile = File(...)):
     """
-    Processes an uploaded image and returns the extracted text using EasyOCR.
-
-    Args:
-        file: The image file to process.
-
-    Returns:
-        A PredictionResponse containing the extracted text and a confidence score.
+    Processes an uploaded image and returns the extracted text using the active OCR engine.
     """
-    if reader is None:
+    if engine is None:
         return PredictionResponse(text="Model not loaded", confidence=0.0)
 
     try:
         # Read image bytes
         contents = await file.read()
 
-        # Use PIL to open image (handles PNG, JPEG, TIFF) and convert to RGB
+        # Use PIL to open image and convert to RGB
         image = Image.open(io.BytesIO(contents)).convert("RGB")
 
-        # Convert PIL image to numpy array for EasyOCR
-        image_np = np.array(image)
+        # Perform OCR using the selected engine
+        text, confidence = engine.predict(image)
 
-        # Perform OCR
-        # result is a list of tuples: (bbox, text, confidence)
-        results = reader.readtext(image_np)
-
-        if not results:
-            return PredictionResponse(text="", confidence=0.0)
-
-        # Concatenate text fragments and calculate average confidence
-        texts = [res[1] for res in results]
-        confidences = [res[2] for res in results]
-
-        full_text = " ".join(texts)
-        avg_confidence = sum(confidences) / len(confidences)
-
-        return PredictionResponse(text=full_text, confidence=float(avg_confidence))
+        return PredictionResponse(text=text, confidence=float(confidence))
 
     except Exception as e:
         print(f"Prediction error: {e}")
