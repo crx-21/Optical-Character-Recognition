@@ -1,3 +1,4 @@
+import re
 import numpy as np
 import easyocr
 from PIL import Image
@@ -19,7 +20,7 @@ class EasyOCREngine(BaseOCREngine):
         print("EasyOCR reader loaded successfully.")
 
     def predict(self, image: Image.Image) -> Tuple[str, float]:
-        """Performs OCR using EasyOCR."""
+        """Performs OCR using EasyOCR and selects the most plate-like result."""
         if self.reader is None:
             return "Model not loaded", 0.0
 
@@ -28,20 +29,34 @@ class EasyOCREngine(BaseOCREngine):
             image_np = np.array(image)
 
             # Perform OCR
-            # result is a list of tuples: (bbox, text, confidence)
-            results = self.reader.readtext(image_np)
+            # We disable paragraph merging to get individual text blocks
+            results = self.reader.readtext(image_np, paragraph=False)
 
             if not results:
                 return "", 0.0
 
-            # Concatenate text fragments and calculate average confidence
-            texts = [res[1] for res in results]
-            confidences = [res[2] for res in results]
+            # Since the images are plate-only, we want the single most "plate-like" block
+            # rather than joining everything (which includes noise/glitches).
+            best_text = ""
+            best_score = -1.0
 
-            full_text = " ".join(texts)
-            avg_confidence = sum(confidences) / len(confidences)
+            for (bbox, text, confidence) in results:
+                # Heuristic for "plate-likeness":
+                # 1. Length should be reasonable (usually 3-10 chars)
+                # 2. Should contain a mix of alphanumeric characters
+                # 3. Higher confidence is better
 
-            return full_text, float(avg_confidence)
+                clean_text = re.sub(r'[^A-Z0-9]', '', text.upper())
+                length_penalty = 1.0 if 4 <= len(clean_text) <= 9 else 0.5
+
+                # Calculate a score based on confidence and length heuristic
+                score = confidence * length_penalty
+
+                if score > best_score:
+                    best_score = score
+                    best_text = text
+
+            return best_text, float(best_score if best_score != -1.0 else 0.0)
 
         except Exception as e:
             print(f"EasyOCR prediction error: {e}")

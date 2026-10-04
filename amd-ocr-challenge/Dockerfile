@@ -6,7 +6,8 @@ WORKDIR /app
 
 # Install dependencies
 COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --no-cache-dir fastapi uvicorn requests pillow opencv-python-headless python-multipart tqdm scipy && \
+    pip install --no-cache-dir easyocr --no-deps
 
 # Copy application code
 COPY app/ ./app/
