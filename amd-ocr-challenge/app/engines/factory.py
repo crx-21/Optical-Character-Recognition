@@ -1,17 +1,12 @@
 from typing import Dict, Type
 from app.engines.base import BaseOCREngine
-from app.engines.easyocr_engine import EasyOCREngine
+from app.engines.qwen_vl_engine import QwenVLEngine
 
 class OCREngineFactory:
     """Factory to create OCR engines based on configuration."""
 
     _engines: Dict[str, Type[BaseOCREngine]] = {
-        "easyocr": EasyOCREngine,
-        # Future models will be added here:
-        # "qwen2.5-vl": QwenVLEngine,
-        # "paddle": PaddleOCREngine,
-        # "deepseek-ocr": DeepSeekOCREngine,
-        # "florence-2": Florence2Engine,
+        "qwen2.5-vl": QwenVLEngine,
     }
 
     @classmethod
