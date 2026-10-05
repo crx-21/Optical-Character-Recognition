@@ -56,8 +56,10 @@ def prepare_qwen_vl_dataset(csv_path: str, dataset_root: str, output_dir: str):
 
 if __name__ == "__main__":
     # Configuration
-    CSV_PATH = "amd-ocr-challenge/app/dataset/plates.csv"
-    DATASET_ROOT = "amd-ocr-challenge/app/dataset"
-    OUTPUT_DIR = "amd-ocr-challenge/app/dataset/qwen_formatted"
+    # Use relative paths based on the script location to ensure portability
+    SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+    CSV_PATH = os.path.join(SCRIPT_DIR, "dataset", "plates.csv")
+    DATASET_ROOT = os.path.join(SCRIPT_DIR, "dataset")
+    OUTPUT_DIR = os.path.join(SCRIPT_DIR, "dataset", "qwen_formatted")
 
     prepare_qwen_vl_dataset(CSV_PATH, DATASET_ROOT, OUTPUT_DIR)
