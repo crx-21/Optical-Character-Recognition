@@ -1,16 +1,19 @@
 import torch
-from typing import Tuple
+from typing import Tuple, Optional
 from PIL import Image
 from transformers import Qwen2_5_VLForConditionalGeneration, AutoProcessor
 from transformers import BitsAndBytesConfig
+from peft import PeftModel
 from amd_ocr_challenge.app.engines.base import BaseOCREngine
 
 class QwenVLEngine(BaseOCREngine):
     """
     OCR Engine implementation using Qwen-2.5 VL 7B.
+    Supports loading base model or fine-tuned PEFT adapters.
     """
-    def __init__(self, model_name_or_path: str = "Qwen/Qwen2.5-VL-7B-Instruct"):
+    def __init__(self, model_name_or_path: str = "Qwen/Qwen2.5-VL-7B-Instruct", adapter_path: Optional[str] = None):
         self.model_name_or_path = model_name_or_path
+        self.adapter_path = adapter_path
         self.model = None
         self.processor = None
         self.device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -18,6 +21,7 @@ class QwenVLEngine(BaseOCREngine):
     def load(self) -> None:
         """
         Load Qwen-2.5 VL model weights into VRAM with 4-bit quantization.
+        Optional: Load a PEFT adapter for fine-tuned performance.
         """
         print(f"Loading Qwen-2.5 VL model from {self.model_name_or_path}...")
 
@@ -30,13 +34,22 @@ class QwenVLEngine(BaseOCREngine):
         )
 
         self.processor = AutoProcessor.from_pretrained(self.model_name_or_path)
-        self.model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
+
+        # Load Base Model
+        base_model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
             self.model_name_or_path,
             device_map="auto",
             quantization_config=quantization_config,
             torch_dtype=torch.bfloat16,
             trust_remote_code=True
         )
+
+        if self.adapter_path:
+            print(f"Loading PEFT adapter from {self.adapter_path}...")
+            self.model = PeftModel.from_pretrained(base_model, self.adapter_path)
+        else:
+            self.model = base_model
+
         print("Qwen-2.5 VL model loaded successfully.")
 
     def predict(self, image: Image.Image) -> Tuple[str, float]:
@@ -47,7 +60,6 @@ class QwenVLEngine(BaseOCREngine):
             raise RuntimeError("Model not loaded. Call load() before predict().")
 
         # Construct the prompt for OCR
-        # Qwen-2.5 VL uses specific chat templates
         messages = [
             {
                 "role": "user",
