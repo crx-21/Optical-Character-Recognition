@@ -1,1122 +1,1569 @@
 class id,filepaths,labels,data set
-0,train/ALABAMA/001.jpg,VAY 942,train
-0,train/ALABAMA/002.jpg,06M9Y,train
-0,train/ALABAMA/003.jpg,365 HD,train
-0,train/ALABAMA/004.jpg,CK3836,train
-0,train/ALABAMA/006.jpg,KAA 20C,train
-0,train/ALABAMA/007.jpg,BYE 162,train
-0,train/ALABAMA/008.jpg,A56A7,train
-0,train/ALABAMA/009.jpg,3BF4026,train
-0,train/ALABAMA/011.jpg,55BC577,train
-0,train/ALABAMA/101.jpg,2B71R95,train
-1,train/ALASKA/001.jpg,DGU 396,train
-1,train/ALASKA/002.jpg,NIQ168,train
-1,train/ALASKA/003.jpg,VBD 688,train
-1,train/ALASKA/004.jpg,JUW 961,train
-1,train/ALASKA/005.jpg,C17 999,train
-1,train/ALASKA/006.jpg,LHK 666,train
-1,train/ALASKA/007.jpg,GPQ 354,train
-1,train/ALASKA/008.jpg,FPW 570,train
-1,train/ALASKA/009.jpg,JDH 675,train
-1,train/ALASKA/010.jpg,DCB 701,train
-2,train/AMERICAN SAMOA/001.jpg,100 56,train
-2,train/AMERICAN SAMOA/002.jpg,9375,train
-2,train/AMERICAN SAMOA/003.jpg,4879,train
-2,train/AMERICAN SAMOA/004.jpg,HR 01,train
-2,train/AMERICAN SAMOA/005.jpg,3095,train
-2,train/AMERICAN SAMOA/006.jpg,2266,train
-2,train/AMERICAN SAMOA/007.jpg,3962,train
-2,train/AMERICAN SAMOA/008.jpg,2779,train
-2,train/AMERICAN SAMOA/009.jpg,23,train
-2,train/AMERICAN SAMOA/010.jpg,849,train
-3,train/ARIZONA/001.jpg,EMS,train
-3,train/ARIZONA/002.jpg,SWR 5149,train
-3,train/ARIZONA/003.jpg,AZ 4H,train
-3,train/ARIZONA/004.jpg,SLS 5923,train
-3,train/ARIZONA/005.jpg,HOOOPS,train
-3,train/ARIZONA/006.jpg,4KSUP,train
-3,train/ARIZONA/007.jpg,AVH1,train
-3,train/ARIZONA/008.jpg,V6T36,train
-3,train/ARIZONA/009.jpg,OPS2936,train
-3,train/ARIZONA/010.jpg,BEEF,train
-3,train/ARIZONA/011.jpg,4ABC123,train
-4,train/ARKANSAS/001.jpg,642 MMS,train
-4,train/ARKANSAS/002.jpg,879 LRH,train
-4,train/ARKANSAS/003.jpg,111 YMX,train
-4,train/ARKANSAS/004.jpg,BZG 728,train
-4,train/ARKANSAS/005.jpg,ARKANSAS,train
-4,train/ARKANSAS/006.jpg,623 PXG,train
-4,train/ARKANSAS/007.jpg,YGD 654,train
-4,train/ARKANSAS/008.jpg,ANJE,train
-4,train/ARKANSAS/009.jpg,667 TIF,train
-4,train/ARKANSAS/010.jpg,13 808,train
-5,train/CALIFORNIA/001.jpg,WKG 542,train
-5,train/CALIFORNIA/002.jpg,6S1015,train
-5,train/CALIFORNIA/003.jpg,17622,train
-5,train/CALIFORNIA/004.jpg,NZK 057,train
-5,train/CALIFORNIA/005.jpg,NKG 880,train
-5,train/CALIFORNIA/006.jpg,14 33,train
-5,train/CALIFORNIA/007.jpg,1CUS755,train
-5,train/CALIFORNIA/008.jpg,USMARINE,train
-5,train/CALIFORNIA/009.jpg,7NIB786,train
-5,train/CALIFORNIA/010.jpg,WY NT ME,train
-6,train/CNMI/01.jpg,XVIII,train
-6,train/CNMI/02.jpg,ADC 971,train
-6,train/CNMI/03.jpg,APOLLO,train
-6,train/CNMI/04.jpg,SO FINE,train
-6,train/CNMI/05.jpg,AM 337,train
-6,train/CNMI/06.jpg,ADK 563,train
-6,train/CNMI/07.jpg,2276,train
-6,train/CNMI/08.jpg,393,train
-6,train/CNMI/09.jpg,598,train
-6,train/CNMI/10.jpg,1434,train
-7,train/COLORADO/001.jpg,13 1134,train
-7,train/COLORADO/002.jpg,PURPSE,train
-7,train/COLORADO/003.jpg,33292B,train
-7,train/COLORADO/004.jpg,596 TWC,train
-7,train/COLORADO/005.jpg,YP 1479,train
-7,train/COLORADO/006.jpg,045 QBE,train
-7,train/COLORADO/007.jpg,RT 1470,train
-7,train/COLORADO/008.jpg,3101 PP,train
-7,train/COLORADO/009.jpg,37 451,train
-7,train/COLORADO/010.jpg,482 FFM,train
-8,train/CONNECTICUT/001.jpg,413 VBB,train
-8,train/CONNECTICUT/002.jpg,56122,train
-8,train/CONNECTICUT/003.jpg,409 XWE,train
-8,train/CONNECTICUT/004.jpg,8921,train
-8,train/CONNECTICUT/005.jpg,CLK 107,train
-8,train/CONNECTICUT/006.jpg,VN 1252,train
-8,train/CONNECTICUT/007.jpg,565,train
-8,train/CONNECTICUT/008.jpg,4793,train
-8,train/CONNECTICUT/009.jpg,CA BORN,train
-8,train/CONNECTICUT/010.jpg,908 LB0,train
-9,train/DELAWARE/001.jpg,17 411,train
-9,train/DELAWARE/002.jpg,2962,train
-9,train/DELAWARE/003.jpg,43 604,train
-9,train/DELAWARE/004.jpg,103619,train
-9,train/DELAWARE/005.jpg,BUM,train
-9,train/DELAWARE/006.jpg,370213,train
-9,train/DELAWARE/007.jpg,130396,train
-9,train/DELAWARE/008.jpg,JUSLVME,train
-9,train/DELAWARE/009.jpg,RV 497,train
-9,train/DELAWARE/010.jpg,350331,train
-10,train/FLORIDA/001.jpg,SLS 5923,train
-10,train/FLORIDA/002.jpg,16W18369,train
-10,train/FLORIDA/003.jpg,E 45843,train
-10,train/FLORIDA/004.jpg,434 AFQ,train
-10,train/FLORIDA/005.jpg,15 3838,train
-10,train/FLORIDA/006.jpg,NOO OOA,train
-10,train/FLORIDA/007.jpg,10D 1438,train
-10,train/FLORIDA/008.jpg,R37 35I,train
-10,train/FLORIDA/009.jpg,XQQ O1I,train
-10,train/FLORIDA/010.jpg,699 SRD,train
-11,train/GEORGIA/001.jpg,CGL 1288,train
-11,train/GEORGIA/002.jpg,RRX 397,train
-11,train/GEORGIA/003.jpg,RDJ7561,train
-11,train/GEORGIA/004.jpg,LFD673,train
-11,train/GEORGIA/005.jpg,GV49678,train
-11,train/GEORGIA/006.jpg,BQ6CIN,train
-11,train/GEORGIA/007.jpg,DL 32B94,train
-11,train/GEORGIA/008.jpg,EEK730,train
-11,train/GEORGIA/009.jpg,DDT362,train
-11,train/GEORGIA/010.jpg,PEG3645,train
-12,train/GUAM/001.jpg,32136,train
-12,train/GUAM/002.jpg,NMCG 04,train
-12,train/GUAM/003.jpg,43 620,train
-12,train/GUAM/004.jpg,DE 1040,train
-12,train/GUAM/005.jpg,8449,train
-12,train/GUAM/006.jpg,MN 356,train
-12,train/GUAM/007.jpg,TR 780,train
-12,train/GUAM/008.jpg,68753,train
-12,train/GUAM/009.jpg,D 1560,train
-12,train/GUAM/010.jpg,2282,train
-13,train/HAWAI/001.jpg,3M 171,train
-13,train/HAWAI/002.jpg,7H 800,train
-13,train/HAWAI/003.jpg,BRR 720,train
-13,train/HAWAI/004.jpg,LLC 928,train
-13,train/HAWAI/005.jpg,K 3797,train
-13,train/HAWAI/006.jpg,217E,train
-13,train/HAWAI/007.jpg,K 10913,train
-13,train/HAWAI/008.jpg,LGB 398,train
-13,train/HAWAI/009.jpg,808E,train
-13,train/HAWAI/010.jpg,PXE 886,train
-14,train/IDAHO/001.jpg,3386Y,train
-14,train/IDAHO/002.jpg,1M B6654,train
-14,train/IDAHO/003.jpg,3 107,train
-14,train/IDAHO/004.jpg,8B Z5695,train
-14,train/IDAHO/005.jpg,WH0DAH0,train
-14,train/IDAHO/006.jpg,8 190,train
-14,train/IDAHO/007.jpg,94 251,train
-14,train/IDAHO/008.jpg,WEFLY,train
-14,train/IDAHO/009.jpg,1A 0631V,train
-14,train/IDAHO/010.jpg,1A WJ785,train
-15,train/ILLINOIS/001.jpg,325 338,train
-15,train/ILLINOIS/002.jpg,359FM,train
-15,train/ILLINOIS/003.jpg,99946,train
-15,train/ILLINOIS/004.jpg,MF 2751,train
-15,train/ILLINOIS/005.jpg,NRVOUS,train
-15,train/ILLINOIS/006.jpg,139 4986,train
-15,train/ILLINOIS/007.jpg,68 584,train
-15,train/ILLINOIS/008.jpg,B 596 577,train
-15,train/ILLINOIS/009.jpg,J 581 779,train
-15,train/ILLINOIS/010.jpg,Y95 4812,train
-16,train/INDIANA/001.jpg,48C2065,train
-16,train/INDIANA/002.jpg,514NBA,train
-16,train/INDIANA/003.jpg,308 270,train
-16,train/INDIANA/004.jpg,MM1480,train
-16,train/INDIANA/005.jpg,45Y3564,train
-16,train/INDIANA/006.jpg,71 P 980,train
-16,train/INDIANA/007.jpg,60A2941,train
-16,train/INDIANA/008.jpg,825ZYJ,train
-16,train/INDIANA/009.jpg,21879,train
-16,train/INDIANA/010.jpg,71A2000,train
-17,train/IOWA/001.jpg,AXM 417,train
-17,train/IOWA/002.jpg,848 MTO,train
-17,train/IOWA/003.jpg,AN 2202,train
-17,train/IOWA/004.jpg,678 GRG,train
-17,train/IOWA/005.jpg,217 LMK,train
-17,train/IOWA/006.jpg,1934 7,train
-17,train/IOWA/007.jpg,285 THN,train
-17,train/IOWA/008.jpg,CML 953,train
-17,train/IOWA/009.jpg,181 TGY,train
-17,train/IOWA/010.jpg,138 WCT,train
-18,train/KANSAS/001.jpg,CARTREK,train
-18,train/KANSAS/002.jpg,571 GDW,train
-18,train/KANSAS/003.jpg,524 JMJ,train
-18,train/KANSAS/004.jpg,680 FBP,train
-18,train/KANSAS/005.jpg,599575,train
-18,train/KANSAS/006.jpg,CNM 438,train
-18,train/KANSAS/007.jpg,115 FAS,train
-18,train/KANSAS/008.jpg,WGH 759,train
-18,train/KANSAS/009.jpg,33200,train
-18,train/KANSAS/010.jpg,42507,train
-19,train/KENTUCKY/001.jpg,821 NMP,train
-19,train/KENTUCKY/002.jpg,523 VRS,train
-19,train/KENTUCKY/003.jpg,819 AHZ,train
-19,train/KENTUCKY/004.jpg,587 HYT,train
-19,train/KENTUCKY/005.jpg,974 AAE,train
-19,train/KENTUCKY/006.jpg,920 DRJ,train
-19,train/KENTUCKY/007.jpg,B0555,train
-19,train/KENTUCKY/008.jpg,139 WTF,train
-19,train/KENTUCKY/009.jpg,1065,train
-19,train/KENTUCKY/010.jpg,264 HMP,train
-20,train/LOUISIANA/001.jpg,196I470 ,train
-20,train/LOUISIANA/002.jpg,WBA255,train
-20,train/LOUISIANA/003.jpg,203 363,train
-20,train/LOUISIANA/004.jpg,DVD 493,train
-20,train/LOUISIANA/005.jpg,446A622,train
-20,train/LOUISIANA/006.jpg,JNT 062,train
-20,train/LOUISIANA/007.jpg,VQC782,train
-20,train/LOUISIANA/008.jpg,777,train
-20,train/LOUISIANA/009.jpg,679 797,train
-20,train/LOUISIANA/010.jpg,860X288,train
-21,train/MAINE/001.jpg,295 253,train
-21,train/MAINE/002.jpg,13097 E,train
-21,train/MAINE/003.jpg,A 595222,train
-21,train/MAINE/004.jpg,32 870,train
-21,train/MAINE/005.jpg,29 701,train
-21,train/MAINE/006.jpg,134 913,train
-21,train/MAINE/007.jpg,482 567,train
-21,train/MAINE/008.jpg,J 72195,train
-21,train/MAINE/009.jpg,A 78958,train
-21,train/MAINE/010.jpg,15192 M,train
-22,train/MARYLAND/001.jpg,DVF 971,train
-22,train/MARYLAND/002.jpg,PKC 735,train
-22,train/MARYLAND/003.jpg,57 949,train
-22,train/MARYLAND/004.jpg,340 341,train
-22,train/MARYLAND/005.jpg,319 302,train
-22,train/MARYLAND/006.jpg,HFL 141,train
-22,train/MARYLAND/007.jpg,HC 10 01,train
-22,train/MARYLAND/008.jpg,CB 60 76,train
-22,train/MARYLAND/009.jpg,DW 7498,train
-22,train/MARYLAND/010.jpg,8CT5704,train
-23,train/MASSACHUSETTS/001.jpg,93M X43 ,train
-23,train/MASSACHUSETTS/002.jpg,4CXK 60,train
-23,train/MASSACHUSETTS/003.jpg,7LC 954,train
-23,train/MASSACHUSETTS/004.jpg,82E J77,train
-23,train/MASSACHUSETTS/005.jpg,839 ATH,train
-23,train/MASSACHUSETTS/006.jpg,7KD 482,train
-23,train/MASSACHUSETTS/007.jpg,8BX 731,train
-23,train/MASSACHUSETTS/008.jpg,762 MB3,train
-23,train/MASSACHUSETTS/009.jpg,4JL 839,train
-23,train/MASSACHUSETTS/010.jpg,125 TG5,train
-24,train/MICHIGAN/001.jpg,9CDC5,train
-24,train/MICHIGAN/002.jpg,907 535,train
-24,train/MICHIGAN/003.jpg,PP 6409,train
-24,train/MICHIGAN/004.jpg,REP 082,train
-24,train/MICHIGAN/005.jpg,NFM 392,train
-24,train/MICHIGAN/006.jpg,PFN 432,train
-24,train/MICHIGAN/007.jpg,YK 1263,train
-24,train/MICHIGAN/008.jpg,BRF 452,train
-24,train/MICHIGAN/009.jpg,BAC 4321,train
-24,train/MICHIGAN/010.jpg,SJ 0400,train
-25,train/MINNESOTA/001.jpg,998 AXW,train
-25,train/MINNESOTA/002.jpg,803 REK,train
-25,train/MINNESOTA/003.jpg,509 JDG,train
-25,train/MINNESOTA/004.jpg,097 RMT,train
-25,train/MINNESOTA/005.jpg,115 JCV,train
-25,train/MINNESOTA/006.jpg,347 XUL,train
-25,train/MINNESOTA/007.jpg,256 FMK,train
-25,train/MINNESOTA/008.jpg,583 WLP,train
-25,train/MINNESOTA/009.jpg,LM5746,train
-25,train/MINNESOTA/010.jpg,385 AWZ,train
-26,train/MISSIPPI/001.jpg,2 8419,train
-26,train/MISSIPPI/002.jpg,32J58,train
-26,train/MISSIPPI/003.jpg,703 BLC,train
-26,train/MISSIPPI/004.jpg,KM4 335,train
-26,train/MISSIPPI/005.jpg,H 42498,train
-26,train/MISSIPPI/006.jpg,LA2 1558,train
-26,train/MISSIPPI/007.jpg,HFB 976,train
-26,train/MISSIPPI/008.jpg,HNB 7498,train
-26,train/MISSIPPI/009.jpg,KAA 125,train
-26,train/MISSIPPI/010.jpg,162 016,train
-27,train/MISSOURI/001.jpg,ZCM 381,train
-27,train/MISSOURI/002.jpg,S9M 988,train
-27,train/MISSOURI/003.jpg,055 BCG,train
-27,train/MISSOURI/004.jpg,619 SFT,train
-27,train/MISSOURI/005.jpg,4FV 301,train
-27,train/MISSOURI/006.jpg,7MT 309,train
-27,train/MISSOURI/007.jpg,7AA 51W,train
-27,train/MISSOURI/008.jpg,KM1 KOW,train
-27,train/MISSOURI/009.jpg,768 FFG,train
-27,train/MISSOURI/010.jpg,Z8A 446,train
-28,train/MONTANA/001.jpg,406842,train
-28,train/MONTANA/002.jpg,VGF,train
-28,train/MONTANA/003.jpg,AJJ 950,train
-28,train/MONTANA/004.jpg,A16016,train
-28,train/MONTANA/005.jpg,BYM615,train
-28,train/MONTANA/006.jpg,ACQ 256,train
-28,train/MONTANA/007.jpg,BHW623,train
-28,train/MONTANA/008.jpg,BLC079,train
-28,train/MONTANA/009.jpg,6 A91624,train
-28,train/MONTANA/010.jpg,MHP325,train
-29,train/NEBRASKA/001.jpg,21 F33O,train
-29,train/NEBRASKA/002.jpg,26 A97O,train
-29,train/NEBRASKA/003.jpg,57 A445,train
-29,train/NEBRASKA/004.jpg,48 B891,train
-29,train/NEBRASKA/005.jpg,21 G899,train
-29,train/NEBRASKA/006.jpg,32 B843,train
-29,train/NEBRASKA/007.jpg,D7557,train
-29,train/NEBRASKA/008.jpg,TVG 988,train
-29,train/NEBRASKA/009.jpg,18 P53,train
-29,train/NEBRASKA/010.jpg,NAA OOO,train
-30,train/NEVADA/001.jpg,2661,train
-30,train/NEVADA/002.jpg,552 AO5,train
-30,train/NEVADA/003.jpg,485 TUV,train
-30,train/NEVADA/004.jpg,OO5 PBA,train
-30,train/NEVADA/005.jpg,474 XDR,train
-30,train/NEVADA/006.jpg,13 112,train
-30,train/NEVADA/007.jpg,C50398,train
-30,train/NEVADA/008.jpg,447J,train
-30,train/NEVADA/009.jpg,B16 GBS,train
-30,train/NEVADA/010.jpg,681 VRX,train
-31,train/NEW HAMPSHIRE/001.jpg,784O,train
-31,train/NEW HAMPSHIRE/002.jpg,285 4404,train
-31,train/NEW HAMPSHIRE/003.jpg,403 8131,train
-31,train/NEW HAMPSHIRE/004.jpg,RT952,train
-31,train/NEW HAMPSHIRE/005.jpg,FX152,train
-31,train/NEW HAMPSHIRE/006.jpg,C SHLL,train
-31,train/NEW HAMPSHIRE/007.jpg,MM595,train
-31,train/NEW HAMPSHIRE/008.jpg,740579,train
-31,train/NEW HAMPSHIRE/009.jpg,18974,train
-31,train/NEW HAMPSHIRE/010.jpg,2O 885,train
-32,train/NEW JERSEY/001.jpg,MG 787Z,train
-32,train/NEW JERSEY/002.jpg,PN 302H,train
-32,train/NEW JERSEY/003.jpg,F92 PEE,train
-32,train/NEW JERSEY/004.jpg,BDY 63R,train
-32,train/NEW JERSEY/005.jpg,M37 EDS,train
-32,train/NEW JERSEY/006.jpg,E33 LAD,train
-32,train/NEW JERSEY/007.jpg,J70 EDB,train
-32,train/NEW JERSEY/008.jpg,VMW 980,train
-32,train/NEW JERSEY/009.jpg,YZF 16X,train
-32,train/NEW JERSEY/010.jpg,GOIN 2BED,train
-33,train/NEW MEXICO/001.jpg,487 SPH,train
-33,train/NEW MEXICO/002.jpg,HYL126,train
-33,train/NEW MEXICO/003.jpg,JL 3342,train
-33,train/NEW MEXICO/004.jpg,443 SCD,train
-33,train/NEW MEXICO/005.jpg,1 10453 ,train
-33,train/NEW MEXICO/006.jpg,NM 1912,train
-33,train/NEW MEXICO/007.jpg,MZG 497,train
-33,train/NEW MEXICO/008.jpg,JLT010,train
-33,train/NEW MEXICO/009.jpg,AVA 282,train
-33,train/NEW MEXICO/010.jpg,64 581,train
-34,train/NEW YORK/001.jpg,CPY 6755,train
-34,train/NEW YORK/002.jpg,259 QRH,train
-34,train/NEW YORK/003.jpg,SR67 24,train
-34,train/NEW YORK/004.jpg,9874 BKN,train
-34,train/NEW YORK/005.jpg,R 25342,train
-34,train/NEW YORK/006.jpg,UAD 871,train
-34,train/NEW YORK/007.jpg,893 957,train
-34,train/NEW YORK/008.jpg,RDT 996,train
-34,train/NEW YORK/009.jpg,BML 1036,train
-34,train/NEW YORK/010.jpg,BD1 95N,train
-35,train/NORTH CAROLINA/001.jpg,RHW 273,train
-35,train/NORTH CAROLINA/002.jpg,RB 1152,train
-35,train/NORTH CAROLINA/003.jpg,KF 8514,train
-35,train/NORTH CAROLINA/004.jpg,DU 7736,train
-35,train/NORTH CAROLINA/005.jpg,59125,train
-35,train/NORTH CAROLINA/006.jpg,BX 68881,train
-35,train/NORTH CAROLINA/007.jpg,ETA 585,train
-35,train/NORTH CAROLINA/008.jpg,FB CIBT,train
-35,train/NORTH CAROLINA/009.jpg,AF 3611,train
-35,train/NORTH CAROLINA/010.jpg,A 21947,train
-36,train/NORTH DAKOTA/001.jpg,45674,train
-36,train/NORTH DAKOTA/002.jpg,231 030,train
-36,train/NORTH DAKOTA/003.jpg,3500,train
-36,train/NORTH DAKOTA/004.jpg,5234,train
-36,train/NORTH DAKOTA/005.jpg,FJ316,train
-36,train/NORTH DAKOTA/006.jpg,TJT124,train
-36,train/NORTH DAKOTA/007.jpg,80 937,train
-36,train/NORTH DAKOTA/008.jpg,220 077,train
-36,train/NORTH DAKOTA/009.jpg,958 ADB,train
-36,train/NORTH DAKOTA/010.jpg,T47 619,train
-37,train/OHIO/001.jpg,290 CP,train
-37,train/OHIO/002.jpg,22 HF,train
-37,train/OHIO/003.jpg,3617LZ,train
-37,train/OHIO/004.jpg,PR 113,train
-37,train/OHIO/005.jpg,3026 DD,train
-37,train/OHIO/006.jpg,7145,train
-37,train/OHIO/007.jpg,9889F1,train
-37,train/OHIO/008.jpg,480396,train
-37,train/OHIO/009.jpg,AP4143,train
-37,train/OHIO/010.jpg,675 543,train
-38,train/OKLAHOMA/001.jpg,EGJ 397,train
-38,train/OKLAHOMA/002.jpg,HP 1996,train
-38,train/OKLAHOMA/003.jpg,944 6BU,train
-38,train/OKLAHOMA/004.jpg,DJT 2020,train
-38,train/OKLAHOMA/005.jpg,OWG 397,train
-38,train/OKLAHOMA/006.jpg,028 46V,train
-38,train/OKLAHOMA/007.jpg,FF5833,train
-38,train/OKLAHOMA/008.jpg,90992,train
-38,train/OKLAHOMA/009.jpg,QUT 530,train
-38,train/OKLAHOMA/010.jpg,PE 995,train
-39,train/OREGON/001.jpg,9Q 2361,train
-39,train/OREGON/002.jpg,78,train
-39,train/OREGON/003.jpg,920132,train
-39,train/OREGON/004.jpg,52366,train
-39,train/OREGON/005.jpg,1X 20651,train
-39,train/OREGON/006.jpg,0R 1859,train
-39,train/OREGON/007.jpg,0,train
-39,train/OREGON/008.jpg,59 204,train
-39,train/OREGON/009.jpg,CSX 432,train
-39,train/OREGON/010.jpg,16045,train
-40,train/PENNSYLVANIA/001.jpg,TXP 973,train
-40,train/PENNSYLVANIA/002.jpg,7755,train
-40,train/PENNSYLVANIA/003.jpg,6376,train
-40,train/PENNSYLVANIA/004.jpg,8157,train
-40,train/PENNSYLVANIA/005.jpg,DJE 7001,train
-40,train/PENNSYLVANIA/006.jpg,NCF 484,train
-40,train/PENNSYLVANIA/007.jpg,1ZD97,train
-40,train/PENNSYLVANIA/008.jpg,D97 950,train
-40,train/PENNSYLVANIA/009.jpg,HJJ 5630,train
-40,train/PENNSYLVANIA/010.jpg,KUM 0269,train
-41,train/PUERTO RICO/001.jpg,FIG 936,train
-41,train/PUERTO RICO/002.jpg,38 397,train
-41,train/PUERTO RICO/003.jpg,363 977,train
-41,train/PUERTO RICO/004.jpg,38 397,train
-41,train/PUERTO RICO/005.jpg,HIR 415,train
-41,train/PUERTO RICO/006.jpg,20 064,train
-41,train/PUERTO RICO/007.jpg,AMY 751,train
-41,train/PUERTO RICO/008.jpg,121 848,train
-41,train/PUERTO RICO/009.jpg,GKG 001,train
-41,train/PUERTO RICO/010.jpg,IJG 896,train
-42,train/RHODE ISLAND/001.jpg,H 905,train
-42,train/RHODE ISLAND/002.jpg,4858,train
-42,train/RHODE ISLAND/003.jpg,RI DMV,train
-42,train/RHODE ISLAND/004.jpg,13069,train
-42,train/RHODE ISLAND/005.jpg,309 650,train
-42,train/RHODE ISLAND/006.jpg,1AD 874,train
-42,train/RHODE ISLAND/007.jpg,Y0 65,train
-42,train/RHODE ISLAND/008.jpg,1AI 338,train
-42,train/RHODE ISLAND/009.jpg,XR 361,train
-42,train/RHODE ISLAND/010.jpg,8139,train
-43,train/SOUTH CAROLINA/001.jpg,EP 6969,train
-43,train/SOUTH CAROLINA/002.jpg,D 209 93,train
-43,train/SOUTH CAROLINA/003.jpg,SM 1443,train
-43,train/SOUTH CAROLINA/004.jpg,P 3016,train
-43,train/SOUTH CAROLINA/005.jpg,WX15869,train
-43,train/SOUTH CAROLINA/006.jpg,JWA 772,train
-43,train/SOUTH CAROLINA/007.jpg,PBU 221,train
-43,train/SOUTH CAROLINA/008.jpg,E111068,train
-43,train/SOUTH CAROLINA/009.jpg,TL71932,train
-43,train/SOUTH CAROLINA/010.jpg,357 108,train
-44,train/SOUTH DAKOTA/001.jpg,67X 891,train
-44,train/SOUTH DAKOTA/002.jpg,3 2709,train
-44,train/SOUTH DAKOTA/003.jpg,31D 997,train
-44,train/SOUTH DAKOTA/004.jpg,65 1175,train
-44,train/SOUTH DAKOTA/005.jpg,29 Z542,train
-44,train/SOUTH DAKOTA/006.jpg,SN 2601,train
-44,train/SOUTH DAKOTA/007.jpg,2H 3874,train
-44,train/SOUTH DAKOTA/008.jpg,13 3740,train
-44,train/SOUTH DAKOTA/009.jpg,969,train
-44,train/SOUTH DAKOTA/010.jpg,65F 274,train
-45,train/TENNESSEE/001.jpg,CLF 831,train
-45,train/TENNESSEE/002.jpg,H07 61R,train
-45,train/TENNESSEE/003.jpg,419 FKJ,train
-45,train/TENNESSEE/004.jpg,987 ZWM,train
-45,train/TENNESSEE/005.jpg,394 VMW,train
-45,train/TENNESSEE/006.jpg,5967,train
-45,train/TENNESSEE/007.jpg,F93 85G,train
-45,train/TENNESSEE/008.jpg,52M03,train
-45,train/TENNESSEE/009.jpg,8596,train
-45,train/TENNESSEE/010.jpg,3361,train
-46,train/TEXAS/001.jpg,AU 6060,train
-46,train/TEXAS/002.jpg,B96 TYD,train
-46,train/TEXAS/003.jpg,AP 3323,train
-46,train/TEXAS/004.jpg,FST 453,train
-46,train/TEXAS/005.jpg,MX 9107,train
-46,train/TEXAS/006.jpg,1H 7679,train
-46,train/TEXAS/007.jpg,NGD 551,train
-46,train/TEXAS/008.jpg,TV2 341,train
-46,train/TEXAS/009.jpg,JR 1928,train
-46,train/TEXAS/010.jpg,DML 511,train
-47,train/U S VIRGIN ISLANDS/001.jpg,TEW 877,train
-47,train/U S VIRGIN ISLANDS/002.jpg,PRO 11 4,train
-47,train/U S VIRGIN ISLANDS/003.jpg,1711,train
-47,train/U S VIRGIN ISLANDS/004.jpg,TCR 047,train
-47,train/U S VIRGIN ISLANDS/005.jpg,T 24967,train
-47,train/U S VIRGIN ISLANDS/006.jpg,C 42173,train
-47,train/U S VIRGIN ISLANDS/007.jpg,PD 381,train
-47,train/U S VIRGIN ISLANDS/008.jpg,PHA50,train
-47,train/U S VIRGIN ISLANDS/009.jpg,TDK 694,train
-47,train/U S VIRGIN ISLANDS/010.jpg,MUP 21,train
-48,train/UTAH/001.jpg,214 HYS,train
-48,train/UTAH/002.jpg,165 FPB,train
-48,train/UTAH/003.jpg,B52 1PZ,train
-48,train/UTAH/004.jpg,B91 5AK,train
-48,train/UTAH/005.jpg,B97 1NW,train
-48,train/UTAH/006.jpg,3368U,train
-48,train/UTAH/007.jpg,Y68 4FF,train
-48,train/UTAH/008.jpg,X19 1UN,train
-48,train/UTAH/009.jpg,425 DTP,train
-48,train/UTAH/010.jpg,038 YKA,train
-49,train/VERMONT/001.jpg,20604,train
-49,train/VERMONT/002.jpg,12906,train
-49,train/VERMONT/003.jpg,HAV FUN,train
-49,train/VERMONT/004.jpg,DPE 188,train
-49,train/VERMONT/005.jpg,EH686,train
-49,train/VERMONT/006.jpg,2 678,train
-49,train/VERMONT/007.jpg,JRS 375,train
-49,train/VERMONT/008.jpg,87718,train
-49,train/VERMONT/009.jpg,367F3,train
-49,train/VERMONT/010.jpg,SDS 216,train
-50,train/VIRGINIA/001.jpg,32474,train
-50,train/VIRGINIA/002.jpg,NH 2816,train
-50,train/VIRGINIA/003.jpg,A259 257,train
-50,train/VIRGINIA/004.jpg,WVL 1840,train
-50,train/VIRGINIA/005.jpg,KMA 6179,train
-50,train/VIRGINIA/006.jpg,WNK 7895,train
-50,train/VIRGINIA/007.jpg,MY CHOIZ,train
-50,train/VIRGINIA/008.jpg,MUJ 429,train
-50,train/VIRGINIA/009.jpg,TH10 067,train
-50,train/VIRGINIA/010.jpg,207 594,train
-51,train/WASHINGTON/001.jpg,A 2719,train
-51,train/WASHINGTON/002.jpg,187 482,train
-51,train/WASHINGTON/003.jpg,78 860,train
-51,train/WASHINGTON/004.jpg,SJ 1311,train
-51,train/WASHINGTON/005.jpg,484 YMV,train
-51,train/WASHINGTON/006.jpg,51576,train
-51,train/WASHINGTON/007.jpg,AIK2767,train
-51,train/WASHINGTON/008.jpg,AET1809,train
-51,train/WASHINGTON/009.jpg,ASF0511,train
-51,train/WASHINGTON/010.jpg,OL GULP,train
-52,train/WASHINGTON DC/001.jpg,EZ 5169,train
-52,train/WASHINGTON DC/002.jpg,2 6273,train
-52,train/WASHINGTON DC/003.jpg,ZA 123,train
-52,train/WASHINGTON DC/004.jpg,393 516,train
-52,train/WASHINGTON DC/005.jpg,BR 1932,train
-52,train/WASHINGTON DC/006.jpg,796 407,train
-52,train/WASHINGTON DC/007.jpg,435 236,train
-52,train/WASHINGTON DC/008.jpg,LB 091,train
-52,train/WASHINGTON DC/009.jpg,C 63155,train
-52,train/WASHINGTON DC/010.jpg,M2907,train
-53,train/WEST VIRGINIA/001.jpg,02E 466,train
-53,train/WEST VIRGINIA/002.jpg,B 30809,train
-53,train/WEST VIRGINIA/003.jpg,229 295,train
-53,train/WEST VIRGINIA/004.jpg,528 059,train
-53,train/WEST VIRGINIA/005.jpg,OJF 330,train
-53,train/WEST VIRGINIA/006.jpg,SCENIC,train
-53,train/WEST VIRGINIA/007.jpg,D1Y 420,train
-53,train/WEST VIRGINIA/008.jpg,125 885,train
-53,train/WEST VIRGINIA/009.jpg,493 324,train
-53,train/WEST VIRGINIA/010.jpg,150 994,train
-54,train/WISCONSIN/001.jpg,135 404,train
-54,train/WISCONSIN/002.jpg,L75 411,train
-54,train/WISCONSIN/003.jpg,315 NKX,train
-54,train/WISCONSIN/004.jpg,UW MSN,train
-54,train/WISCONSIN/005.jpg,186194,train
-54,train/WISCONSIN/006.jpg,C89 023,train
-54,train/WISCONSIN/007.jpg,1535,train
-54,train/WISCONSIN/008.jpg,AJ3558,train
-54,train/WISCONSIN/009.jpg,EC 3199,train
-54,train/WISCONSIN/010.jpg,PAM 221,train
-55,train/WYOMING/001.jpg,22 43533,train
-55,train/WYOMING/002.jpg,1 21 K,train
-55,train/WYOMING/003.jpg,1 3ERN,train
-55,train/WYOMING/004.jpg,1 89HC,train
-55,train/WYOMING/005.jpg,7 15852,train
-55,train/WYOMING/006.jpg,17 47226,train
-55,train/WYOMING/007.jpg,2 77SZ,train
-55,train/WYOMING/008.jpg,4 57,train
-55,train/WYOMING/009.jpg,11 2467,train
-55,train/WYOMING/010.jpg,1 36640,train
-0,test/ALABAMA/1.jpg,52H71B7,test
-0,test/ALABAMA/2.jpg,HDD417,test
-0,test/ALABAMA/3.jpg,2B94G76,test
-0,test/ALABAMA/4.jpg,46BK659,test
-0,test/ALABAMA/5.jpg,3AJ4854,test
-1,test/ALASKA/1.jpg,B3899,test
-1,test/ALASKA/2.jpg,AJ332,test
-1,test/ALASKA/3.jpg,3934CN,test
-1,test/ALASKA/4.jpg,5181PP,test
-1,test/ALASKA/5.jpg,SEWARD,test
-2,test/AMERICAN SAMOA/1.jpg,CP 142,test
-2,test/AMERICAN SAMOA/2.jpg,2610,test
-2,test/AMERICAN SAMOA/3.jpg,5111,test
-2,test/AMERICAN SAMOA/4.jpg,815E,test
-2,test/AMERICAN SAMOA/5.jpg,T112,test
-3,test/ARIZONA/1.jpg,EY 4571,test
-3,test/ARIZONA/2.jpg,HV59,test
-3,test/ARIZONA/3.jpg,CGT 882,test
-3,test/ARIZONA/4.jpg,JJZ 259,test
-3,test/ARIZONA/5.jpg,EX 7703,test
-4,test/ARKANSAS/1.jpg,706 BSZ,test
-4,test/ARKANSAS/2.jpg,45 328,test
-4,test/ARKANSAS/3.jpg,748 PDW,test
-4,test/ARKANSAS/4.jpg,836 KZT,test
-4,test/ARKANSAS/5.jpg,SHTUPP,test
-5,test/CALIFORNIA/1.jpg,1UAZ858,test
-5,test/CALIFORNIA/2.jpg,MM,test
-5,test/CALIFORNIA/3.jpg,F3298,test
-5,test/CALIFORNIA/4.jpg,8W17097,test
-5,test/CALIFORNIA/5.jpg,6N2577,test
-6,test/CNMI/1.jpg,666,test
-6,test/CNMI/2.jpg,ABH 259,test
-6,test/CNMI/3.jpg,ADK 563,test
-6,test/CNMI/4.jpg,ABZ 003,test
-6,test/CNMI/5.jpg,ACN 263,test
-7,test/COLORADO/1.jpg,A1F4591,test
-7,test/COLORADO/2.jpg,268 ZJT,test
-7,test/COLORADO/3.jpg,45OVO2,test
-7,test/COLORADO/4.jpg,088 YWE,test
-7,test/COLORADO/5.jpg,6 3660,test
-8,test/CONNECTICUT/1.jpg,11A89,test
-8,test/CONNECTICUT/2.jpg,VF 319,test
-8,test/CONNECTICUT/3.jpg,192 BKA,test
-8,test/CONNECTICUT/4.jpg,N 503,test
-8,test/CONNECTICUT/5.jpg,319 HGN,test
-9,test/DELAWARE/1.jpg,89,test
-9,test/DELAWARE/2.jpg,HV0000,test
-9,test/DELAWARE/3.jpg,C100419,test
-9,test/DELAWARE/4.jpg,NA0000,test
-9,test/DELAWARE/5.jpg,71 731,test
-10,test/FLORIDA/1.jpg,IYT E32,test
-10,test/FLORIDA/2.jpg,FEY 717,test
-10,test/FLORIDA/3.jpg,64WW2412,test
-10,test/FLORIDA/4.jpg,10 185,test
-10,test/FLORIDA/5.jpg,WRST LNG,test
-11,test/GEORGIA/1.jpg,4 D 4455,test
-11,test/GEORGIA/2.jpg,6 D 4939,test
-11,test/GEORGIA/3.jpg,6 J 3876,test
-11,test/GEORGIA/4.jpg,C 55919,test
-11,test/GEORGIA/5.jpg,CBD3530,test
-12,test/GUAM/1.jpg,65995,test
-12,test/GUAM/2.jpg,10780,test
-12,test/GUAM/3.jpg,CP 3900,test
-12,test/GUAM/4.jpg,MAI 63,test
-12,test/GUAM/5.jpg,T 776,test
-13,test/HAWAI/1.jpg,9E 2334,test
-13,test/HAWAI/2.jpg,HI G8R,test
-13,test/HAWAI/3.jpg,1F 3804,test
-13,test/HAWAI/4.jpg,HLY 148,test
-13,test/HAWAI/5.jpg,BXP 334,test
-14,test/IDAHO/1.jpg,1045,test
-14,test/IDAHO/2.jpg,1477,test
-14,test/IDAHO/3.jpg,956,test
-14,test/IDAHO/4.jpg,1400,test
-14,test/IDAHO/5.jpg,4615,test
-15,test/ILLINOIS/1.jpg,XTREMR1,test
-15,test/ILLINOIS/2.jpg,J149895,test
-15,test/ILLINOIS/3.jpg,5150,test
-15,test/ILLINOIS/4.jpg,66083,test
-15,test/ILLINOIS/5.jpg,282662,test
-16,test/INDIANA/1.jpg,55 9893,test
-16,test/INDIANA/2.jpg,89 4218,test
-16,test/INDIANA/3.jpg,1316,test
-16,test/INDIANA/4.jpg,MM2622,test
-16,test/INDIANA/5.jpg,49 9970,test
-17,test/IOWA/1.jpg,PDC260,test
-17,test/IOWA/2.jpg,BFR135,test
-17,test/IOWA/3.jpg,379XND,test
-17,test/IOWA/4.jpg,ADY626,test
-17,test/IOWA/5.jpg,CFH727,test
-18,test/KANSAS/1.jpg,NAF611,test
-18,test/KANSAS/2.jpg,KSUCATS,test
-18,test/KANSAS/3.jpg,463MXX,test
-18,test/KANSAS/4.jpg,626LRP,test
-18,test/KANSAS/5.jpg,XPQ580,test
-19,test/KENTUCKY/1.jpg,EXJ 526,test
-19,test/KENTUCKY/2.jpg,RMR 337,test
-19,test/KENTUCKY/3.jpg,12 170,test
-19,test/KENTUCKY/4.jpg,476 FFX,test
-19,test/KENTUCKY/5.jpg,649 TZK,test
-20,test/LOUISIANA/1.jpg,VYN919,test
-20,test/LOUISIANA/2.jpg,30A792,test
-20,test/LOUISIANA/3.jpg,495 486,test
-20,test/LOUISIANA/4.jpg,194 910,test
-20,test/LOUISIANA/5.jpg,179147,test
-21,test/MAINE/1.jpg,90917A,test
-21,test/MAINE/2.jpg,G69175,test
-21,test/MAINE/3.jpg,A259939,test
-21,test/MAINE/4.jpg,263 567,test
-21,test/MAINE/5.jpg,65135L,test
-22,test/MARYLAND/1.jpg,HD 92 06,test
-22,test/MARYLAND/2.jpg,FH 63 12,test
-22,test/MARYLAND/3.jpg,604 597,test
-22,test/MARYLAND/4.jpg,FJ 28 96,test
-22,test/MARYLAND/5.jpg,DB 38 01,test
-23,test/MASSACHUSETTS/1.jpg,816,test
-23,test/MASSACHUSETTS/2.jpg,1680,test
-23,test/MASSACHUSETTS/3.jpg,782 184,test
-23,test/MASSACHUSETTS/4.jpg,478CS7,test
-23,test/MASSACHUSETTS/5.jpg,332 689,test
-24,test/MICHIGAN/1.jpg,DNJ0955,test
-24,test/MICHIGAN/2.jpg,DZV2829,test
-24,test/MICHIGAN/3.jpg,978891,test
-24,test/MICHIGAN/4.jpg,4LU JO6,test
-24,test/MICHIGAN/5.jpg,NCW598,test
-25,test/MINNESOTA/1.jpg,KH4681,test
-25,test/MINNESOTA/2.jpg,206 KCT,test
-25,test/MINNESOTA/3.jpg,CYBRTRK,test
-25,test/MINNESOTA/4.jpg,033 GND,test
-25,test/MINNESOTA/5.jpg,KH1686,test
-26,test/MISSIPPI/1.jpg,LB9 032,test
-26,test/MISSIPPI/2.jpg,78918P,test
-26,test/MISSIPPI/3.jpg,843 FTL,test
-26,test/MISSIPPI/4.jpg,B9449P,test
-26,test/MISSIPPI/5.jpg,LAG 534,test
-27,test/MISSOURI/1.jpg,5CS 23E,test
-27,test/MISSOURI/2.jpg,GT5 200,test
-27,test/MISSOURI/3.jpg,599PWA,test
-27,test/MISSOURI/4.jpg,414 TBR,test
-27,test/MISSOURI/5.jpg,7PN 063,test
-28,test/MONTANA/1.jpg,3 40403,test
-28,test/MONTANA/2.jpg,HOOKUMM,test
-28,test/MONTANA/3.jpg,4 A99820,test
-28,test/MONTANA/4.jpg,17 T772,test
-28,test/MONTANA/5.jpg,T4580,test
-29,test/NEBRASKA/1.jpg,2 F4360,test
-29,test/NEBRASKA/2.jpg,37 E545,test
-29,test/NEBRASKA/3.jpg,VJW788,test
-29,test/NEBRASKA/4.jpg,TCJ376,test
-29,test/NEBRASKA/5.jpg,5 A8258,test
-30,test/NEVADA/1.jpg,4245,test
-30,test/NEVADA/2.jpg,0,test
-30,test/NEVADA/3.jpg,LT15203,test
-30,test/NEVADA/4.jpg,877 KLV,test
-30,test/NEVADA/5.jpg,24 091,test
-31,test/NEW HAMPSHIRE/1.jpg,327 2153,test
-31,test/NEW HAMPSHIRE/2.jpg,670,test
-31,test/NEW HAMPSHIRE/3.jpg,380,test
-31,test/NEW HAMPSHIRE/4.jpg,16036,test
-31,test/NEW HAMPSHIRE/5.jpg,7167,test
-32,test/NEW JERSEY/1.jpg,YU 710D,test
-32,test/NEW JERSEY/2.jpg,9490,test
-32,test/NEW JERSEY/3.jpg,P72 BAF,test
-32,test/NEW JERSEY/4.jpg,U59 JSB,test
-32,test/NEW JERSEY/5.jpg,C90 ELE,test
-33,test/NEW MEXICO/1.jpg,AAAAA00,test
-33,test/NEW MEXICO/2.jpg,1465,test
-33,test/NEW MEXICO/3.jpg,1209,test
-33,test/NEW MEXICO/4.jpg,11 3227,test
-33,test/NEW MEXICO/5.jpg,PBT 224,test
-34,test/NEW YORK/1.jpg,4E 7841,test
-34,test/NEW YORK/2.jpg,11183 BB,test
-34,test/NEW YORK/3.jpg,EPW 3573,test
-34,test/NEW YORK/4.jpg,HCW 755,test
-34,test/NEW YORK/5.jpg,CHT 9032,test
-35,test/NORTH CAROLINA/1.jpg,73O5 KJ,test
-35,test/NORTH CAROLINA/2.jpg,PFT 7753,test
-35,test/NORTH CAROLINA/3.jpg,35235,test
-35,test/NORTH CAROLINA/4.jpg,J6242,test
-35,test/NORTH CAROLINA/5.jpg,FME 1234,test
-36,test/NORTH DAKOTA/1.jpg,586ALM,test
-36,test/NORTH DAKOTA/2.jpg,74 810,test
-36,test/NORTH DAKOTA/3.jpg,74 810,test
-36,test/NORTH DAKOTA/4.jpg,12 891,test
-36,test/NORTH DAKOTA/5.jpg,BN813,test
-37,test/OHIO/1.jpg,EN57LB,test
-37,test/OHIO/2.jpg,S 66 F,test
-37,test/OHIO/3.jpg,8883 P,test
-37,test/OHIO/4.jpg,8883 P,test
-37,test/OHIO/5.jpg,S 66 F,test
-38,test/OKLAHOMA/1.jpg,53355,test
-38,test/OKLAHOMA/2.jpg,C3N 50R,test
-38,test/OKLAHOMA/3.jpg,CX 3159,test
-38,test/OKLAHOMA/4.jpg,764DBW,test
-38,test/OKLAHOMA/5.jpg,KDO 567,test
-39,test/OREGON/1.jpg,484136,test
-39,test/OREGON/2.jpg,12572,test
-39,test/OREGON/3.jpg,E229752,test
-39,test/OREGON/4.jpg,E243210,test
-39,test/OREGON/5.jpg,YCTB000,test
-40,test/PENNSYLVANIA/1.jpg,EL0H55A,test
-40,test/PENNSYLVANIA/2.jpg,2158S,test
-40,test/PENNSYLVANIA/3.jpg,191 5OJ,test
-40,test/PENNSYLVANIA/4.jpg,VJ156,test
-40,test/PENNSYLVANIA/5.jpg,UK653,test
-41,test/PUERTO RICO/1.jpg,811 962,test
-41,test/PUERTO RICO/2.jpg,0089TT,test
-41,test/PUERTO RICO/3.jpg,AHT 3O8,test
-41,test/PUERTO RICO/4.jpg,1,test
-41,test/PUERTO RICO/5.jpg,502 204,test
-42,test/RHODE ISLAND/1.jpg,CE 19,test
-42,test/RHODE ISLAND/2.jpg,KS 693,test
-42,test/RHODE ISLAND/3.jpg,160,test
-42,test/RHODE ISLAND/4.jpg,97 937,test
-42,test/RHODE ISLAND/5.jpg,WK101,test
-43,test/SOUTH CAROLINA/1.jpg,MG 1 538,test
-43,test/SOUTH CAROLINA/2.jpg,D137725,test
-43,test/SOUTH CAROLINA/3.jpg,SG13993,test
-43,test/SOUTH CAROLINA/4.jpg,D198493,test
-43,test/SOUTH CAROLINA/5.jpg,E287200,test
-44,test/SOUTH DAKOTA/1.jpg,2 16537,test
-44,test/SOUTH DAKOTA/2.jpg,10A 123,test
-44,test/SOUTH DAKOTA/3.jpg,40 2119,test
-44,test/SOUTH DAKOTA/4.jpg,49C9814,test
-44,test/SOUTH DAKOTA/5.jpg,7 4892,test
-45,test/TENNESSEE/1.jpg,2 R4D95,test
-45,test/TENNESSEE/2.jpg,A21 64D,test
-45,test/TENNESSEE/3.jpg,BCC 0420,test
-45,test/TENNESSEE/4.jpg,SDJ 201,test
-45,test/TENNESSEE/5.jpg,615,test
-46,test/TEXAS/1.jpg,FRR 22N,test
-46,test/TEXAS/2.jpg,B01BB,test
-46,test/TEXAS/3.jpg,UCV 540,test
-46,test/TEXAS/4.jpg,032 KKL,test
-46,test/TEXAS/5.jpg,HB 973,test
-47,test/U S VIRGIN ISLANDS/1.jpg,033 CHP,test
-47,test/U S VIRGIN ISLANDS/2.jpg,TEP 010,test
-47,test/U S VIRGIN ISLANDS/3.jpg,T 11295,test
-47,test/U S VIRGIN ISLANDS/4.jpg,C 4315,test
-47,test/U S VIRGIN ISLANDS/5.jpg,P&NR 35,test
-48,test/UTAH/1.jpg,E093RG,test
-48,test/UTAH/2.jpg,V576AE,test
-48,test/UTAH/3.jpg,X7870,test
-48,test/UTAH/4.jpg,AD4165,test
-48,test/UTAH/5.jpg,U272LV,test
-49,test/VERMONT/1.jpg,31 907,test
-49,test/VERMONT/2.jpg,17679,test
-49,test/VERMONT/3.jpg,49299,test
-49,test/VERMONT/4.jpg,8658,test
-49,test/VERMONT/5.jpg,44849,test
-50,test/VIRGINIA/1.jpg,RYW 115,test
-50,test/VIRGINIA/2.jpg,DADX9,test
-50,test/VIRGINIA/3.jpg,632 987,test
-50,test/VIRGINIA/4.jpg,VEGANAF,test
-50,test/VIRGINIA/5.jpg,FZM 587,test
-51,test/WASHINGTON/1.jpg,1D3189,test
-51,test/WASHINGTON/2.jpg,3341,test
-51,test/WASHINGTON/3.jpg,D206 47,test
-51,test/WASHINGTON/4.jpg,039 ABS,test
-51,test/WASHINGTON/5.jpg,528 ZEP,test
-52,test/WASHINGTON DC/1.jpg,101,test
-52,test/WASHINGTON DC/2.jpg,111,test
-52,test/WASHINGTON DC/3.jpg,K37 681,test
-52,test/WASHINGTON DC/4.jpg,DLR 04121,test
-52,test/WASHINGTON DC/5.jpg,DZ 1555,test
-53,test/WEST VIRGINIA/1.jpg,17 105,test
-53,test/WEST VIRGINIA/2.jpg,B81 994,test
-53,test/WEST VIRGINIA/3.jpg,388 911,test
-53,test/WEST VIRGINIA/4.jpg,6 994,test
-53,test/WEST VIRGINIA/5.jpg,8B 2282,test
-54,test/WISCONSIN/1.jpg,AX783T,test
-54,test/WISCONSIN/2.jpg,BKSIN6,test
-54,test/WISCONSIN/3.jpg,130 459,test
-54,test/WISCONSIN/4.jpg,439 RNY,test
-54,test/WISCONSIN/5.jpg,0PE,test
-55,test/WYOMING/1.jpg,8 7157,test
-55,test/WYOMING/2.jpg,4 3735,test
-55,test/WYOMING/3.jpg,2 998B,test
-55,test/WYOMING/4.jpg,965,test
-55,test/WYOMING/5.jpg,2 2JCN,test
-0,valid/ALABAMA/1.jpg,2GR8FUL,valid
-0,valid/ALABAMA/2.jpg,12Z4001,valid
-0,valid/ALABAMA/3.jpg,47X3170,valid
-0,valid/ALABAMA/4.jpg,12A729C,valid
-0,valid/ALABAMA/5.jpg,11AH563,valid
-1,valid/ALASKA/1.jpg,XZD982,valid
-1,valid/ALASKA/2.jpg,ALASKA,valid
-1,valid/ALASKA/3.jpg,32940,valid
-1,valid/ALASKA/4.jpg,ETU 870,valid
-1,valid/ALASKA/5.jpg,7647,valid
-2,valid/AMERICAN SAMOA/1.jpg,1766,valid
-2,valid/AMERICAN SAMOA/2.jpg,9326,valid
-2,valid/AMERICAN SAMOA/3.jpg,T632,valid
-2,valid/AMERICAN SAMOA/4.jpg,9327,valid
-2,valid/AMERICAN SAMOA/5.jpg,6874,valid
-3,valid/ARIZONA/1.jpg,4X4TC,valid
-3,valid/ARIZONA/2.jpg,AZ5731,valid
-3,valid/ARIZONA/3.jpg,FP19132,valid
-3,valid/ARIZONA/4.jpg,MWR 072,valid
-3,valid/ARIZONA/5.jpg,TVP 838,valid
-4,valid/ARKANSAS/1.jpg,BLESSUR,valid
-4,valid/ARKANSAS/2.jpg,SWR5149,valid
-4,valid/ARKANSAS/3.jpg,2ASU,valid
-4,valid/ARKANSAS/4.jpg,BTOU,valid
-4,valid/ARKANSAS/5.jpg,821PIA,valid
-5,valid/CALIFORNIA/1.jpg,IMRIGHT,valid
-5,valid/CALIFORNIA/2.jpg,C 44 904,valid
-5,valid/CALIFORNIA/3.jpg,6SSA880,valid
-5,valid/CALIFORNIA/4.jpg,CA6256,valid
-5,valid/CALIFORNIA/5.jpg,6VUU443,valid
-6,valid/CNMI/1.jpg,ACE 160,valid
-6,valid/CNMI/2.jpg,1406,valid
-6,valid/CNMI/3.jpg,1418,valid
-6,valid/CNMI/4.jpg,9802,valid
-6,valid/CNMI/5.jpg,ABJ 149,valid
-7,valid/COLORADO/1.jpg,JY 7565,valid
-7,valid/COLORADO/2.jpg,YF 3915,valid
-7,valid/COLORADO/3.jpg,838 FXY,valid
-7,valid/COLORADO/4.jpg,QLK 657,valid
-7,valid/COLORADO/5.jpg,836 QRL,valid
-8,valid/CONNECTICUT/1.jpg,KT1 Y,valid
-8,valid/CONNECTICUT/2.jpg,9820,valid
-8,valid/CONNECTICUT/3.jpg,C 048089,valid
-8,valid/CONNECTICUT/4.jpg,DA 07,valid
-8,valid/CONNECTICUT/5.jpg,257 LDG,valid
-9,valid/DELAWARE/1.jpg,SA15,valid
-9,valid/DELAWARE/2.jpg,66 217,valid
-9,valid/DELAWARE/3.jpg,RV497,valid
-9,valid/DELAWARE/4.jpg,C85751,valid
-9,valid/DELAWARE/5.jpg,65479,valid
-10,valid/FLORIDA/1.jpg,AXF G82,valid
-10,valid/FLORIDA/2.jpg,AEC J62,valid
-10,valid/FLORIDA/3.jpg,ADT U75,valid
-10,valid/FLORIDA/4.jpg,10W35622,valid
-10,valid/FLORIDA/5.jpg,N78 8BY,valid
-11,valid/GEORGIA/1.jpg,ANU 6741 ,valid
-11,valid/GEORGIA/2.jpg,229 1EX,valid
-11,valid/GEORGIA/3.jpg,IMRICH,valid
-11,valid/GEORGIA/4.jpg,EUG216,valid
-11,valid/GEORGIA/5.jpg,CV 123,valid
-12,valid/GUAM/1.jpg,AFD567,valid
-12,valid/GUAM/2.jpg,4817PDE,valid
-12,valid/GUAM/3.jpg,M1357,valid
-12,valid/GUAM/4.jpg,6 953,valid
-12,valid/GUAM/5.jpg,66746,valid
-13,valid/HAWAI/1.jpg,2B 5244,valid
-13,valid/HAWAI/2.jpg,PV000,valid
-13,valid/HAWAI/3.jpg,SHAKA,valid
-13,valid/HAWAI/4.jpg,C C 2928,valid
-13,valid/HAWAI/5.jpg,HPD1744,valid
-14,valid/IDAHO/1.jpg,1493,valid
-14,valid/IDAHO/2.jpg,24261,valid
-14,valid/IDAHO/3.jpg,BBF178,valid
-14,valid/IDAHO/4.jpg,BCP254,valid
-14,valid/IDAHO/5.jpg,MDW565,valid
-15,valid/ILLINOIS/1.jpg,282662,valid
-15,valid/ILLINOIS/2.jpg,1839,valid
-15,valid/ILLINOIS/3.jpg,4MRCP,valid
-15,valid/ILLINOIS/4.jpg,3008707,valid
-15,valid/ILLINOIS/5.jpg,A612024,valid
-16,valid/INDIANA/1.jpg,66758,valid
-16,valid/INDIANA/2.jpg,TL82060,valid
-16,valid/INDIANA/3.jpg,16043T,valid
-16,valid/INDIANA/4.jpg,SLS5923,valid
-16,valid/INDIANA/5.jpg,93P4672,valid
-17,valid/IOWA/1.jpg,392GWA,valid
-17,valid/IOWA/2.jpg,828MFG,valid
-17,valid/IOWA/3.jpg,FDV271,valid
-17,valid/IOWA/4.jpg,430TGY,valid
-17,valid/IOWA/5.jpg,992ZOM,valid
-18,valid/KANSAS/1.jpg,817HCR,valid
-18,valid/KANSAS/2.jpg,419GHU,valid
-18,valid/KANSAS/3.jpg,2889,valid
-18,valid/KANSAS/4.jpg,668JMH,valid
-18,valid/KANSAS/5.jpg,2468,valid
-19,valid/KENTUCKY/1.jpg,770EPF,valid
-19,valid/KENTUCKY/2.jpg,038BWT,valid
-19,valid/KENTUCKY/3.jpg,PMR322,valid
-19,valid/KENTUCKY/4.jpg,735KJX,valid
-19,valid/KENTUCKY/5.jpg,630 055,valid
-20,valid/LOUISIANA/1.jpg,239 514,valid
-20,valid/LOUISIANA/2.jpg,552 661,valid
-20,valid/LOUISIANA/3.jpg,149 783,valid
-20,valid/LOUISIANA/4.jpg,XJT717,valid
-20,valid/LOUISIANA/5.jpg,486X951,valid
-21,valid/MAINE/1.jpg,56 046,valid
-21,valid/MAINE/2.jpg,G69175,valid
-21,valid/MAINE/3.jpg,209 827,valid
-21,valid/MAINE/4.jpg,8706,valid
-21,valid/MAINE/5.jpg,10 674,valid
-22,valid/MARYLAND/1.jpg,6DT0074,valid
-22,valid/MARYLAND/2.jpg,6 6628,valid
-22,valid/MARYLAND/3.jpg,4 0820,valid
-22,valid/MARYLAND/4.jpg,DCX 945,valid
-22,valid/MARYLAND/5.jpg,6DM9699,valid
-23,valid/MASSACHUSETTS/1.jpg,3741,valid
-23,valid/MASSACHUSETTS/2.jpg,E70 338,valid
-23,valid/MASSACHUSETTS/3.jpg,6DE 430,valid
-23,valid/MASSACHUSETTS/4.jpg,81G W81,valid
-23,valid/MASSACHUSETTS/5.jpg,215 BG2,valid
-24,valid/MICHIGAN/1.jpg,JB 26 86,valid
-24,valid/MICHIGAN/2.jpg,CKN 9085,valid
-24,valid/MICHIGAN/3.jpg,JC 6710,valid
-24,valid/MICHIGAN/4.jpg,BG 9888,valid
-24,valid/MICHIGAN/5.jpg,HHH 150,valid
-25,valid/MINNESOTA/1.jpg,MZN 401,valid
-25,valid/MINNESOTA/2.jpg,613 GIJ,valid
-25,valid/MINNESOTA/3.jpg,682 GKS,valid
-25,valid/MINNESOTA/4.jpg,407 DHM,valid
-25,valid/MINNESOTA/5.jpg,FHK 564,valid
-26,valid/MISSIPPI/1.jpg,KYH 608,valid
-26,valid/MISSIPPI/2.jpg,304 935,valid
-26,valid/MISSIPPI/3.jpg,778 JMM,valid
-26,valid/MISSIPPI/4.jpg,PAD 662,valid
-26,valid/MISSIPPI/5.jpg,DEM 286,valid
-27,valid/MISSOURI/1.jpg,594 LMG,valid
-27,valid/MISSOURI/2.jpg,GH5 025,valid
-27,valid/MISSOURI/3.jpg,KBF 686,valid
-27,valid/MISSOURI/4.jpg,HRX 591,valid
-27,valid/MISSOURI/5.jpg,YMG 392,valid
-28,valid/MONTANA/1.jpg,37 827,valid
-28,valid/MONTANA/2.jpg,35 2555B,valid
-28,valid/MONTANA/3.jpg,A18697,valid
-28,valid/MONTANA/4.jpg,2 4067,valid
-28,valid/MONTANA/5.jpg,GENE LU,valid
-29,valid/NEBRASKA/1.jpg,61 C852,valid
-29,valid/NEBRASKA/2.jpg,18 H799,valid
-29,valid/NEBRASKA/3.jpg,TIU 092,valid
-29,valid/NEBRASKA/4.jpg,19 A574,valid
-29,valid/NEBRASKA/5.jpg,57 C128,valid
-30,valid/NEVADA/1.jpg,552 A05,valid
-30,valid/NEVADA/2.jpg,71F4N,valid
-30,valid/NEVADA/3.jpg,CKF836,valid
-30,valid/NEVADA/4.jpg,W23399,valid
-30,valid/NEVADA/5.jpg,58 068,valid
-31,valid/NEW HAMPSHIRE/1.jpg,2166,valid
-31,valid/NEW HAMPSHIRE/2.jpg,348 334,valid
-31,valid/NEW HAMPSHIRE/3.jpg,EI392,valid
-31,valid/NEW HAMPSHIRE/4.jpg,OWNIT,valid
-31,valid/NEW HAMPSHIRE/5.jpg,RI975,valid
-32,valid/NEW JERSEY/1.jpg,RFY 67F,valid
-32,valid/NEW JERSEY/2.jpg,VEC 40Z,valid
-32,valid/NEW JERSEY/3.jpg,872 SAA,valid
-32,valid/NEW JERSEY/4.jpg,NEW JERSEY,valid
-32,valid/NEW JERSEY/5.jpg,MEV 58B,valid
-33,valid/NEW MEXICO/1.jpg,HAPPY,valid
-33,valid/NEW MEXICO/2.jpg,NGD 641,valid
-33,valid/NEW MEXICO/3.jpg,21 1,valid
-33,valid/NEW MEXICO/4.jpg,703 TKD,valid
-33,valid/NEW MEXICO/5.jpg,31,valid
-34,valid/NEW YORK/1.jpg,195BCP,valid
-34,valid/NEW YORK/2.jpg,DWR 7393,valid
-34,valid/NEW YORK/3.jpg,2W 3582,valid
-34,valid/NEW YORK/4.jpg,GJA 6400,valid
-34,valid/NEW YORK/5.jpg,234PDV,valid
-35,valid/NORTH CAROLINA/1.jpg,HLD 6357,valid
-35,valid/NORTH CAROLINA/2.jpg,YKY 584,valid
-35,valid/NORTH CAROLINA/3.jpg,OBXO129A,valid
-35,valid/NORTH CAROLINA/4.jpg,RB 1154,valid
-35,valid/NORTH CAROLINA/5.jpg,JYA 6839,valid
-36,valid/NORTH DAKOTA/1.jpg,26 517,valid
-36,valid/NORTH DAKOTA/2.jpg,BFK 997,valid
-36,valid/NORTH DAKOTA/3.jpg,207 581,valid
-36,valid/NORTH DAKOTA/4.jpg,DFD 281,valid
-36,valid/NORTH DAKOTA/5.jpg,686 BJN,valid
-37,valid/OHIO/1.jpg,327 BY,valid
-37,valid/OHIO/2.jpg,464 RG,valid
-37,valid/OHIO/3.jpg,UM 444,valid
-37,valid/OHIO/4.jpg,17 FH,valid
-37,valid/OHIO/5.jpg,M 6996,valid
-38,valid/OKLAHOMA/1.jpg,LVI 193,valid
-38,valid/OKLAHOMA/2.jpg,MPV 543,valid
-38,valid/OKLAHOMA/3.jpg,FLC 532,valid
-38,valid/OKLAHOMA/4.jpg,988HPR,valid
-38,valid/OKLAHOMA/5.jpg,CVV 5840,valid
-39,valid/OREGON/1.jpg,17 98,valid
-39,valid/OREGON/2.jpg,0A 4625,valid
-39,valid/OREGON/3.jpg,27450,valid
-39,valid/OREGON/4.jpg,78633,valid
-39,valid/OREGON/5.jpg,484136,valid
-40,valid/PENNSYLVANIA/1.jpg,859VY,valid
-40,valid/PENNSYLVANIA/2.jpg,8555,valid
-40,valid/PENNSYLVANIA/3.jpg,21554,valid
-40,valid/PENNSYLVANIA/4.jpg,PFN 854,valid
-40,valid/PENNSYLVANIA/5.jpg,9861,valid
-41,valid/PUERTO RICO/1.jpg,ALV 167,valid
-41,valid/PUERTO RICO/2.jpg,04J037,valid
-41,valid/PUERTO RICO/3.jpg,17F223,valid
-41,valid/PUERTO RICO/4.jpg,IHD 932,valid
-41,valid/PUERTO RICO/5.jpg,HJH 488,valid
-42,valid/RHODE ISLAND/1.jpg,RHODE ISLAND,valid
-42,valid/RHODE ISLAND/2.jpg,LS 448,valid
-42,valid/RHODE ISLAND/3.jpg,CV 473,valid
-42,valid/RHODE ISLAND/4.jpg,AP389,valid
-42,valid/RHODE ISLAND/5.jpg,VG 23,valid
-43,valid/SOUTH CAROLINA/1.jpg,NJH 209,valid
-43,valid/SOUTH CAROLINA/2.jpg,SAM 000,valid
-43,valid/SOUTH CAROLINA/3.jpg,NJH 209,valid
-43,valid/SOUTH CAROLINA/4.jpg,LNH 203,valid
-43,valid/SOUTH CAROLINA/5.jpg,IAX 886,valid
-44,valid/SOUTH DAKOTA/1.jpg,39 2814,valid
-44,valid/SOUTH DAKOTA/2.jpg,1 C064,valid
-44,valid/SOUTH DAKOTA/3.jpg,4 10012,valid
-44,valid/SOUTH DAKOTA/4.jpg,35C 997,valid
-44,valid/SOUTH DAKOTA/5.jpg,65E 867,valid
-45,valid/TENNESSEE/1.jpg,05 79,valid
-45,valid/TENNESSEE/2.jpg,TEN 1796,valid
-45,valid/TENNESSEE/3.jpg,D36 94K,valid
-45,valid/TENNESSEE/4.jpg,52 1408,valid
-45,valid/TENNESSEE/5.jpg,462 VLF,valid
-46,valid/TEXAS/1.jpg,XTG 989,valid
-46,valid/TEXAS/2.jpg,EA 4256,valid
-46,valid/TEXAS/3.jpg,TEXAS,valid
-46,valid/TEXAS/4.jpg,DGV 9DV,valid
-46,valid/TEXAS/5.jpg,CH9 L960,valid
-47,valid/U S VIRGIN ISLANDS/1.jpg,C 49353,valid
-47,valid/U S VIRGIN ISLANDS/2.jpg,TBR 985,valid
-47,valid/U S VIRGIN ISLANDS/3.jpg,TFO 312,valid
-47,valid/U S VIRGIN ISLANDS/4.jpg,C 43,valid
-47,valid/U S VIRGIN ISLANDS/5.jpg,TDH 521,valid
-48,valid/UTAH/1.jpg,B43 6FV,valid
-48,valid/UTAH/2.jpg,D11 0BA,valid
-48,valid/UTAH/3.jpg,B78 3TP,valid
-48,valid/UTAH/4.jpg,CE 9927,valid
-48,valid/UTAH/5.jpg,Z75 1NH,valid
-49,valid/VERMONT/1.jpg,823,valid
-49,valid/VERMONT/2.jpg,33765,valid
-49,valid/VERMONT/3.jpg,25326,valid
-49,valid/VERMONT/4.jpg,DNS 613,valid
-49,valid/VERMONT/5.jpg,42 796,valid
-50,valid/VIRGINIA/1.jpg,BTDUKE,valid
-50,valid/VIRGINIA/2.jpg,87 777,valid
-50,valid/VIRGINIA/3.jpg,ZAV 1506,valid
-50,valid/VIRGINIA/4.jpg,XAV 3404,valid
-50,valid/VIRGINIA/5.jpg,XKF 6302,valid
-51,valid/WASHINGTON/1.jpg,EEM 139,valid
-51,valid/WASHINGTON/2.jpg,XZL 797,valid
-51,valid/WASHINGTON/3.jpg,A309389,valid
-51,valid/WASHINGTON/4.jpg,AUJ2440,valid
-51,valid/WASHINGTON/5.jpg,AZM9590,valid
-52,valid/WASHINGTON DC/1.jpg,117 637,valid
-52,valid/WASHINGTON DC/2.jpg,DG 2907,valid
-52,valid/WASHINGTON DC/3.jpg,DCP00,valid
-52,valid/WASHINGTON DC/4.jpg,MD 1075,valid
-52,valid/WASHINGTON DC/5.jpg,6639,valid
-53,valid/WEST VIRGINIA/1.jpg,8B 2282,valid
-53,valid/WEST VIRGINIA/2.jpg,H 1752,valid
-53,valid/WEST VIRGINIA/3.jpg,DWM 555,valid
-53,valid/WEST VIRGINIA/4.jpg,45224,valid
-53,valid/WEST VIRGINIA/5.jpg,HARSH,valid
-54,valid/WISCONSIN/1.jpg,331 VJL,valid
-54,valid/WISCONSIN/2.jpg,205 508,valid
-54,valid/WISCONSIN/3.jpg,176 480,valid
-54,valid/WISCONSIN/4.jpg,B246,valid
-54,valid/WISCONSIN/5.jpg,H65 040,valid
-55,valid/WYOMING/1.jpg,3 845R,valid
-55,valid/WYOMING/2.jpg,5 2788,valid
-55,valid/WYOMING/3.jpg,5 735,valid
-55,valid/WYOMING/4.jpg,5 16,valid
-55,valid/WYOMING/5.jpg,2 10,valid
+0,train/plates/ALABAMA/001.jpg,VAY 942,train
+0,train/plates/ALABAMA/002.jpg,06M9Y,train
+0,train/plates/ALABAMA/003.jpg,365 HD,train
+0,train/plates/ALABAMA/004.jpg,CK3836,train
+0,train/plates/ALABAMA/006.jpg,KAA 20C,train
+0,train/plates/ALABAMA/007.jpg,BYE 162,train
+0,train/plates/ALABAMA/008.jpg,A56A7,train
+0,train/plates/ALABAMA/009.jpg,3BF4026,train
+0,train/plates/ALABAMA/011.jpg,55BC577,train
+0,train/plates/ALABAMA/101.jpg,2B71R95,train
+1,train/plates/ALASKA/001.jpg,DGU 396,train
+1,train/plates/ALASKA/002.jpg,NIQ168,train
+1,train/plates/ALASKA/003.jpg,VBD 688,train
+1,train/plates/ALASKA/004.jpg,JUW 961,train
+1,train/plates/ALASKA/005.jpg,C17 999,train
+1,train/plates/ALASKA/006.jpg,LHK 666,train
+1,train/plates/ALASKA/007.jpg,GPQ 354,train
+1,train/plates/ALASKA/008.jpg,FPW 570,train
+1,train/plates/ALASKA/009.jpg,JDH 675,train
+1,train/plates/ALASKA/010.jpg,DCB 701,train
+2,train/plates/AMERICAN SAMOA/001.jpg,100 56,train
+2,train/plates/AMERICAN SAMOA/002.jpg,9375,train
+2,train/plates/AMERICAN SAMOA/003.jpg,4879,train
+2,train/plates/AMERICAN SAMOA/004.jpg,HR 01,train
+2,train/plates/AMERICAN SAMOA/005.jpg,3095,train
+2,train/plates/AMERICAN SAMOA/006.jpg,2266,train
+2,train/plates/AMERICAN SAMOA/007.jpg,3962,train
+2,train/plates/AMERICAN SAMOA/008.jpg,2779,train
+2,train/plates/AMERICAN SAMOA/009.jpg,23,train
+2,train/plates/AMERICAN SAMOA/010.jpg,849,train
+3,train/plates/ARIZONA/001.jpg,EMS,train
+3,train/plates/ARIZONA/002.jpg,SWR 5149,train
+3,train/plates/ARIZONA/003.jpg,AZ 4H,train
+3,train/plates/ARIZONA/004.jpg,SLS 5923,train
+3,train/plates/ARIZONA/005.jpg,HOOOPS,train
+3,train/plates/ARIZONA/006.jpg,4KSUP,train
+3,train/plates/ARIZONA/007.jpg,AVH1,train
+3,train/plates/ARIZONA/008.jpg,V6T36,train
+3,train/plates/ARIZONA/009.jpg,OPS2936,train
+3,train/plates/ARIZONA/010.jpg,BEEF,train
+3,train/plates/ARIZONA/011.jpg,4ABC123,train
+4,train/plates/ARKANSAS/001.jpg,642 MMS,train
+4,train/plates/ARKANSAS/002.jpg,879 LRH,train
+4,train/plates/ARKANSAS/003.jpg,111 YMX,train
+4,train/plates/ARKANSAS/004.jpg,BZG 728,train
+4,train/plates/ARKANSAS/005.jpg,ARKANSAS,train
+4,train/plates/ARKANSAS/006.jpg,623 PXG,train
+4,train/plates/ARKANSAS/007.jpg,YGD 654,train
+4,train/plates/ARKANSAS/008.jpg,ANJE,train
+4,train/plates/ARKANSAS/009.jpg,667 TIF,train
+4,train/plates/ARKANSAS/010.jpg,13 808,train
+5,train/plates/CALIFORNIA/001.jpg,WKG 542,train
+5,train/plates/CALIFORNIA/002.jpg,6S1015,train
+5,train/plates/CALIFORNIA/003.jpg,17622,train
+5,train/plates/CALIFORNIA/004.jpg,NZK 057,train
+5,train/plates/CALIFORNIA/005.jpg,NKG 880,train
+5,train/plates/CALIFORNIA/006.jpg,14 33,train
+5,train/plates/CALIFORNIA/007.jpg,1CUS755,train
+5,train/plates/CALIFORNIA/008.jpg,USMARINE,train
+5,train/plates/CALIFORNIA/009.jpg,7NIB786,train
+5,train/plates/CALIFORNIA/010.jpg,WY NT ME,train
+6,train/plates/CNMI/01.jpg,XVIII,train
+6,train/plates/CNMI/02.jpg,ADC 971,train
+6,train/plates/CNMI/03.jpg,APOLLO,train
+6,train/plates/CNMI/04.jpg,SO FINE,train
+6,train/plates/CNMI/05.jpg,AM 337,train
+6,train/plates/CNMI/06.jpg,ADK 563,train
+6,train/plates/CNMI/07.jpg,2276,train
+6,train/plates/CNMI/08.jpg,393,train
+6,train/plates/CNMI/09.jpg,598,train
+6,train/plates/CNMI/10.jpg,1434,train
+7,train/plates/COLORADO/001.jpg,13 1134,train
+7,train/plates/COLORADO/002.jpg,PURPSE,train
+7,train/plates/COLORADO/003.jpg,33292B,train
+7,train/plates/COLORADO/004.jpg,596 TWC,train
+7,train/plates/COLORADO/005.jpg,YP 1479,train
+7,train/plates/COLORADO/006.jpg,045 QBE,train
+7,train/plates/COLORADO/007.jpg,RT 1470,train
+7,train/plates/COLORADO/008.jpg,3101 PP,train
+7,train/plates/COLORADO/009.jpg,37 451,train
+7,train/plates/COLORADO/010.jpg,482 FFM,train
+8,train/plates/CONNECTICUT/001.jpg,413 VBB,train
+8,train/plates/CONNECTICUT/002.jpg,56122,train
+8,train/plates/CONNECTICUT/003.jpg,409 XWE,train
+8,train/plates/CONNECTICUT/004.jpg,8921,train
+8,train/plates/CONNECTICUT/005.jpg,CLK 107,train
+8,train/plates/CONNECTICUT/006.jpg,VN 1252,train
+8,train/plates/CONNECTICUT/007.jpg,565,train
+8,train/plates/CONNECTICUT/008.jpg,4793,train
+8,train/plates/CONNECTICUT/009.jpg,CA BORN,train
+8,train/plates/CONNECTICUT/010.jpg,908 LB0,train
+9,train/plates/DELAWARE/001.jpg,17 411,train
+9,train/plates/DELAWARE/002.jpg,2962,train
+9,train/plates/DELAWARE/003.jpg,43 604,train
+9,train/plates/DELAWARE/004.jpg,103619,train
+9,train/plates/DELAWARE/005.jpg,BUM,train
+9,train/plates/DELAWARE/006.jpg,370213,train
+9,train/plates/DELAWARE/007.jpg,130396,train
+9,train/plates/DELAWARE/008.jpg,JUSLVME,train
+9,train/plates/DELAWARE/009.jpg,RV 497,train
+9,train/plates/DELAWARE/010.jpg,350331,train
+10,train/plates/FLORIDA/001.jpg,SLS 5923,train
+10,train/plates/FLORIDA/002.jpg,16W18369,train
+10,train/plates/FLORIDA/003.jpg,E 45843,train
+10,train/plates/FLORIDA/004.jpg,434 AFQ,train
+10,train/plates/FLORIDA/005.jpg,15 3838,train
+10,train/plates/FLORIDA/006.jpg,NOO OOA,train
+10,train/plates/FLORIDA/007.jpg,10D 1438,train
+10,train/plates/FLORIDA/008.jpg,R37 35I,train
+10,train/plates/FLORIDA/009.jpg,XQQ O1I,train
+10,train/plates/FLORIDA/010.jpg,699 SRD,train
+11,train/plates/GEORGIA/001.jpg,CGL 1288,train
+11,train/plates/GEORGIA/002.jpg,RRX 397,train
+11,train/plates/GEORGIA/003.jpg,RDJ7561,train
+11,train/plates/GEORGIA/004.jpg,LFD673,train
+11,train/plates/GEORGIA/005.jpg,GV49678,train
+11,train/plates/GEORGIA/006.jpg,BQ6CIN,train
+11,train/plates/GEORGIA/007.jpg,DL 32B94,train
+11,train/plates/GEORGIA/008.jpg,EEK730,train
+11,train/plates/GEORGIA/009.jpg,DDT362,train
+11,train/plates/GEORGIA/010.jpg,PEG3645,train
+12,train/plates/GUAM/001.jpg,32136,train
+12,train/plates/GUAM/002.jpg,NMCG 04,train
+12,train/plates/GUAM/003.jpg,43 620,train
+12,train/plates/GUAM/004.jpg,DE 1040,train
+12,train/plates/GUAM/005.jpg,8449,train
+12,train/plates/GUAM/006.jpg,MN 356,train
+12,train/plates/GUAM/007.jpg,TR 780,train
+12,train/plates/GUAM/008.jpg,68753,train
+12,train/plates/GUAM/009.jpg,D 1560,train
+12,train/plates/GUAM/010.jpg,2282,train
+13,train/plates/HAWAI/001.jpg,3M 171,train
+13,train/plates/HAWAI/002.jpg,7H 800,train
+13,train/plates/HAWAI/003.jpg,BRR 720,train
+13,train/plates/HAWAI/004.jpg,LLC 928,train
+13,train/plates/HAWAI/005.jpg,K 3797,train
+13,train/plates/HAWAI/006.jpg,217E,train
+13,train/plates/HAWAI/007.jpg,K 10913,train
+13,train/plates/HAWAI/008.jpg,LGB 398,train
+13,train/plates/HAWAI/009.jpg,808E,train
+13,train/plates/HAWAI/010.jpg,PXE 886,train
+14,train/plates/IDAHO/001.jpg,3386Y,train
+14,train/plates/IDAHO/002.jpg,1M B6654,train
+14,train/plates/IDAHO/003.jpg,3 107,train
+14,train/plates/IDAHO/004.jpg,8B Z5695,train
+14,train/plates/IDAHO/005.jpg,WH0DAH0,train
+14,train/plates/IDAHO/006.jpg,8 190,train
+14,train/plates/IDAHO/007.jpg,94 251,train
+14,train/plates/IDAHO/008.jpg,WEFLY,train
+14,train/plates/IDAHO/009.jpg,1A 0631V,train
+14,train/plates/IDAHO/010.jpg,1A WJ785,train
+15,train/plates/ILLINOIS/001.jpg,325 338,train
+15,train/plates/ILLINOIS/002.jpg,359FM,train
+15,train/plates/ILLINOIS/003.jpg,99946,train
+15,train/plates/ILLINOIS/004.jpg,MF 2751,train
+15,train/plates/ILLINOIS/005.jpg,NRVOUS,train
+15,train/plates/ILLINOIS/006.jpg,139 4986,train
+15,train/plates/ILLINOIS/007.jpg,68 584,train
+15,train/plates/ILLINOIS/008.jpg,B 596 577,train
+15,train/plates/ILLINOIS/009.jpg,J 581 779,train
+15,train/plates/ILLINOIS/010.jpg,Y95 4812,train
+16,train/plates/INDIANA/001.jpg,48C2065,train
+16,train/plates/INDIANA/002.jpg,514NBA,train
+16,train/plates/INDIANA/003.jpg,308 270,train
+16,train/plates/INDIANA/004.jpg,MM1480,train
+16,train/plates/INDIANA/005.jpg,45Y3564,train
+16,train/plates/INDIANA/006.jpg,71 P 980,train
+16,train/plates/INDIANA/007.jpg,60A2941,train
+16,train/plates/INDIANA/008.jpg,825ZYJ,train
+16,train/plates/INDIANA/009.jpg,21879,train
+16,train/plates/INDIANA/010.jpg,71A2000,train
+17,train/plates/IOWA/001.jpg,AXM 417,train
+17,train/plates/IOWA/002.jpg,848 MTO,train
+17,train/plates/IOWA/003.jpg,AN 2202,train
+17,train/plates/IOWA/004.jpg,678 GRG,train
+17,train/plates/IOWA/005.jpg,217 LMK,train
+17,train/plates/IOWA/006.jpg,1934 7,train
+17,train/plates/IOWA/007.jpg,285 THN,train
+17,train/plates/IOWA/008.jpg,CML 953,train
+17,train/plates/IOWA/009.jpg,181 TGY,train
+17,train/plates/IOWA/010.jpg,138 WCT,train
+18,train/plates/KANSAS/001.jpg,CARTREK,train
+18,train/plates/KANSAS/002.jpg,571 GDW,train
+18,train/plates/KANSAS/003.jpg,524 JMJ,train
+18,train/plates/KANSAS/004.jpg,680 FBP,train
+18,train/plates/KANSAS/005.jpg,599575,train
+18,train/plates/KANSAS/006.jpg,CNM 438,train
+18,train/plates/KANSAS/007.jpg,115 FAS,train
+18,train/plates/KANSAS/008.jpg,WGH 759,train
+18,train/plates/KANSAS/009.jpg,33200,train
+18,train/plates/KANSAS/010.jpg,42507,train
+19,train/plates/KENTUCKY/001.jpg,821 NMP,train
+19,train/plates/KENTUCKY/002.jpg,523 VRS,train
+19,train/plates/KENTUCKY/003.jpg,819 AHZ,train
+19,train/plates/KENTUCKY/004.jpg,587 HYT,train
+19,train/plates/KENTUCKY/005.jpg,974 AAE,train
+19,train/plates/KENTUCKY/006.jpg,920 DRJ,train
+19,train/plates/KENTUCKY/007.jpg,B0555,train
+19,train/plates/KENTUCKY/008.jpg,139 WTF,train
+19,train/plates/KENTUCKY/009.jpg,1065,train
+19,train/plates/KENTUCKY/010.jpg,264 HMP,train
+20,train/plates/LOUISIANA/001.jpg,196I470 ,train
+20,train/plates/LOUISIANA/002.jpg,WBA255,train
+20,train/plates/LOUISIANA/003.jpg,203 363,train
+20,train/plates/LOUISIANA/004.jpg,DVD 493,train
+20,train/plates/LOUISIANA/005.jpg,446A622,train
+20,train/plates/LOUISIANA/006.jpg,JNT 062,train
+20,train/plates/LOUISIANA/007.jpg,VQC782,train
+20,train/plates/LOUISIANA/008.jpg,777,train
+20,train/plates/LOUISIANA/009.jpg,679 797,train
+20,train/plates/LOUISIANA/010.jpg,860X288,train
+21,train/plates/MAINE/001.jpg,295 253,train
+21,train/plates/MAINE/002.jpg,13097 E,train
+21,train/plates/MAINE/003.jpg,A 595222,train
+21,train/plates/MAINE/004.jpg,32 870,train
+21,train/plates/MAINE/005.jpg,29 701,train
+21,train/plates/MAINE/006.jpg,134 913,train
+21,train/plates/MAINE/007.jpg,482 567,train
+21,train/plates/MAINE/008.jpg,J 72195,train
+21,train/plates/MAINE/009.jpg,A 78958,train
+21,train/plates/MAINE/010.jpg,15192 M,train
+22,train/plates/MARYLAND/001.jpg,DVF 971,train
+22,train/plates/MARYLAND/002.jpg,PKC 735,train
+22,train/plates/MARYLAND/003.jpg,57 949,train
+22,train/plates/MARYLAND/004.jpg,340 341,train
+22,train/plates/MARYLAND/005.jpg,319 302,train
+22,train/plates/MARYLAND/006.jpg,HFL 141,train
+22,train/plates/MARYLAND/007.jpg,HC 10 01,train
+22,train/plates/MARYLAND/008.jpg,CB 60 76,train
+22,train/plates/MARYLAND/009.jpg,DW 7498,train
+22,train/plates/MARYLAND/010.jpg,8CT5704,train
+23,train/plates/MASSACHUSETTS/001.jpg,93M X43 ,train
+23,train/plates/MASSACHUSETTS/002.jpg,4CXK 60,train
+23,train/plates/MASSACHUSETTS/003.jpg,7LC 954,train
+23,train/plates/MASSACHUSETTS/004.jpg,82E J77,train
+23,train/plates/MASSACHUSETTS/005.jpg,839 ATH,train
+23,train/plates/MASSACHUSETTS/006.jpg,7KD 482,train
+23,train/plates/MASSACHUSETTS/007.jpg,8BX 731,train
+23,train/plates/MASSACHUSETTS/008.jpg,762 MB3,train
+23,train/plates/MASSACHUSETTS/009.jpg,4JL 839,train
+23,train/plates/MASSACHUSETTS/010.jpg,125 TG5,train
+24,train/plates/MICHIGAN/001.jpg,9CDC5,train
+24,train/plates/MICHIGAN/002.jpg,907 535,train
+24,train/plates/MICHIGAN/003.jpg,PP 6409,train
+24,train/plates/MICHIGAN/004.jpg,REP 082,train
+24,train/plates/MICHIGAN/005.jpg,NFM 392,train
+24,train/plates/MICHIGAN/006.jpg,PFN 432,train
+24,train/plates/MICHIGAN/007.jpg,YK 1263,train
+24,train/plates/MICHIGAN/008.jpg,BRF 452,train
+24,train/plates/MICHIGAN/009.jpg,BAC 4321,train
+24,train/plates/MICHIGAN/010.jpg,SJ 0400,train
+25,train/plates/MINNESOTA/001.jpg,998 AXW,train
+25,train/plates/MINNESOTA/002.jpg,803 REK,train
+25,train/plates/MINNESOTA/003.jpg,509 JDG,train
+25,train/plates/MINNESOTA/004.jpg,097 RMT,train
+25,train/plates/MINNESOTA/005.jpg,115 JCV,train
+25,train/plates/MINNESOTA/006.jpg,347 XUL,train
+25,train/plates/MINNESOTA/007.jpg,256 FMK,train
+25,train/plates/MINNESOTA/008.jpg,583 WLP,train
+25,train/plates/MINNESOTA/009.jpg,LM5746,train
+25,train/plates/MINNESOTA/010.jpg,385 AWZ,train
+26,train/plates/MISSIPPI/001.jpg,2 8419,train
+26,train/plates/MISSIPPI/002.jpg,32J58,train
+26,train/plates/MISSIPPI/003.jpg,703 BLC,train
+26,train/plates/MISSIPPI/004.jpg,KM4 335,train
+26,train/plates/MISSIPPI/005.jpg,H 42498,train
+26,train/plates/MISSIPPI/006.jpg,LA2 1558,train
+26,train/plates/MISSIPPI/007.jpg,HFB 976,train
+26,train/plates/MISSIPPI/008.jpg,HNB 7498,train
+26,train/plates/MISSIPPI/009.jpg,KAA 125,train
+26,train/plates/MISSIPPI/010.jpg,162 016,train
+27,train/plates/MISSOURI/001.jpg,ZCM 381,train
+27,train/plates/MISSOURI/002.jpg,S9M 988,train
+27,train/plates/MISSOURI/003.jpg,055 BCG,train
+27,train/plates/MISSOURI/004.jpg,619 SFT,train
+27,train/plates/MISSOURI/005.jpg,4FV 301,train
+27,train/plates/MISSOURI/006.jpg,7MT 309,train
+27,train/plates/MISSOURI/007.jpg,7AA 51W,train
+27,train/plates/MISSOURI/008.jpg,KM1 KOW,train
+27,train/plates/MISSOURI/009.jpg,768 FFG,train
+27,train/plates/MISSOURI/010.jpg,Z8A 446,train
+28,train/plates/MONTANA/001.jpg,406842,train
+28,train/plates/MONTANA/002.jpg,VGF,train
+28,train/plates/MONTANA/003.jpg,AJJ 950,train
+28,train/plates/MONTANA/004.jpg,A16016,train
+28,train/plates/MONTANA/005.jpg,BYM615,train
+28,train/plates/MONTANA/006.jpg,ACQ 256,train
+28,train/plates/MONTANA/007.jpg,BHW623,train
+28,train/plates/MONTANA/008.jpg,BLC079,train
+28,train/plates/MONTANA/009.jpg,6 A91624,train
+28,train/plates/MONTANA/010.jpg,MHP325,train
+29,train/plates/NEBRASKA/001.jpg,21 F33O,train
+29,train/plates/NEBRASKA/002.jpg,26 A97O,train
+29,train/plates/NEBRASKA/003.jpg,57 A445,train
+29,train/plates/NEBRASKA/004.jpg,48 B891,train
+29,train/plates/NEBRASKA/005.jpg,21 G899,train
+29,train/plates/NEBRASKA/006.jpg,32 B843,train
+29,train/plates/NEBRASKA/007.jpg,D7557,train
+29,train/plates/NEBRASKA/008.jpg,TVG 988,train
+29,train/plates/NEBRASKA/009.jpg,18 P53,train
+29,train/plates/NEBRASKA/010.jpg,NAA OOO,train
+30,train/plates/NEVADA/001.jpg,2661,train
+30,train/plates/NEVADA/002.jpg,552 AO5,train
+30,train/plates/NEVADA/003.jpg,485 TUV,train
+30,train/plates/NEVADA/004.jpg,OO5 PBA,train
+30,train/plates/NEVADA/005.jpg,474 XDR,train
+30,train/plates/NEVADA/006.jpg,13 112,train
+30,train/plates/NEVADA/007.jpg,C50398,train
+30,train/plates/NEVADA/008.jpg,447J,train
+30,train/plates/NEVADA/009.jpg,B16 GBS,train
+30,train/plates/NEVADA/010.jpg,681 VRX,train
+31,train/plates/NEW HAMPSHIRE/001.jpg,784O,train
+31,train/plates/NEW HAMPSHIRE/002.jpg,285 4404,train
+31,train/plates/NEW HAMPSHIRE/003.jpg,403 8131,train
+31,train/plates/NEW HAMPSHIRE/004.jpg,RT952,train
+31,train/plates/NEW HAMPSHIRE/005.jpg,FX152,train
+31,train/plates/NEW HAMPSHIRE/006.jpg,C SHLL,train
+31,train/plates/NEW HAMPSHIRE/007.jpg,MM595,train
+31,train/plates/NEW HAMPSHIRE/008.jpg,740579,train
+31,train/plates/NEW HAMPSHIRE/009.jpg,18974,train
+31,train/plates/NEW HAMPSHIRE/010.jpg,2O 885,train
+32,train/plates/NEW JERSEY/001.jpg,MG 787Z,train
+32,train/plates/NEW JERSEY/002.jpg,PN 302H,train
+32,train/plates/NEW JERSEY/003.jpg,F92 PEE,train
+32,train/plates/NEW JERSEY/004.jpg,BDY 63R,train
+32,train/plates/NEW JERSEY/005.jpg,M37 EDS,train
+32,train/plates/NEW JERSEY/006.jpg,E33 LAD,train
+32,train/plates/NEW JERSEY/007.jpg,J70 EDB,train
+32,train/plates/NEW JERSEY/008.jpg,VMW 980,train
+32,train/plates/NEW JERSEY/009.jpg,YZF 16X,train
+32,train/plates/NEW JERSEY/010.jpg,GOIN 2BED,train
+33,train/plates/NEW MEXICO/001.jpg,487 SPH,train
+33,train/plates/NEW MEXICO/002.jpg,HYL126,train
+33,train/plates/NEW MEXICO/003.jpg,JL 3342,train
+33,train/plates/NEW MEXICO/004.jpg,443 SCD,train
+33,train/plates/NEW MEXICO/005.jpg,1 10453 ,train
+33,train/plates/NEW MEXICO/006.jpg,NM 1912,train
+33,train/plates/NEW MEXICO/007.jpg,MZG 497,train
+33,train/plates/NEW MEXICO/008.jpg,JLT010,train
+33,train/plates/NEW MEXICO/009.jpg,AVA 282,train
+33,train/plates/NEW MEXICO/010.jpg,64 581,train
+34,train/plates/NEW YORK/001.jpg,CPY 6755,train
+34,train/plates/NEW YORK/002.jpg,259 QRH,train
+34,train/plates/NEW YORK/003.jpg,SR67 24,train
+34,train/plates/NEW YORK/004.jpg,9874 BKN,train
+34,train/plates/NEW YORK/005.jpg,R 25342,train
+34,train/plates/NEW YORK/006.jpg,UAD 871,train
+34,train/plates/NEW YORK/007.jpg,893 957,train
+34,train/plates/NEW YORK/008.jpg,RDT 996,train
+34,train/plates/NEW YORK/009.jpg,BML 1036,train
+34,train/plates/NEW YORK/010.jpg,BD1 95N,train
+35,train/plates/NORTH CAROLINA/001.jpg,RHW 273,train
+35,train/plates/NORTH CAROLINA/002.jpg,RB 1152,train
+35,train/plates/NORTH CAROLINA/003.jpg,KF 8514,train
+35,train/plates/NORTH CAROLINA/004.jpg,DU 7736,train
+35,train/plates/NORTH CAROLINA/005.jpg,59125,train
+35,train/plates/NORTH CAROLINA/006.jpg,BX 68881,train
+35,train/plates/NORTH CAROLINA/007.jpg,ETA 585,train
+35,train/plates/NORTH CAROLINA/008.jpg,FB CIBT,train
+35,train/plates/NORTH CAROLINA/009.jpg,AF 3611,train
+35,train/plates/NORTH CAROLINA/010.jpg,A 21947,train
+36,train/plates/NORTH DAKOTA/001.jpg,45674,train
+36,train/plates/NORTH DAKOTA/002.jpg,231 030,train
+36,train/plates/NORTH DAKOTA/003.jpg,3500,train
+36,train/plates/NORTH DAKOTA/004.jpg,5234,train
+36,train/plates/NORTH DAKOTA/005.jpg,FJ316,train
+36,train/plates/NORTH DAKOTA/006.jpg,TJT124,train
+36,train/plates/NORTH DAKOTA/007.jpg,80 937,train
+36,train/plates/NORTH DAKOTA/008.jpg,220 077,train
+36,train/plates/NORTH DAKOTA/009.jpg,958 ADB,train
+36,train/plates/NORTH DAKOTA/010.jpg,T47 619,train
+37,train/plates/OHIO/001.jpg,290 CP,train
+37,train/plates/OHIO/002.jpg,22 HF,train
+37,train/plates/OHIO/003.jpg,3617LZ,train
+37,train/plates/OHIO/004.jpg,PR 113,train
+37,train/plates/OHIO/005.jpg,3026 DD,train
+37,train/plates/OHIO/006.jpg,7145,train
+37,train/plates/OHIO/007.jpg,9889F1,train
+37,train/plates/OHIO/008.jpg,480396,train
+37,train/plates/OHIO/009.jpg,AP4143,train
+37,train/plates/OHIO/010.jpg,675 543,train
+38,train/plates/OKLAHOMA/001.jpg,EGJ 397,train
+38,train/plates/OKLAHOMA/002.jpg,HP 1996,train
+38,train/plates/OKLAHOMA/003.jpg,944 6BU,train
+38,train/plates/OKLAHOMA/004.jpg,DJT 2020,train
+38,train/plates/OKLAHOMA/005.jpg,OWG 397,train
+38,train/plates/OKLAHOMA/006.jpg,028 46V,train
+38,train/plates/OKLAHOMA/007.jpg,FF5833,train
+38,train/plates/OKLAHOMA/008.jpg,90992,train
+38,train/plates/OKLAHOMA/009.jpg,QUT 530,train
+38,train/plates/OKLAHOMA/010.jpg,PE 995,train
+39,train/plates/OREGON/001.jpg,9Q 2361,train
+39,train/plates/OREGON/002.jpg,78,train
+39,train/plates/OREGON/003.jpg,920132,train
+39,train/plates/OREGON/004.jpg,52366,train
+39,train/plates/OREGON/005.jpg,1X 20651,train
+39,train/plates/OREGON/006.jpg,0R 1859,train
+39,train/plates/OREGON/007.jpg,0,train
+39,train/plates/OREGON/008.jpg,59 204,train
+39,train/plates/OREGON/009.jpg,CSX 432,train
+39,train/plates/OREGON/010.jpg,16045,train
+40,train/plates/PENNSYLVANIA/001.jpg,TXP 973,train
+40,train/plates/PENNSYLVANIA/002.jpg,7755,train
+40,train/plates/PENNSYLVANIA/003.jpg,6376,train
+40,train/plates/PENNSYLVANIA/004.jpg,8157,train
+40,train/plates/PENNSYLVANIA/005.jpg,DJE 7001,train
+40,train/plates/PENNSYLVANIA/006.jpg,NCF 484,train
+40,train/plates/PENNSYLVANIA/007.jpg,1ZD97,train
+40,train/plates/PENNSYLVANIA/008.jpg,D97 950,train
+40,train/plates/PENNSYLVANIA/009.jpg,HJJ 5630,train
+40,train/plates/PENNSYLVANIA/010.jpg,KUM 0269,train
+41,train/plates/PUERTO RICO/001.jpg,FIG 936,train
+41,train/plates/PUERTO RICO/002.jpg,38 397,train
+41,train/plates/PUERTO RICO/003.jpg,363 977,train
+41,train/plates/PUERTO RICO/004.jpg,38 397,train
+41,train/plates/PUERTO RICO/005.jpg,HIR 415,train
+41,train/plates/PUERTO RICO/006.jpg,20 064,train
+41,train/plates/PUERTO RICO/007.jpg,AMY 751,train
+41,train/plates/PUERTO RICO/008.jpg,121 848,train
+41,train/plates/PUERTO RICO/009.jpg,GKG 001,train
+41,train/plates/PUERTO RICO/010.jpg,IJG 896,train
+42,train/plates/RHODE ISLAND/001.jpg,H 905,train
+42,train/plates/RHODE ISLAND/002.jpg,4858,train
+42,train/plates/RHODE ISLAND/003.jpg,RI DMV,train
+42,train/plates/RHODE ISLAND/004.jpg,13069,train
+42,train/plates/RHODE ISLAND/005.jpg,309 650,train
+42,train/plates/RHODE ISLAND/006.jpg,1AD 874,train
+42,train/plates/RHODE ISLAND/007.jpg,Y0 65,train
+42,train/plates/RHODE ISLAND/008.jpg,1AI 338,train
+42,train/plates/RHODE ISLAND/009.jpg,XR 361,train
+42,train/plates/RHODE ISLAND/010.jpg,8139,train
+43,train/plates/SOUTH CAROLINA/001.jpg,EP 6969,train
+43,train/plates/SOUTH CAROLINA/002.jpg,D 209 93,train
+43,train/plates/SOUTH CAROLINA/003.jpg,SM 1443,train
+43,train/plates/SOUTH CAROLINA/004.jpg,P 3016,train
+43,train/plates/SOUTH CAROLINA/005.jpg,WX15869,train
+43,train/plates/SOUTH CAROLINA/006.jpg,JWA 772,train
+43,train/plates/SOUTH CAROLINA/007.jpg,PBU 221,train
+43,train/plates/SOUTH CAROLINA/008.jpg,E111068,train
+43,train/plates/SOUTH CAROLINA/009.jpg,TL71932,train
+43,train/plates/SOUTH CAROLINA/010.jpg,357 108,train
+44,train/plates/SOUTH DAKOTA/001.jpg,67X 891,train
+44,train/plates/SOUTH DAKOTA/002.jpg,3 2709,train
+44,train/plates/SOUTH DAKOTA/003.jpg,31D 997,train
+44,train/plates/SOUTH DAKOTA/004.jpg,65 1175,train
+44,train/plates/SOUTH DAKOTA/005.jpg,29 Z542,train
+44,train/plates/SOUTH DAKOTA/006.jpg,SN 2601,train
+44,train/plates/SOUTH DAKOTA/007.jpg,2H 3874,train
+44,train/plates/SOUTH DAKOTA/008.jpg,13 3740,train
+44,train/plates/SOUTH DAKOTA/009.jpg,969,train
+44,train/plates/SOUTH DAKOTA/010.jpg,65F 274,train
+45,train/plates/TENNESSEE/001.jpg,CLF 831,train
+45,train/plates/TENNESSEE/002.jpg,H07 61R,train
+45,train/plates/TENNESSEE/003.jpg,419 FKJ,train
+45,train/plates/TENNESSEE/004.jpg,987 ZWM,train
+45,train/plates/TENNESSEE/005.jpg,394 VMW,train
+45,train/plates/TENNESSEE/006.jpg,5967,train
+45,train/plates/TENNESSEE/007.jpg,F93 85G,train
+45,train/plates/TENNESSEE/008.jpg,52M03,train
+45,train/plates/TENNESSEE/009.jpg,8596,train
+45,train/plates/TENNESSEE/010.jpg,3361,train
+46,train/plates/TEXAS/001.jpg,AU 6060,train
+46,train/plates/TEXAS/002.jpg,B96 TYD,train
+46,train/plates/TEXAS/003.jpg,AP 3323,train
+46,train/plates/TEXAS/004.jpg,FST 453,train
+46,train/plates/TEXAS/005.jpg,MX 9107,train
+46,train/plates/TEXAS/006.jpg,1H 7679,train
+46,train/plates/TEXAS/007.jpg,NGD 551,train
+46,train/plates/TEXAS/008.jpg,TV2 341,train
+46,train/plates/TEXAS/009.jpg,JR 1928,train
+46,train/plates/TEXAS/010.jpg,DML 511,train
+47,train/plates/U S VIRGIN ISLANDS/001.jpg,TEW 877,train
+47,train/plates/U S VIRGIN ISLANDS/002.jpg,PRO 11 4,train
+47,train/plates/U S VIRGIN ISLANDS/003.jpg,1711,train
+47,train/plates/U S VIRGIN ISLANDS/004.jpg,TCR 047,train
+47,train/plates/U S VIRGIN ISLANDS/005.jpg,T 24967,train
+47,train/plates/U S VIRGIN ISLANDS/006.jpg,C 42173,train
+47,train/plates/U S VIRGIN ISLANDS/007.jpg,PD 381,train
+47,train/plates/U S VIRGIN ISLANDS/008.jpg,PHA50,train
+47,train/plates/U S VIRGIN ISLANDS/009.jpg,TDK 694,train
+47,train/plates/U S VIRGIN ISLANDS/010.jpg,MUP 21,train
+48,train/plates/UTAH/001.jpg,214 HYS,train
+48,train/plates/UTAH/002.jpg,165 FPB,train
+48,train/plates/UTAH/003.jpg,B52 1PZ,train
+48,train/plates/UTAH/004.jpg,B91 5AK,train
+48,train/plates/UTAH/005.jpg,B97 1NW,train
+48,train/plates/UTAH/006.jpg,3368U,train
+48,train/plates/UTAH/007.jpg,Y68 4FF,train
+48,train/plates/UTAH/008.jpg,X19 1UN,train
+48,train/plates/UTAH/009.jpg,425 DTP,train
+48,train/plates/UTAH/010.jpg,038 YKA,train
+49,train/plates/VERMONT/001.jpg,20604,train
+49,train/plates/VERMONT/002.jpg,12906,train
+49,train/plates/VERMONT/003.jpg,HAV FUN,train
+49,train/plates/VERMONT/004.jpg,DPE 188,train
+49,train/plates/VERMONT/005.jpg,EH686,train
+49,train/plates/VERMONT/006.jpg,2 678,train
+49,train/plates/VERMONT/007.jpg,JRS 375,train
+49,train/plates/VERMONT/008.jpg,87718,train
+49,train/plates/VERMONT/009.jpg,367F3,train
+49,train/plates/VERMONT/010.jpg,SDS 216,train
+50,train/plates/VIRGINIA/001.jpg,32474,train
+50,train/plates/VIRGINIA/002.jpg,NH 2816,train
+50,train/plates/VIRGINIA/003.jpg,A259 257,train
+50,train/plates/VIRGINIA/004.jpg,WVL 1840,train
+50,train/plates/VIRGINIA/005.jpg,KMA 6179,train
+50,train/plates/VIRGINIA/006.jpg,WNK 7895,train
+50,train/plates/VIRGINIA/007.jpg,MY CHOIZ,train
+50,train/plates/VIRGINIA/008.jpg,MUJ 429,train
+50,train/plates/VIRGINIA/009.jpg,TH10 067,train
+50,train/plates/VIRGINIA/010.jpg,207 594,train
+51,train/plates/WASHINGTON/001.jpg,A 2719,train
+51,train/plates/WASHINGTON/002.jpg,187 482,train
+51,train/plates/WASHINGTON/003.jpg,78 860,train
+51,train/plates/WASHINGTON/004.jpg,SJ 1311,train
+51,train/plates/WASHINGTON/005.jpg,484 YMV,train
+51,train/plates/WASHINGTON/006.jpg,51576,train
+51,train/plates/WASHINGTON/007.jpg,AIK2767,train
+51,train/plates/WASHINGTON/008.jpg,AET1809,train
+51,train/plates/WASHINGTON/009.jpg,ASF0511,train
+51,train/plates/WASHINGTON/010.jpg,OL GULP,train
+52,train/plates/WASHINGTON DC/001.jpg,EZ 5169,train
+52,train/plates/WASHINGTON DC/002.jpg,2 6273,train
+52,train/plates/WASHINGTON DC/003.jpg,ZA 123,train
+52,train/plates/WASHINGTON DC/004.jpg,393 516,train
+52,train/plates/WASHINGTON DC/005.jpg,BR 1932,train
+52,train/plates/WASHINGTON DC/006.jpg,796 407,train
+52,train/plates/WASHINGTON DC/007.jpg,435 236,train
+52,train/plates/WASHINGTON DC/008.jpg,LB 091,train
+52,train/plates/WASHINGTON DC/009.jpg,C 63155,train
+52,train/plates/WASHINGTON DC/010.jpg,M2907,train
+53,train/plates/WEST VIRGINIA/001.jpg,02E 466,train
+53,train/plates/WEST VIRGINIA/002.jpg,B 30809,train
+53,train/plates/WEST VIRGINIA/003.jpg,229 295,train
+53,train/plates/WEST VIRGINIA/004.jpg,528 059,train
+53,train/plates/WEST VIRGINIA/005.jpg,OJF 330,train
+53,train/plates/WEST VIRGINIA/006.jpg,SCENIC,train
+53,train/plates/WEST VIRGINIA/007.jpg,D1Y 420,train
+53,train/plates/WEST VIRGINIA/008.jpg,125 885,train
+53,train/plates/WEST VIRGINIA/009.jpg,493 324,train
+53,train/plates/WEST VIRGINIA/010.jpg,150 994,train
+54,train/plates/WISCONSIN/001.jpg,135 404,train
+54,train/plates/WISCONSIN/002.jpg,L75 411,train
+54,train/plates/WISCONSIN/003.jpg,315 NKX,train
+54,train/plates/WISCONSIN/004.jpg,UW MSN,train
+54,train/plates/WISCONSIN/005.jpg,186194,train
+54,train/plates/WISCONSIN/006.jpg,C89 023,train
+54,train/plates/WISCONSIN/007.jpg,1535,train
+54,train/plates/WISCONSIN/008.jpg,AJ3558,train
+54,train/plates/WISCONSIN/009.jpg,EC 3199,train
+54,train/plates/WISCONSIN/010.jpg,PAM 221,train
+55,train/plates/WYOMING/001.jpg,22 43533,train
+55,train/plates/WYOMING/002.jpg,1 21 K,train
+55,train/plates/WYOMING/003.jpg,1 3ERN,train
+55,train/plates/WYOMING/004.jpg,1 89HC,train
+55,train/plates/WYOMING/005.jpg,7 15852,train
+55,train/plates/WYOMING/006.jpg,17 47226,train
+55,train/plates/WYOMING/007.jpg,2 77SZ,train
+55,train/plates/WYOMING/008.jpg,4 57,train
+55,train/plates/WYOMING/009.jpg,11 2467,train
+55,train/plates/WYOMING/010.jpg,1 36640,train
+0,test/plates/ALABAMA/1.jpg,52H71B7,test
+0,test/plates/ALABAMA/2.jpg,HDD417,test
+0,test/plates/ALABAMA/3.jpg,2B94G76,test
+0,test/plates/ALABAMA/4.jpg,46BK659,test
+0,test/plates/ALABAMA/5.jpg,3AJ4854,test
+1,test/plates/ALASKA/1.jpg,B3899,test
+1,test/plates/ALASKA/2.jpg,AJ332,test
+1,test/plates/ALASKA/3.jpg,3934CN,test
+1,test/plates/ALASKA/4.jpg,5181PP,test
+1,test/plates/ALASKA/5.jpg,SEWARD,test
+2,test/plates/AMERICAN SAMOA/1.jpg,CP 142,test
+2,test/plates/AMERICAN SAMOA/2.jpg,2610,test
+2,test/plates/AMERICAN SAMOA/3.jpg,5111,test
+2,test/plates/AMERICAN SAMOA/4.jpg,815E,test
+2,test/plates/AMERICAN SAMOA/5.jpg,T112,test
+3,test/plates/ARIZONA/1.jpg,EY 4571,test
+3,test/plates/ARIZONA/2.jpg,HV59,test
+3,test/plates/ARIZONA/3.jpg,CGT 882,test
+3,test/plates/ARIZONA/4.jpg,JJZ 259,test
+3,test/plates/ARIZONA/5.jpg,EX 7703,test
+4,test/plates/ARKANSAS/1.jpg,706 BSZ,test
+4,test/plates/ARKANSAS/2.jpg,45 328,test
+4,test/plates/ARKANSAS/3.jpg,748 PDW,test
+4,test/plates/ARKANSAS/4.jpg,836 KZT,test
+4,test/plates/ARKANSAS/5.jpg,SHTUPP,test
+5,test/plates/CALIFORNIA/1.jpg,1UAZ858,test
+5,test/plates/CALIFORNIA/2.jpg,MM,test
+5,test/plates/CALIFORNIA/3.jpg,F3298,test
+5,test/plates/CALIFORNIA/4.jpg,8W17097,test
+5,test/plates/CALIFORNIA/5.jpg,6N2577,test
+6,test/plates/CNMI/1.jpg,666,test
+6,test/plates/CNMI/2.jpg,ABH 259,test
+6,test/plates/CNMI/3.jpg,ADK 563,test
+6,test/plates/CNMI/4.jpg,ABZ 003,test
+6,test/plates/CNMI/5.jpg,ACN 263,test
+7,test/plates/COLORADO/1.jpg,A1F4591,test
+7,test/plates/COLORADO/2.jpg,268 ZJT,test
+7,test/plates/COLORADO/3.jpg,45OVO2,test
+7,test/plates/COLORADO/4.jpg,088 YWE,test
+7,test/plates/COLORADO/5.jpg,6 3660,test
+8,test/plates/CONNECTICUT/1.jpg,11A89,test
+8,test/plates/CONNECTICUT/2.jpg,VF 319,test
+8,test/plates/CONNECTICUT/3.jpg,192 BKA,test
+8,test/plates/CONNECTICUT/4.jpg,N 503,test
+8,test/plates/CONNECTICUT/5.jpg,319 HGN,test
+9,test/plates/DELAWARE/1.jpg,89,test
+9,test/plates/DELAWARE/2.jpg,HV0000,test
+9,test/plates/DELAWARE/3.jpg,C100419,test
+9,test/plates/DELAWARE/4.jpg,NA0000,test
+9,test/plates/DELAWARE/5.jpg,71 731,test
+10,test/plates/FLORIDA/1.jpg,IYT E32,test
+10,test/plates/FLORIDA/2.jpg,FEY 717,test
+10,test/plates/FLORIDA/3.jpg,64WW2412,test
+10,test/plates/FLORIDA/4.jpg,10 185,test
+10,test/plates/FLORIDA/5.jpg,WRST LNG,test
+11,test/plates/GEORGIA/1.jpg,4 D 4455,test
+11,test/plates/GEORGIA/2.jpg,6 D 4939,test
+11,test/plates/GEORGIA/3.jpg,6 J 3876,test
+11,test/plates/GEORGIA/4.jpg,C 55919,test
+11,test/plates/GEORGIA/5.jpg,CBD3530,test
+12,test/plates/GUAM/1.jpg,65995,test
+12,test/plates/GUAM/2.jpg,10780,test
+12,test/plates/GUAM/3.jpg,CP 3900,test
+12,test/plates/GUAM/4.jpg,MAI 63,test
+12,test/plates/GUAM/5.jpg,T 776,test
+13,test/plates/HAWAI/1.jpg,9E 2334,test
+13,test/plates/HAWAI/2.jpg,HI G8R,test
+13,test/plates/HAWAI/3.jpg,1F 3804,test
+13,test/plates/HAWAI/4.jpg,HLY 148,test
+13,test/plates/HAWAI/5.jpg,BXP 334,test
+14,test/plates/IDAHO/1.jpg,1045,test
+14,test/plates/IDAHO/2.jpg,1477,test
+14,test/plates/IDAHO/3.jpg,956,test
+14,test/plates/IDAHO/4.jpg,1400,test
+14,test/plates/IDAHO/5.jpg,4615,test
+15,test/plates/ILLINOIS/1.jpg,XTREMR1,test
+15,test/plates/ILLINOIS/2.jpg,J149895,test
+15,test/plates/ILLINOIS/3.jpg,5150,test
+15,test/plates/ILLINOIS/4.jpg,66083,test
+15,test/plates/ILLINOIS/5.jpg,282662,test
+16,test/plates/INDIANA/1.jpg,55 9893,test
+16,test/plates/INDIANA/2.jpg,89 4218,test
+16,test/plates/INDIANA/3.jpg,1316,test
+16,test/plates/INDIANA/4.jpg,MM2622,test
+16,test/plates/INDIANA/5.jpg,49 9970,test
+17,test/plates/IOWA/1.jpg,PDC260,test
+17,test/plates/IOWA/2.jpg,BFR135,test
+17,test/plates/IOWA/3.jpg,379XND,test
+17,test/plates/IOWA/4.jpg,ADY626,test
+17,test/plates/IOWA/5.jpg,CFH727,test
+18,test/plates/KANSAS/1.jpg,NAF611,test
+18,test/plates/KANSAS/2.jpg,KSUCATS,test
+18,test/plates/KANSAS/3.jpg,463MXX,test
+18,test/plates/KANSAS/4.jpg,626LRP,test
+18,test/plates/KANSAS/5.jpg,XPQ580,test
+19,test/plates/KENTUCKY/1.jpg,EXJ 526,test
+19,test/plates/KENTUCKY/2.jpg,RMR 337,test
+19,test/plates/KENTUCKY/3.jpg,12 170,test
+19,test/plates/KENTUCKY/4.jpg,476 FFX,test
+19,test/plates/KENTUCKY/5.jpg,649 TZK,test
+20,test/plates/LOUISIANA/1.jpg,VYN919,test
+20,test/plates/LOUISIANA/2.jpg,30A792,test
+20,test/plates/LOUISIANA/3.jpg,495 486,test
+20,test/plates/LOUISIANA/4.jpg,194 910,test
+20,test/plates/LOUISIANA/5.jpg,179147,test
+21,test/plates/MAINE/1.jpg,90917A,test
+21,test/plates/MAINE/2.jpg,G69175,test
+21,test/plates/MAINE/3.jpg,A259939,test
+21,test/plates/MAINE/4.jpg,263 567,test
+21,test/plates/MAINE/5.jpg,65135L,test
+22,test/plates/MARYLAND/1.jpg,HD 92 06,test
+22,test/plates/MARYLAND/2.jpg,FH 63 12,test
+22,test/plates/MARYLAND/3.jpg,604 597,test
+22,test/plates/MARYLAND/4.jpg,FJ 28 96,test
+22,test/plates/MARYLAND/5.jpg,DB 38 01,test
+23,test/plates/MASSACHUSETTS/1.jpg,816,test
+23,test/plates/MASSACHUSETTS/2.jpg,1680,test
+23,test/plates/MASSACHUSETTS/3.jpg,782 184,test
+23,test/plates/MASSACHUSETTS/4.jpg,478CS7,test
+23,test/plates/MASSACHUSETTS/5.jpg,332 689,test
+24,test/plates/MICHIGAN/1.jpg,DNJ0955,test
+24,test/plates/MICHIGAN/2.jpg,DZV2829,test
+24,test/plates/MICHIGAN/3.jpg,978891,test
+24,test/plates/MICHIGAN/4.jpg,4LU JO6,test
+24,test/plates/MICHIGAN/5.jpg,NCW598,test
+25,test/plates/MINNESOTA/1.jpg,KH4681,test
+25,test/plates/MINNESOTA/2.jpg,206 KCT,test
+25,test/plates/MINNESOTA/3.jpg,CYBRTRK,test
+25,test/plates/MINNESOTA/4.jpg,033 GND,test
+25,test/plates/MINNESOTA/5.jpg,KH1686,test
+26,test/plates/MISSIPPI/1.jpg,LB9 032,test
+26,test/plates/MISSIPPI/2.jpg,78918P,test
+26,test/plates/MISSIPPI/3.jpg,843 FTL,test
+26,test/plates/MISSIPPI/4.jpg,B9449P,test
+26,test/plates/MISSIPPI/5.jpg,LAG 534,test
+27,test/plates/MISSOURI/1.jpg,5CS 23E,test
+27,test/plates/MISSOURI/2.jpg,GT5 200,test
+27,test/plates/MISSOURI/3.jpg,599PWA,test
+27,test/plates/MISSOURI/4.jpg,414 TBR,test
+27,test/plates/MISSOURI/5.jpg,7PN 063,test
+28,test/plates/MONTANA/1.jpg,3 40403,test
+28,test/plates/MONTANA/2.jpg,HOOKUMM,test
+28,test/plates/MONTANA/3.jpg,4 A99820,test
+28,test/plates/MONTANA/4.jpg,17 T772,test
+28,test/plates/MONTANA/5.jpg,T4580,test
+29,test/plates/NEBRASKA/1.jpg,2 F4360,test
+29,test/plates/NEBRASKA/2.jpg,37 E545,test
+29,test/plates/NEBRASKA/3.jpg,VJW788,test
+29,test/plates/NEBRASKA/4.jpg,TCJ376,test
+29,test/plates/NEBRASKA/5.jpg,5 A8258,test
+30,test/plates/NEVADA/1.jpg,4245,test
+30,test/plates/NEVADA/2.jpg,0,test
+30,test/plates/NEVADA/3.jpg,LT15203,test
+30,test/plates/NEVADA/4.jpg,877 KLV,test
+30,test/plates/NEVADA/5.jpg,24 091,test
+31,test/plates/NEW HAMPSHIRE/1.jpg,327 2153,test
+31,test/plates/NEW HAMPSHIRE/2.jpg,670,test
+31,test/plates/NEW HAMPSHIRE/3.jpg,380,test
+31,test/plates/NEW HAMPSHIRE/4.jpg,16036,test
+31,test/plates/NEW HAMPSHIRE/5.jpg,7167,test
+32,test/plates/NEW JERSEY/1.jpg,YU 710D,test
+32,test/plates/NEW JERSEY/2.jpg,9490,test
+32,test/plates/NEW JERSEY/3.jpg,P72 BAF,test
+32,test/plates/NEW JERSEY/4.jpg,U59 JSB,test
+32,test/plates/NEW JERSEY/5.jpg,C90 ELE,test
+33,test/plates/NEW MEXICO/1.jpg,AAAAA00,test
+33,test/plates/NEW MEXICO/2.jpg,1465,test
+33,test/plates/NEW MEXICO/3.jpg,1209,test
+33,test/plates/NEW MEXICO/4.jpg,11 3227,test
+33,test/plates/NEW MEXICO/5.jpg,PBT 224,test
+34,test/plates/NEW YORK/1.jpg,4E 7841,test
+34,test/plates/NEW YORK/2.jpg,11183 BB,test
+34,test/plates/NEW YORK/3.jpg,EPW 3573,test
+34,test/plates/NEW YORK/4.jpg,HCW 755,test
+34,test/plates/NEW YORK/5.jpg,CHT 9032,test
+35,test/plates/NORTH CAROLINA/1.jpg,73O5 KJ,test
+35,test/plates/NORTH CAROLINA/2.jpg,PFT 7753,test
+35,test/plates/NORTH CAROLINA/3.jpg,35235,test
+35,test/plates/NORTH CAROLINA/4.jpg,J6242,test
+35,test/plates/NORTH CAROLINA/5.jpg,FME 1234,test
+36,test/plates/NORTH DAKOTA/1.jpg,586ALM,test
+36,test/plates/NORTH DAKOTA/2.jpg,74 810,test
+36,test/plates/NORTH DAKOTA/3.jpg,74 810,test
+36,test/plates/NORTH DAKOTA/4.jpg,12 891,test
+36,test/plates/NORTH DAKOTA/5.jpg,BN813,test
+37,test/plates/OHIO/1.jpg,EN57LB,test
+37,test/plates/OHIO/2.jpg,S 66 F,test
+37,test/plates/OHIO/3.jpg,8883 P,test
+37,test/plates/OHIO/4.jpg,8883 P,test
+37,test/plates/OHIO/5.jpg,S 66 F,test
+38,test/plates/OKLAHOMA/1.jpg,53355,test
+38,test/plates/OKLAHOMA/2.jpg,C3N 50R,test
+38,test/plates/OKLAHOMA/3.jpg,CX 3159,test
+38,test/plates/OKLAHOMA/4.jpg,764DBW,test
+38,test/plates/OKLAHOMA/5.jpg,KDO 567,test
+39,test/plates/OREGON/1.jpg,484136,test
+39,test/plates/OREGON/2.jpg,12572,test
+39,test/plates/OREGON/3.jpg,E229752,test
+39,test/plates/OREGON/4.jpg,E243210,test
+39,test/plates/OREGON/5.jpg,YCTB000,test
+40,test/plates/PENNSYLVANIA/1.jpg,EL0H55A,test
+40,test/plates/PENNSYLVANIA/2.jpg,2158S,test
+40,test/plates/PENNSYLVANIA/3.jpg,191 5OJ,test
+40,test/plates/PENNSYLVANIA/4.jpg,VJ156,test
+40,test/plates/PENNSYLVANIA/5.jpg,UK653,test
+41,test/plates/PUERTO RICO/1.jpg,811 962,test
+41,test/plates/PUERTO RICO/2.jpg,0089TT,test
+41,test/plates/PUERTO RICO/3.jpg,AHT 3O8,test
+41,test/plates/PUERTO RICO/4.jpg,1,test
+41,test/plates/PUERTO RICO/5.jpg,502 204,test
+42,test/plates/RHODE ISLAND/1.jpg,CE 19,test
+42,test/plates/RHODE ISLAND/2.jpg,KS 693,test
+42,test/plates/RHODE ISLAND/3.jpg,160,test
+42,test/plates/RHODE ISLAND/4.jpg,97 937,test
+42,test/plates/RHODE ISLAND/5.jpg,WK101,test
+43,test/plates/SOUTH CAROLINA/1.jpg,MG 1 538,test
+43,test/plates/SOUTH CAROLINA/2.jpg,D137725,test
+43,test/plates/SOUTH CAROLINA/3.jpg,SG13993,test
+43,test/plates/SOUTH CAROLINA/4.jpg,D198493,test
+43,test/plates/SOUTH CAROLINA/5.jpg,E287200,test
+44,test/plates/SOUTH DAKOTA/1.jpg,2 16537,test
+44,test/plates/SOUTH DAKOTA/2.jpg,10A 123,test
+44,test/plates/SOUTH DAKOTA/3.jpg,40 2119,test
+44,test/plates/SOUTH DAKOTA/4.jpg,49C9814,test
+44,test/plates/SOUTH DAKOTA/5.jpg,7 4892,test
+45,test/plates/TENNESSEE/1.jpg,2 R4D95,test
+45,test/plates/TENNESSEE/2.jpg,A21 64D,test
+45,test/plates/TENNESSEE/3.jpg,BCC 0420,test
+45,test/plates/TENNESSEE/4.jpg,SDJ 201,test
+45,test/plates/TENNESSEE/5.jpg,615,test
+46,test/plates/TEXAS/1.jpg,FRR 22N,test
+46,test/plates/TEXAS/2.jpg,B01BB,test
+46,test/plates/TEXAS/3.jpg,UCV 540,test
+46,test/plates/TEXAS/4.jpg,032 KKL,test
+46,test/plates/TEXAS/5.jpg,HB 973,test
+47,test/plates/U S VIRGIN ISLANDS/1.jpg,033 CHP,test
+47,test/plates/U S VIRGIN ISLANDS/2.jpg,TEP 010,test
+47,test/plates/U S VIRGIN ISLANDS/3.jpg,T 11295,test
+47,test/plates/U S VIRGIN ISLANDS/4.jpg,C 4315,test
+47,test/plates/U S VIRGIN ISLANDS/5.jpg,P&NR 35,test
+48,test/plates/UTAH/1.jpg,E093RG,test
+48,test/plates/UTAH/2.jpg,V576AE,test
+48,test/plates/UTAH/3.jpg,X7870,test
+48,test/plates/UTAH/4.jpg,AD4165,test
+48,test/plates/UTAH/5.jpg,U272LV,test
+49,test/plates/VERMONT/1.jpg,31 907,test
+49,test/plates/VERMONT/2.jpg,17679,test
+49,test/plates/VERMONT/3.jpg,49299,test
+49,test/plates/VERMONT/4.jpg,8658,test
+49,test/plates/VERMONT/5.jpg,44849,test
+50,test/plates/VIRGINIA/1.jpg,RYW 115,test
+50,test/plates/VIRGINIA/2.jpg,DADX9,test
+50,test/plates/VIRGINIA/3.jpg,632 987,test
+50,test/plates/VIRGINIA/4.jpg,VEGANAF,test
+50,test/plates/VIRGINIA/5.jpg,FZM 587,test
+51,test/plates/WASHINGTON/1.jpg,1D3189,test
+51,test/plates/WASHINGTON/2.jpg,3341,test
+51,test/plates/WASHINGTON/3.jpg,D206 47,test
+51,test/plates/WASHINGTON/4.jpg,039 ABS,test
+51,test/plates/WASHINGTON/5.jpg,528 ZEP,test
+52,test/plates/WASHINGTON DC/1.jpg,101,test
+52,test/plates/WASHINGTON DC/2.jpg,111,test
+52,test/plates/WASHINGTON DC/3.jpg,K37 681,test
+52,test/plates/WASHINGTON DC/4.jpg,DLR 04121,test
+52,test/plates/WASHINGTON DC/5.jpg,DZ 1555,test
+53,test/plates/WEST VIRGINIA/1.jpg,17 105,test
+53,test/plates/WEST VIRGINIA/2.jpg,B81 994,test
+53,test/plates/WEST VIRGINIA/3.jpg,388 911,test
+53,test/plates/WEST VIRGINIA/4.jpg,6 994,test
+53,test/plates/WEST VIRGINIA/5.jpg,8B 2282,test
+54,test/plates/WISCONSIN/1.jpg,AX783T,test
+54,test/plates/WISCONSIN/2.jpg,BKSIN6,test
+54,test/plates/WISCONSIN/3.jpg,130 459,test
+54,test/plates/WISCONSIN/4.jpg,439 RNY,test
+54,test/plates/WISCONSIN/5.jpg,0PE,test
+55,test/plates/WYOMING/1.jpg,8 7157,test
+55,test/plates/WYOMING/2.jpg,4 3735,test
+55,test/plates/WYOMING/3.jpg,2 998B,test
+55,test/plates/WYOMING/4.jpg,965,test
+55,test/plates/WYOMING/5.jpg,2 2JCN,test
+0,valid/plates/ALABAMA/1.jpg,2GR8FUL,valid
+0,valid/plates/ALABAMA/2.jpg,12Z4001,valid
+0,valid/plates/ALABAMA/3.jpg,47X3170,valid
+0,valid/plates/ALABAMA/4.jpg,12A729C,valid
+0,valid/plates/ALABAMA/5.jpg,11AH563,valid
+1,valid/plates/ALASKA/1.jpg,XZD982,valid
+1,valid/plates/ALASKA/2.jpg,ALASKA,valid
+1,valid/plates/ALASKA/3.jpg,32940,valid
+1,valid/plates/ALASKA/4.jpg,ETU 870,valid
+1,valid/plates/ALASKA/5.jpg,7647,valid
+2,valid/plates/AMERICAN SAMOA/1.jpg,1766,valid
+2,valid/plates/AMERICAN SAMOA/2.jpg,9326,valid
+2,valid/plates/AMERICAN SAMOA/3.jpg,T632,valid
+2,valid/plates/AMERICAN SAMOA/4.jpg,9327,valid
+2,valid/plates/AMERICAN SAMOA/5.jpg,6874,valid
+3,valid/plates/ARIZONA/1.jpg,4X4TC,valid
+3,valid/plates/ARIZONA/2.jpg,AZ5731,valid
+3,valid/plates/ARIZONA/3.jpg,FP19132,valid
+3,valid/plates/ARIZONA/4.jpg,MWR 072,valid
+3,valid/plates/ARIZONA/5.jpg,TVP 838,valid
+4,valid/plates/ARKANSAS/1.jpg,BLESSUR,valid
+4,valid/plates/ARKANSAS/2.jpg,SWR5149,valid
+4,valid/plates/ARKANSAS/3.jpg,2ASU,valid
+4,valid/plates/ARKANSAS/4.jpg,BTOU,valid
+4,valid/plates/ARKANSAS/5.jpg,821PIA,valid
+5,valid/plates/CALIFORNIA/1.jpg,IMRIGHT,valid
+5,valid/plates/CALIFORNIA/2.jpg,C 44 904,valid
+5,valid/plates/CALIFORNIA/3.jpg,6SSA880,valid
+5,valid/plates/CALIFORNIA/4.jpg,CA6256,valid
+5,valid/plates/CALIFORNIA/5.jpg,6VUU443,valid
+6,valid/plates/CNMI/1.jpg,ACE 160,valid
+6,valid/plates/CNMI/2.jpg,1406,valid
+6,valid/plates/CNMI/3.jpg,1418,valid
+6,valid/plates/CNMI/4.jpg,9802,valid
+6,valid/plates/CNMI/5.jpg,ABJ 149,valid
+7,valid/plates/COLORADO/1.jpg,JY 7565,valid
+7,valid/plates/COLORADO/2.jpg,YF 3915,valid
+7,valid/plates/COLORADO/3.jpg,838 FXY,valid
+7,valid/plates/COLORADO/4.jpg,QLK 657,valid
+7,valid/plates/COLORADO/5.jpg,836 QRL,valid
+8,valid/plates/CONNECTICUT/1.jpg,KT1 Y,valid
+8,valid/plates/CONNECTICUT/2.jpg,9820,valid
+8,valid/plates/CONNECTICUT/3.jpg,C 048089,valid
+8,valid/plates/CONNECTICUT/4.jpg,DA 07,valid
+8,valid/plates/CONNECTICUT/5.jpg,257 LDG,valid
+9,valid/plates/DELAWARE/1.jpg,SA15,valid
+9,valid/plates/DELAWARE/2.jpg,66 217,valid
+9,valid/plates/DELAWARE/3.jpg,RV497,valid
+9,valid/plates/DELAWARE/4.jpg,C85751,valid
+9,valid/plates/DELAWARE/5.jpg,65479,valid
+10,valid/plates/FLORIDA/1.jpg,AXF G82,valid
+10,valid/plates/FLORIDA/2.jpg,AEC J62,valid
+10,valid/plates/FLORIDA/3.jpg,ADT U75,valid
+10,valid/plates/FLORIDA/4.jpg,10W35622,valid
+10,valid/plates/FLORIDA/5.jpg,N78 8BY,valid
+11,valid/plates/GEORGIA/1.jpg,ANU 6741 ,valid
+11,valid/plates/GEORGIA/2.jpg,229 1EX,valid
+11,valid/plates/GEORGIA/3.jpg,IMRICH,valid
+11,valid/plates/GEORGIA/4.jpg,EUG216,valid
+11,valid/plates/GEORGIA/5.jpg,CV 123,valid
+12,valid/plates/GUAM/1.jpg,AFD567,valid
+12,valid/plates/GUAM/2.jpg,4817PDE,valid
+12,valid/plates/GUAM/3.jpg,M1357,valid
+12,valid/plates/GUAM/4.jpg,6 953,valid
+12,valid/plates/GUAM/5.jpg,66746,valid
+13,valid/plates/HAWAI/1.jpg,2B 5244,valid
+13,valid/plates/HAWAI/2.jpg,PV000,valid
+13,valid/plates/HAWAI/3.jpg,SHAKA,valid
+13,valid/plates/HAWAI/4.jpg,C C 2928,valid
+13,valid/plates/HAWAI/5.jpg,HPD1744,valid
+14,valid/plates/IDAHO/1.jpg,1493,valid
+14,valid/plates/IDAHO/2.jpg,24261,valid
+14,valid/plates/IDAHO/3.jpg,BBF178,valid
+14,valid/plates/IDAHO/4.jpg,BCP254,valid
+14,valid/plates/IDAHO/5.jpg,MDW565,valid
+15,valid/plates/ILLINOIS/1.jpg,282662,valid
+15,valid/plates/ILLINOIS/2.jpg,1839,valid
+15,valid/plates/ILLINOIS/3.jpg,4MRCP,valid
+15,valid/plates/ILLINOIS/4.jpg,3008707,valid
+15,valid/plates/ILLINOIS/5.jpg,A612024,valid
+16,valid/plates/INDIANA/1.jpg,66758,valid
+16,valid/plates/INDIANA/2.jpg,TL82060,valid
+16,valid/plates/INDIANA/3.jpg,16043T,valid
+16,valid/plates/INDIANA/4.jpg,SLS5923,valid
+16,valid/plates/INDIANA/5.jpg,93P4672,valid
+17,valid/plates/IOWA/1.jpg,392GWA,valid
+17,valid/plates/IOWA/2.jpg,828MFG,valid
+17,valid/plates/IOWA/3.jpg,FDV271,valid
+17,valid/plates/IOWA/4.jpg,430TGY,valid
+17,valid/plates/IOWA/5.jpg,992ZOM,valid
+18,valid/plates/KANSAS/1.jpg,817HCR,valid
+18,valid/plates/KANSAS/2.jpg,419GHU,valid
+18,valid/plates/KANSAS/3.jpg,2889,valid
+18,valid/plates/KANSAS/4.jpg,668JMH,valid
+18,valid/plates/KANSAS/5.jpg,2468,valid
+19,valid/plates/KENTUCKY/1.jpg,770EPF,valid
+19,valid/plates/KENTUCKY/2.jpg,038BWT,valid
+19,valid/plates/KENTUCKY/3.jpg,PMR322,valid
+19,valid/plates/KENTUCKY/4.jpg,735KJX,valid
+19,valid/plates/KENTUCKY/5.jpg,630 055,valid
+20,valid/plates/LOUISIANA/1.jpg,239 514,valid
+20,valid/plates/LOUISIANA/2.jpg,552 661,valid
+20,valid/plates/LOUISIANA/3.jpg,149 783,valid
+20,valid/plates/LOUISIANA/4.jpg,XJT717,valid
+20,valid/plates/LOUISIANA/5.jpg,486X951,valid
+21,valid/plates/MAINE/1.jpg,56 046,valid
+21,valid/plates/MAINE/2.jpg,G69175,valid
+21,valid/plates/MAINE/3.jpg,209 827,valid
+21,valid/plates/MAINE/4.jpg,8706,valid
+21,valid/plates/MAINE/5.jpg,10 674,valid
+22,valid/plates/MARYLAND/1.jpg,6DT0074,valid
+22,valid/plates/MARYLAND/2.jpg,6 6628,valid
+22,valid/plates/MARYLAND/3.jpg,4 0820,valid
+22,valid/plates/MARYLAND/4.jpg,DCX 945,valid
+22,valid/plates/MARYLAND/5.jpg,6DM9699,valid
+23,valid/plates/MASSACHUSETTS/1.jpg,3741,valid
+23,valid/plates/MASSACHUSETTS/2.jpg,E70 338,valid
+23,valid/plates/MASSACHUSETTS/3.jpg,6DE 430,valid
+23,valid/plates/MASSACHUSETTS/4.jpg,81G W81,valid
+23,valid/plates/MASSACHUSETTS/5.jpg,215 BG2,valid
+24,valid/plates/MICHIGAN/1.jpg,JB 26 86,valid
+24,valid/plates/MICHIGAN/2.jpg,CKN 9085,valid
+24,valid/plates/MICHIGAN/3.jpg,JC 6710,valid
+24,valid/plates/MICHIGAN/4.jpg,BG 9888,valid
+24,valid/plates/MICHIGAN/5.jpg,HHH 150,valid
+25,valid/plates/MINNESOTA/1.jpg,MZN 401,valid
+25,valid/plates/MINNESOTA/2.jpg,613 GIJ,valid
+25,valid/plates/MINNESOTA/3.jpg,682 GKS,valid
+25,valid/plates/MINNESOTA/4.jpg,407 DHM,valid
+25,valid/plates/MINNESOTA/5.jpg,FHK 564,valid
+26,valid/plates/MISSIPPI/1.jpg,KYH 608,valid
+26,valid/plates/MISSIPPI/2.jpg,304 935,valid
+26,valid/plates/MISSIPPI/3.jpg,778 JMM,valid
+26,valid/plates/MISSIPPI/4.jpg,PAD 662,valid
+26,valid/plates/MISSIPPI/5.jpg,DEM 286,valid
+27,valid/plates/MISSOURI/1.jpg,594 LMG,valid
+27,valid/plates/MISSOURI/2.jpg,GH5 025,valid
+27,valid/plates/MISSOURI/3.jpg,KBF 686,valid
+27,valid/plates/MISSOURI/4.jpg,HRX 591,valid
+27,valid/plates/MISSOURI/5.jpg,YMG 392,valid
+28,valid/plates/MONTANA/1.jpg,37 827,valid
+28,valid/plates/MONTANA/2.jpg,35 2555B,valid
+28,valid/plates/MONTANA/3.jpg,A18697,valid
+28,valid/plates/MONTANA/4.jpg,2 4067,valid
+28,valid/plates/MONTANA/5.jpg,GENE LU,valid
+29,valid/plates/NEBRASKA/1.jpg,61 C852,valid
+29,valid/plates/NEBRASKA/2.jpg,18 H799,valid
+29,valid/plates/NEBRASKA/3.jpg,TIU 092,valid
+29,valid/plates/NEBRASKA/4.jpg,19 A574,valid
+29,valid/plates/NEBRASKA/5.jpg,57 C128,valid
+30,valid/plates/NEVADA/1.jpg,552 A05,valid
+30,valid/plates/NEVADA/2.jpg,71F4N,valid
+30,valid/plates/NEVADA/3.jpg,CKF836,valid
+30,valid/plates/NEVADA/4.jpg,W23399,valid
+30,valid/plates/NEVADA/5.jpg,58 068,valid
+31,valid/plates/NEW HAMPSHIRE/1.jpg,2166,valid
+31,valid/plates/NEW HAMPSHIRE/2.jpg,348 334,valid
+31,valid/plates/NEW HAMPSHIRE/3.jpg,EI392,valid
+31,valid/plates/NEW HAMPSHIRE/4.jpg,OWNIT,valid
+31,valid/plates/NEW HAMPSHIRE/5.jpg,RI975,valid
+32,valid/plates/NEW JERSEY/1.jpg,RFY 67F,valid
+32,valid/plates/NEW JERSEY/2.jpg,VEC 40Z,valid
+32,valid/plates/NEW JERSEY/3.jpg,872 SAA,valid
+32,valid/plates/NEW JERSEY/4.jpg,NEW JERSEY,valid
+32,valid/plates/NEW JERSEY/5.jpg,MEV 58B,valid
+33,valid/plates/NEW MEXICO/1.jpg,HAPPY,valid
+33,valid/plates/NEW MEXICO/2.jpg,NGD 641,valid
+33,valid/plates/NEW MEXICO/3.jpg,21 1,valid
+33,valid/plates/NEW MEXICO/4.jpg,703 TKD,valid
+33,valid/plates/NEW MEXICO/5.jpg,31,valid
+34,valid/plates/NEW YORK/1.jpg,195BCP,valid
+34,valid/plates/NEW YORK/2.jpg,DWR 7393,valid
+34,valid/plates/NEW YORK/3.jpg,2W 3582,valid
+34,valid/plates/NEW YORK/4.jpg,GJA 6400,valid
+34,valid/plates/NEW YORK/5.jpg,234PDV,valid
+35,valid/plates/NORTH CAROLINA/1.jpg,HLD 6357,valid
+35,valid/plates/NORTH CAROLINA/2.jpg,YKY 584,valid
+35,valid/plates/NORTH CAROLINA/3.jpg,OBXO129A,valid
+35,valid/plates/NORTH CAROLINA/4.jpg,RB 1154,valid
+35,valid/plates/NORTH CAROLINA/5.jpg,JYA 6839,valid
+36,valid/plates/NORTH DAKOTA/1.jpg,26 517,valid
+36,valid/plates/NORTH DAKOTA/2.jpg,BFK 997,valid
+36,valid/plates/NORTH DAKOTA/3.jpg,207 581,valid
+36,valid/plates/NORTH DAKOTA/4.jpg,DFD 281,valid
+36,valid/plates/NORTH DAKOTA/5.jpg,686 BJN,valid
+37,valid/plates/OHIO/1.jpg,327 BY,valid
+37,valid/plates/OHIO/2.jpg,464 RG,valid
+37,valid/plates/OHIO/3.jpg,UM 444,valid
+37,valid/plates/OHIO/4.jpg,17 FH,valid
+37,valid/plates/OHIO/5.jpg,M 6996,valid
+38,valid/plates/OKLAHOMA/1.jpg,LVI 193,valid
+38,valid/plates/OKLAHOMA/2.jpg,MPV 543,valid
+38,valid/plates/OKLAHOMA/3.jpg,FLC 532,valid
+38,valid/plates/OKLAHOMA/4.jpg,988HPR,valid
+38,valid/plates/OKLAHOMA/5.jpg,CVV 5840,valid
+39,valid/plates/OREGON/1.jpg,17 98,valid
+39,valid/plates/OREGON/2.jpg,0A 4625,valid
+39,valid/plates/OREGON/3.jpg,27450,valid
+39,valid/plates/OREGON/4.jpg,78633,valid
+39,valid/plates/OREGON/5.jpg,484136,valid
+40,valid/plates/PENNSYLVANIA/1.jpg,859VY,valid
+40,valid/plates/PENNSYLVANIA/2.jpg,8555,valid
+40,valid/plates/PENNSYLVANIA/3.jpg,21554,valid
+40,valid/plates/PENNSYLVANIA/4.jpg,PFN 854,valid
+40,valid/plates/PENNSYLVANIA/5.jpg,9861,valid
+41,valid/plates/PUERTO RICO/1.jpg,ALV 167,valid
+41,valid/plates/PUERTO RICO/2.jpg,04J037,valid
+41,valid/plates/PUERTO RICO/3.jpg,17F223,valid
+41,valid/plates/PUERTO RICO/4.jpg,IHD 932,valid
+41,valid/plates/PUERTO RICO/5.jpg,HJH 488,valid
+42,valid/plates/RHODE ISLAND/1.jpg,RHODE ISLAND,valid
+42,valid/plates/RHODE ISLAND/2.jpg,LS 448,valid
+42,valid/plates/RHODE ISLAND/3.jpg,CV 473,valid
+42,valid/plates/RHODE ISLAND/4.jpg,AP389,valid
+42,valid/plates/RHODE ISLAND/5.jpg,VG 23,valid
+43,valid/plates/SOUTH CAROLINA/1.jpg,NJH 209,valid
+43,valid/plates/SOUTH CAROLINA/2.jpg,SAM 000,valid
+43,valid/plates/SOUTH CAROLINA/3.jpg,NJH 209,valid
+43,valid/plates/SOUTH CAROLINA/4.jpg,LNH 203,valid
+43,valid/plates/SOUTH CAROLINA/5.jpg,IAX 886,valid
+44,valid/plates/SOUTH DAKOTA/1.jpg,39 2814,valid
+44,valid/plates/SOUTH DAKOTA/2.jpg,1 C064,valid
+44,valid/plates/SOUTH DAKOTA/3.jpg,4 10012,valid
+44,valid/plates/SOUTH DAKOTA/4.jpg,35C 997,valid
+44,valid/plates/SOUTH DAKOTA/5.jpg,65E 867,valid
+45,valid/plates/TENNESSEE/1.jpg,05 79,valid
+45,valid/plates/TENNESSEE/2.jpg,TEN 1796,valid
+45,valid/plates/TENNESSEE/3.jpg,D36 94K,valid
+45,valid/plates/TENNESSEE/4.jpg,52 1408,valid
+45,valid/plates/TENNESSEE/5.jpg,462 VLF,valid
+46,valid/plates/TEXAS/1.jpg,XTG 989,valid
+46,valid/plates/TEXAS/2.jpg,EA 4256,valid
+46,valid/plates/TEXAS/3.jpg,TEXAS,valid
+46,valid/plates/TEXAS/4.jpg,DGV 9DV,valid
+46,valid/plates/TEXAS/5.jpg,CH9 L960,valid
+47,valid/plates/U S VIRGIN ISLANDS/1.jpg,C 49353,valid
+47,valid/plates/U S VIRGIN ISLANDS/2.jpg,TBR 985,valid
+47,valid/plates/U S VIRGIN ISLANDS/3.jpg,TFO 312,valid
+47,valid/plates/U S VIRGIN ISLANDS/4.jpg,C 43,valid
+47,valid/plates/U S VIRGIN ISLANDS/5.jpg,TDH 521,valid
+48,valid/plates/UTAH/1.jpg,B43 6FV,valid
+48,valid/plates/UTAH/2.jpg,D11 0BA,valid
+48,valid/plates/UTAH/3.jpg,B78 3TP,valid
+48,valid/plates/UTAH/4.jpg,CE 9927,valid
+48,valid/plates/UTAH/5.jpg,Z75 1NH,valid
+49,valid/plates/VERMONT/1.jpg,823,valid
+49,valid/plates/VERMONT/2.jpg,33765,valid
+49,valid/plates/VERMONT/3.jpg,25326,valid
+49,valid/plates/VERMONT/4.jpg,DNS 613,valid
+49,valid/plates/VERMONT/5.jpg,42 796,valid
+50,valid/plates/VIRGINIA/1.jpg,BTDUKE,valid
+50,valid/plates/VIRGINIA/2.jpg,87 777,valid
+50,valid/plates/VIRGINIA/3.jpg,ZAV 1506,valid
+50,valid/plates/VIRGINIA/4.jpg,XAV 3404,valid
+50,valid/plates/VIRGINIA/5.jpg,XKF 6302,valid
+51,valid/plates/WASHINGTON/1.jpg,EEM 139,valid
+51,valid/plates/WASHINGTON/2.jpg,XZL 797,valid
+51,valid/plates/WASHINGTON/3.jpg,A309389,valid
+51,valid/plates/WASHINGTON/4.jpg,AUJ2440,valid
+51,valid/plates/WASHINGTON/5.jpg,AZM9590,valid
+52,valid/plates/WASHINGTON DC/1.jpg,117 637,valid
+52,valid/plates/WASHINGTON DC/2.jpg,DG 2907,valid
+52,valid/plates/WASHINGTON DC/3.jpg,DCP00,valid
+52,valid/plates/WASHINGTON DC/4.jpg,MD 1075,valid
+52,valid/plates/WASHINGTON DC/5.jpg,6639,valid
+53,valid/plates/WEST VIRGINIA/1.jpg,8B 2282,valid
+53,valid/plates/WEST VIRGINIA/2.jpg,H 1752,valid
+53,valid/plates/WEST VIRGINIA/3.jpg,DWM 555,valid
+53,valid/plates/WEST VIRGINIA/4.jpg,45224,valid
+53,valid/plates/WEST VIRGINIA/5.jpg,HARSH,valid
+54,valid/plates/WISCONSIN/1.jpg,331 VJL,valid
+54,valid/plates/WISCONSIN/2.jpg,205 508,valid
+54,valid/plates/WISCONSIN/3.jpg,176 480,valid
+54,valid/plates/WISCONSIN/4.jpg,B246,valid
+54,valid/plates/WISCONSIN/5.jpg,H65 040,valid
+55,valid/plates/WYOMING/1.jpg,3 845R,valid
+55,valid/plates/WYOMING/2.jpg,5 2788,valid
+55,valid/plates/WYOMING/3.jpg,5 735,valid
+55,valid/plates/WYOMING/4.jpg,5 16,valid
+55,valid/plates/WYOMING/5.jpg,2 10,valid
+0,train/signs/c1_jpg.rf.62a2bc9e47d91a3371f92091293cc5f8.jpg,STOP,train
+0,train/signs/c2_jpg.rf.781e9f9e72704f79baf583b9f6f11b6c.jpg,STOP,train
+0,train/signs/c3_jpg.rf.78491e2e9be6cb8b01b20a279ac2d2bf.jpg,STOP,train
+0,train/signs/c3_jpg.rf.adabc0043fa3540268d77efcea0b9531.jpg,STOP,train
+0,train/signs/c4_jpg.rf.ae97b5e9a22bd23556565cb074c4c603.jpg,STOP,train
+0,train/signs/IMG_0448_jpg.rf.5fec78592bcbc83ad94f09898b6c4a41.jpg,SPEED LIMIT 35,train
+0,train/signs/IMG_0449_jpg.rf.0fd9592cdc0365f440a8210a633968c1.jpg,STOP,train
+0,train/signs/IMG_0465_jpg.rf.ec32087a743e88baa790239e9b932bad.jpg,RIGHT LANE MUST TURN RIGHT,train
+0,train/signs/IMG_0469_jpg.rf.ea8b5b105233896934da3d710c851b67.jpg,SPEED LIMIT 55,train
+0,train/signs/IMG_0476_jpg.rf.fd9c5bff50f07bfb1591d1c29785e1e6.jpg,NO DRIVING ON SHOULDER,train
+0,train/signs/IMG_0481_jpg.rf.3d13700ccd2e89dcd09acc5b38f8ce67.jpg,SPEED LIMIT 35,train
+0,train/signs/IMG_0489_jpg.rf.f40dcafb684187fed97ab166b5a07fc5.jpg,STOP,train
+0,train/signs/IMG_0491_jpg.rf.dafcaf347cad16dbaf2e6544d3914d23.jpg,NEXT 3 MILES,train
+0,train/signs/IMG_0498_jpg.rf.119872f515688059031b96bb92f9e51e.jpg,PASS WITH CARE,train
+0,train/signs/IMG_0500_jpg.rf.772ecee6db676f5e1179dc000195b8e3.jpg,DO NOT PASS,train
+0,train/signs/IMG_0505_jpg.rf.e87397f33c41f044360733fd36432b6d.jpg,STOP,train
+0,train/signs/IMG_0509_jpg.rf.1db7aa8fe1f80ddda270472a1fd6b81e.jpg,STOP,train
+0,train/signs/IMG_0516_jpg.rf.1ebe50b73f7a6803e2e6b0e5e9b1eb00.jpg,DO NOT PASS,train
+0,train/signs/IMG_0522_jpg.rf.d38173816fea3b3d712849ce1a185899.jpg,STOP,train
+0,train/signs/IMG_0525_jpg.rf.73c2dc650b821f873a11784b4c963118.jpg,REDUCED SPEED ZONE AHEAD,train
+0,train/signs/IMG_0526_jpg.rf.8c3376df59ad1e9c9b268c677eb39811.jpg,REDUCED SPEED ZONE AHEAD,train
+0,train/signs/IMG_0531_jpg.rf.9362b51b579c283f6b19e90fafba2e43.jpg,DO NOT PASS,train
+0,train/signs/IMG_0546_jpg.rf.4fce03b06233e1bd09b539b234a77d13.jpg,NO PARKING ON ANY STREET 2AM 6AM LOCAL ORDINANCE NOVEMBER 1 TO MAY 1,train
+0,train/signs/IMG_0549_jpg.rf.ab883abe08cf31b5c9fb42b7729b3c61.jpg,SPEED LIMIT 45,train
+0,train/signs/IMG_0555_jpg.rf.c5794c0e4f286f32c11250bdbe4d0a01.jpg,SPEED LIMIT 55,train
+0,train/signs/IMG_0557_jpg.rf.6d06fa2f0725ff20abffbbaf429a4a0e.jpg,SPEED LIMIT 55,train
+0,train/signs/IMG_0558_jpg.rf.3dce5a931545f754814265e7ed9380a5.jpg,MILE,train
+0,train/signs/IMG_0563_jpg.rf.aa8b0693210fbe756dc43732143d6713.jpg,JCT US 131,train
+0,train/signs/IMG_0569_jpg.rf.7ccf124f36bf0f0fb9765432a4ac4f79.jpg,AHEAD,train
+0,train/signs/IMG_0583_jpg.rf.788d33b53adac78bbf3dc2f618b05711.jpg,DO NOT PASS,train
+0,train/signs/IMG_0587_jpg.rf.09bdaff2e94aaed823323c03dfccf56b.jpg,STOP,train
+0,train/signs/IMG_0591_jpg.rf.c4197d6dfde0677a759a49e9b442bc6f.jpg,STOP,train
+0,train/signs/IMG_0595_jpg.rf.564623d05ad6b6090e7cdc57e9d3608c.jpg,STOP,train
+0,train/signs/IMG_0599_jpg.rf.7c8ec26790b2625b4ceeec1ff97682b4.jpg,REDUCED SPEED ZONE AHEAD,train
+0,train/signs/IMG_0610_jpg.rf.19ba5baa127a2cec7c36e771699821d1.jpg,RIGHT LANE MUST TURN RIGHT,train
+0,train/signs/IMG_0623_jpg.rf.ac79499ddc87720cccf477bfa21d5778.jpg,SPEED LIMIT 55,train
+0,train/signs/IMG_0629_jpg.rf.19fbfdf57b248ba2268fe854c0972f6e.jpg,STOP,train
+0,train/signs/IMG_0634_jpg.rf.abd7d47f3551d906c91eb69ee9382492.jpg,STOP,train
+0,train/signs/IMG_0636_jpg.rf.cb47de8aac733b0bea91ad98a7413426.jpg,SPEED LIMIT 35,train
+0,train/signs/IMG_0639_jpg.rf.1ce3dd7e7b7a63ed3ad6fd1eb1c92e4e.jpg,45 MPH SPEED ZONE AHEAD,train
+0,train/signs/IMG_0640_jpg.rf.fa3121f78ca4c64da8c74e1d3c33081f.jpg,DO NOT PASS,train
+0,train/signs/IMG_0642_jpg.rf.f0988d5edbdafef063e8ecca0a1f642f.jpg,SPEED LIMIT 45,train
+0,train/signs/IMG_0643_jpg.rf.6f3aff00d8a53f148f0402559b9d9fb0.jpg,STOP,train
+0,train/signs/IMG_0644_jpg.rf.8fe7fa9a6b82ea698b114dc1cb067414.jpg,STOP,train
+0,train/signs/IMG_0649_jpg.rf.baf124fad232aa964b3304c840583c98.jpg,SPEED LIMIT 25,train
+0,train/signs/IMG_0652_jpg.rf.6216cbd6426519ce3f665de425f0bba8.jpg,RIGHT LANE ENDS,train
+0,train/signs/IMG_0660_jpg.rf.dc96d4a54604ca9fe1210cb14b73fe0d.jpg,SPEED LIMIT 55,train
+0,train/signs/IMG_0663_jpg.rf.69ed8203b482f84c35891f582e94557e.jpg,STOP,train
+0,train/signs/IMG_0665_jpg.rf.c0c8f1b48e7cb07fd5d7380ec27a8c1a.jpg,STOP,train
+0,train/signs/IMG_0668_jpg.rf.3fcac2377200d52cf951d5d26fb7b61d.jpg,STOP,train
+0,train/signs/IMG_0670_jpg.rf.c9fb9d7d456091d2d741b6fd9d97c2fb.jpg,BRIDGE MAY BE ICY,train
+0,train/signs/IMG_0672_jpg.rf.0898b61258bc619418e0219b83fdd2f1.jpg,BRIDGE MAY BE ICY,train
+0,train/signs/IMG_0678_jpg.rf.71b783bd940672daae4f6dd8d8c22493.jpg,BRIDGE MAY BE ICY,train
+0,train/signs/IMG_0681_jpg.rf.6fc8e2b81b13bbabee5a513fcdda43d7.jpg,SPEED LIMIT 55,train
+0,train/signs/IMG_0691_jpg.rf.71d6a6ab09ec7e3ba1ef0da5e145702b.jpg,STOP,train
+0,train/signs/IMG_0702_jpg.rf.057f61b6348357739b0161061061cd2c.jpg,STOP,train
+0,train/signs/IMG_0706_jpg.rf.784da8176809dfcb23b4b2b0e6b55551.jpg,STOP,train
+0,train/signs/IMG_0714_jpg.rf.0c78af95cc647fce942f74c16b63c3e7.jpg,STOP,train
+0,train/signs/IMG_0737_jpg.rf.c147261328c1367b13e269ed23ea74d1.jpg,STOP,train
+0,train/signs/IMG_0739_jpg.rf.f09d82759f83da75105a0a6917b9db28.jpg,STOP,train
+0,train/signs/IMG_0741_jpg.rf.4ee3d5b51d5af4664402623946166261.jpg,STOP,train
+0,train/signs/IMG_0748_jpg.rf.597cb21935df4529c85d0db10d98d160.jpg,STOP,train
+0,train/signs/IMG_0749_jpg.rf.569c68027bd0d5644be601a00487c8a5.jpg,STOP,train
+0,train/signs/IMG_0752_jpg.rf.d4f598ef05110aee30a46b29b2c94dea.jpg,STOP,train
+0,train/signs/n16_JPG.rf.fc285fed17f2d8cd4dc4613a8bddc4e8.jpg,SPEED LIMIT 35,train
+0,train/signs/n17_JPG.rf.7e5b534e5fc7be1512557a72fa7323f6.jpg,SPEED LIMIT 35,train
+0,train/signs/n1_JPG.rf.6af5abb9efb918bfeb45a5bf1dfdd143.jpg,SPEED LIMIT 15,train
+0,train/signs/n20_JPG.rf.f1b5ef973399369b681afb457277f537.jpg,SPEED LIMIT 25,train
+0,train/signs/n21_JPG.rf.54f360fe35a6e27931bb2d58670eb973.jpg,STOP TURN RIGHT ONLY,train
+0,train/signs/n23_JPG.rf.b9c3862678da5b5c4069e4cd3183162c.jpg,SPEED LIMIT 35,train
+0,train/signs/n24_JPG.rf.e928d798cf90a4a38ba4d1f80c4b1ab7.jpg,SPEED LIMIT 35,train
+0,train/signs/n28_JPG.rf.611ff587f4213cb46be706cd1a95b0df.jpg,CENTER LANE ONLY,train
+0,train/signs/n29_JPG.rf.4f5ed57f71da292cbd8b63220eb7a277.jpg,SPEED LIMIT 35,train
+0,train/signs/n2_JPG.rf.6a8a5ef97cfd46b8220ae30b0ce835f2.jpg,SPEED LIMIT 15,train
+0,train/signs/n30_JPG.rf.785e2af6ef135968dbf5c3bc8540b397.jpg,SPEED LIMIT 40,train
+0,train/signs/n3_JPG.rf.8a616efd37503e0cd1f8943a2b21b9cc.jpg,SPEED LIMIT 15,train
+0,train/signs/n42_JPG.rf.ed2514b1ba087a1ed5214e7d06f668d6.jpg,REDUCED SPEED 50 AHEAD,train
+0,train/signs/n43_JPG.rf.df44ecd8a182b650fa97106e05820ee0.jpg,REDUCED SPEED 50 AHEAD,train
+0,train/signs/n50_jpg.rf.e0fa3bacb5bc3df413504f9709f50b0f.jpg,SPEED LIMIT 25,train
+0,train/signs/n51_jpg.rf.ad90c8dd419585342edff13401980272.jpg,SPEED LIMIT 25,train
+0,train/signs/n52_jpg.rf.dd7406847972ec9d60f0ccef21deb1cf.jpg,SPEED LIMIT 25,train
+0,train/signs/n52_jpg.rf.e5b6ed91830a56fd358c53cd6abc9cef.jpg,SPEED LIMIT 25,train
+0,train/signs/n53_jpg.rf.3ce7be2baf65eeee89a28c7544a0738b.jpg,SPEED LIMIT 25,train
+0,train/signs/n53_jpg.rf.f8cb1798ee71b46854aed53a574dd0e6.jpg,SPEED LIMIT 25,train
+0,train/signs/n54_jpg.rf.923f7a4b405746237abb1dc5597c878e.jpg,SPEED LIMIT 25,train
+0,train/signs/n55_jpg.rf.1f97c6b4841d2074444fe2ba77cec095.jpg,SPEED LIMIT 25,train
+0,train/signs/n56_jpg.rf.932264f2740a3e04aaa9cbb3ab8faf26.jpg,SPEED LIMIT 25,train
+0,train/signs/n57_jpg.rf.4cdf738631fbf1978952fc416a45585e.jpg,SPEED LIMIT 25,train
+0,train/signs/n58_jpg.rf.2c78d5560c5553da67bdbed0b18b1de5.jpg,SPEED LIMIT 25,train
+0,train/signs/n59_jpg.rf.ca395eba12276cf7eea2b62fe556fdf1.jpg,SPEED LIMIT 25,train
+0,train/signs/n5_JPG.rf.728209dcdeda325eec351ed0f37869a6.jpg,SPEED LIMIT 15,train
+0,train/signs/n61_jpg.rf.2845b128b2716ecb1149b6d180099354.jpg,SPEED LIMIT 25,train
+0,train/signs/n62_jpg.rf.37ae0609e9ff923df489f1535d23c8ad.jpg,SPEED LIMIT 25,train
+0,train/signs/n63_jpg.rf.b370c97afb4896e7893efa3003cba674.jpg,SPEED LIMIT 25,train
+0,train/signs/n64_jpg.rf.877ba6f699dd221656c2022494dccce7.jpg,SPEED LIMIT 25 SPEED LIMIT STRICTLY ENFORCED,train
+0,train/signs/n65_jpg.rf.73c8350cde0ec650e321e2d628d80b95.jpg,SPEED LIMIT 25,train
+0,train/signs/n66_jpg.rf.3e4e4d78a485657bebbc142c66b10767.jpg,SPEED LIMIT 25 PHOTO ENFORCED,train
+0,train/signs/n69_jpg.rf.66044d9db909cf03d6c850efbfdf365e.jpg,SCHOOL SPEED LIMIT 25,train
+0,train/signs/n6_JPG.rf.b9e2f83dd210e873c770498b3db71868.jpg,SPEED LIMIT 25,train
+0,train/signs/n70_jpg.rf.70d32df056af0620fa517f69b22bdfd2.jpg,SPEED LIMIT 25,train
+0,train/signs/n71_jpg.rf.99c3b3fd63d700896c64863b8cb8f075.jpg,SCHOOL SPEED LIMIT 25,train
+0,train/signs/n73_jpg.rf.8703237681864ebe9016cc205950edb4.jpg,SPEED LIMIT 25 RADAR ENFORCED,train
+0,train/signs/n74_jpg.rf.f843ffe5469641a93410c7ed995ecdff.jpg,SPEED LIMIT 25,train
+0,train/signs/n75_jpg.rf.b0ff7d84fcfcaf8cc710b4642214a385.jpg,SPEED LIMIT 25,train
+0,train/signs/o3_jpg.rf.36127ae6afd730325d475bebd0071b37.jpg,NO OUTLET,train
+0,train/signs/o3_jpg.rf.39d610b833f354702a9ae7123ce7273f.jpg,NO OUTLET,train
+0,train/signs/s31_JPG.rf.7a88aa7f20cf8e3c7e03b7eab162b2e0.jpg,SPEED LIMIT 25,train
+0,train/signs/s32_JPG.rf.a0d5941786582ea0c543e71085657930.jpg,CENTER LANE ONLY,train
+0,train/signs/s36_JPG.rf.9747469b1512b73bc1e32e6f5217ce82.jpg,SPEED LIMIT 40,train
+0,train/signs/s39_JPG.rf.cee50a42549807f59b52232d021d8b88.jpg,CENTER LANE ONLY,train
+0,train/signs/s46_JPG.rf.752650cb41156c54fbc1a5b5c13a78c3.jpg,SPEED LIMIT 25,train
+0,train/signs/SAM_0163_JPG.rf.46981452507519dd884e1472842366ac.jpg,SPEED LIMIT 25,train
+0,train/signs/SAM_0164_JPG.rf.b1fd8f96f48d6c0f920736a3fcd047d0.jpg,STOP,train
+0,train/signs/SAM_0167_JPG.rf.7548e4aa4f52b89c5a02f2ac40952f16.jpg,STOP,train
+0,train/signs/SAM_0168_JPG.rf.4a5764eb5189aed04fd5ecfb816d0f8a.jpg,STOP,train
+0,train/signs/SAM_0170_JPG.rf.0e581140ad958257f171a2d3d7123391.jpg,SPEED LIMIT 25,train
+0,train/signs/SAM_0174_JPG.rf.b6a6bfb9850e5ee996dff236faa50996.jpg,STOP,train
+0,train/signs/SAM_0178_JPG.rf.a16c522668d6e7c0ee7a2b6bb652351b.jpg,STOP,train
+0,train/signs/SAM_0194_JPG.rf.55925220595505da1f93a6bf14959786.jpg,NO OUTLET,train
+0,train/signs/SAM_0195_JPG.rf.fba4d80a87674015dff7354e1b5701fd.jpg,ROAD ENDS,train
+0,train/signs/SAM_0196_JPG.rf.69454778e7a5e53032f5f479cef6c5da.jpg,ROAD ENDS,train
+0,train/signs/SAM_0202_JPG.rf.67b22d9295eeb6f0e6f70f428f9e413d.jpg,SPEED LIMIT 45,train
+0,train/signs/SAM_0203_JPG.rf.24807a353faa52f306fcb6298b0538d6.jpg,SPEED LIMIT 45,train
+0,train/signs/SAM_0216_JPG.rf.731673e5954d1e15100efddf4b53998f.jpg,STOP ALL WAY,train
+0,train/signs/SAM_0220_JPG.rf.31c1c867517babaccb9f96089dc6d2bf.jpg,STOP,train
+0,train/signs/SAM_0223_JPG.rf.3d21077d55a2d3546e4a03f5f26675ee.jpg,SPEED LIMIT 30,train
+0,train/signs/SAM_0225_JPG.rf.f16f34a0dad3d0ec05af414f2bb27c1e.jpg,CENTER LANE ONLY,train
+0,train/signs/SAM_0226_JPG.rf.2e0c1864bd6adad657663db8a81abdb4.jpg,CENTER LANE ONLY,train
+0,train/signs/SAM_0228_JPG.rf.dedac77fc1571786f49888e4dee60e94.jpg,CENTER LNE ONLY,train
+0,train/signs/SAM_0238_JPG.rf.997ee00c517f5357c360e29beda4d9a3.jpg,CENTER LAANE ONLY,train
+0,train/signs/SAM_0244_JPG.rf.aba3866de2c5b7aa7a6ab08b9e9129aa.jpg,LIMIT 35,train
+0,train/signs/SAM_0246_JPG.rf.7eea72a0e27832f1136245d82d167803.jpg,35,train
+0,train/signs/SAM_0250_JPG.rf.2ec165451a1fe556f89a68b617d0e566.jpg,NO OUTLET,train
+0,train/signs/SAM_0251_JPG.rf.d48feffc43fb9a624f7851bd4c2bb2bf.jpg,NO OUTLET,train
+0,train/signs/SAM_0260_JPG.rf.7846014d59d19836f0656232f1670c1b.jpg,STOP TURN RIGHT ONLY,train
+0,train/signs/SAM_0261_JPG.rf.3c5257e302d67d687f9dd5a2e0497068.jpg,STOP TURN RIGHT ONLY,train
+0,train/signs/SAM_0279_JPG.rf.ec3320d6c7d5934dc445045d585656cf.jpg,CENTER LANE ONLY,train
+0,train/signs/SAM_0287_JPG.rf.a3fdaf0a782a7d8bd0fc75ecf7a12add.jpg,SPEED LIMIT 35,train
+0,train/signs/SAM_0307_JPG.rf.e520161a4c00a9d546a33263c84a28d1.jpg,SPEED LIMIT 40,train
+0,train/signs/SAM_0316_JPG.rf.581f50e7a295d1007c78706d9c43a722.jpg,STOP,train
+0,train/signs/SAM_0801_JPG.rf.6ec0e2f4f0fba09626106462bd611135.jpg,SPEED LIMIT 45,train
+0,train/signs/SAM_0804_JPG.rf.f8a1b2af5fdb27fe0824f37fccb634d4.jpg,STOP,train
+0,train/signs/SAM_0805_JPG.rf.53e1eb2b17514e663f04aaf4cf83ca1a.jpg,STOP,train
+0,train/signs/SAM_0807_JPG.rf.874692a9d56f362e20dc56ac2463573b.jpg,SPEED LIMIT 45,train
+0,train/signs/SAM_0808_JPG.rf.bcb66fe3600daf5d0f348c126677b1db.jpg,STOP,train
+0,train/signs/SAM_0809_JPG.rf.16fd7cc974a41a2ae12183c6f5a85c76.jpg,STOP,train
+0,train/signs/SAM_0819_JPG.rf.1919ab166a4b1cb8c44fee4bb2334ecc.jpg,DO NOT PASS,train
+0,train/signs/SAM_0820_JPG.rf.5aceb54640506e8514eb986f4c36ccce.jpg,PASS WITH CARE,train
+0,train/signs/SAM_0825_JPG.rf.6b3e23b23e4ef24c52b3caecb1b360e2.jpg,STOP 4 WAY,train
+0,train/signs/SAM_0826_JPG.rf.1d3f2c1096023ff04eb8a7bf04b4c594.jpg,STOP 4 WAY,train
+0,train/signs/SAM_0827_JPG.rf.70c52007d6267e5156ff5931c42d966f.jpg,DO NOT PASS,train
+0,train/signs/SAM_0829_JPG.rf.a87937f51e5b49fc73575290a046eecd.jpg,DO NOT PASS,train
+0,train/signs/SAM_0830_JPG.rf.b0be74bdc69c1e46ec096f971d9c23db.jpg,TRUCK CROSSING,train
+0,train/signs/SAM_0831_JPG.rf.03862a08df19863f90bded26c3c2fcd6.jpg,TRUCK CROSSING,train
+0,train/signs/SAM_0834_JPG.rf.e1714aa31fa30ef30dd129943f480ae4.jpg,SPEED LIMIT 45,train
+0,train/signs/SAM_0836_JPG.rf.6a272f704a5e11cea86307751e0ed559.jpg,SPEED LIMIT 45,train
+0,train/signs/SAM_0837_JPG.rf.e68ce44f37747395fbffefad79bbd0c4.jpg,SPEED LIMIT 45,train
+0,train/signs/SAM_0838_JPG.rf.23a07e2c5be5fc4ced595ff2d665e721.jpg,DO NOT PASS,train
+0,train/signs/SAM_0842_JPG.rf.8c2a757cea98534067fa12318c580c07.jpg,STOP 4 WAY,train
+0,train/signs/SAM_0844_JPG.rf.a2394fc8d280fff17039dd1dc09611b7.jpg,STOP 4 WAY,train
+0,train/signs/SAM_0845_JPG.rf.043452dafb88ee175a0a5298ec344d33.jpg,DO NOT PASS,train
+0,train/signs/SAM_0847_JPG.rf.f6c73646a982f390671d9840a6cc460b.jpg,30 MPH,train
+0,train/signs/SAM_0850_JPG.rf.720455702bfed73e4ec7e45e4162aebf.jpg,STOP,train
+0,train/signs/SAM_0851_JPG.rf.233bc04b5a5007cdbe32cfdd8841173a.jpg,STOP,train
+0,train/signs/SAM_0852_JPG.rf.91b46b84d0156c614c185fbe521e3855.jpg,STOP,train
+0,train/signs/SAM_0854_JPG.rf.197096d31879b17d656097b7484c27fe.jpg,CENTER LANE ONLY,train
+0,train/signs/SAM_0860_JPG.rf.2b0440649098b403ed6addd0a711a705.jpg,CENTER LANE ONLY,train
+0,train/signs/SAM_0866_JPG.rf.391b542e3339ae17feadec0deb4fa2fb.jpg,CENTER LANE ONLY,train
+0,train/signs/SAM_0867_JPG.rf.520a801141d306f7e3a1f67f3c875546.jpg,CENTER LANE ONLY,train
+0,train/signs/SAM_0871_JPG.rf.808ca37dd18fff3de5c8febaa9a19838.jpg,CENTER LANE ONLY,train
+0,train/signs/SAM_0872_JPG.rf.c4b38834acb6e494c1b415f1170303a1.jpg,CENTER LANE ONLY,train
+0,train/signs/SAM_0877_JPG.rf.16c5acab125c50206c515cd96f807a15.jpg,SPEED LIMIT 50,train
+0,train/signs/SAM_0878_JPG.rf.35b6643a8f4efc33ffbcbdab66924496.jpg,STOP EXIT SITE VIA SEECO DRIVE TRAFFIC LIGHT,train
+0,train/signs/SAM_0879_JPG.rf.a246d61f6cfbc75fb58728ccf838b29d.jpg,STOP EXIT SITE VIA SEECO DRIVE TRAFFIC LIGHT,train
+0,train/signs/SAM_0880_JPG.rf.114ab0142f84de672d4718ab354717cb.jpg,STOP EXIT SITE VIA SEECO DRIVE TRAFFIC LIGHT,train
+0,train/signs/SAM_0882_JPG.rf.8288e5f1e1dc9cbf16d775f6675a2f2a.jpg,SPEED LIMIT 50,train
+0,train/signs/SAM_0885_JPG.rf.4a70ece1e4feb061343d821698c52965.jpg,BRIDGE MAY BE ICY,train
+0,train/signs/SAM_0890_JPG.rf.c60c060c0ef2b2cc908c7f8f90b120a6.jpg,STOP,train
+0,train/signs/SAM_0891_JPG.rf.355bcd8447ee02a61a94cfc5910c10ad.jpg,STOP,train
+0,train/signs/SAM_0892_JPG.rf.9b2df214e62fec3082e011d70f6522a0.jpg,STOP,train
+0,train/signs/SAM_0893_JPG.rf.eadec9828b50d6da0a60361b748cd8e7.jpg,SPEED LIMIT 15,train
+0,train/signs/SAM_0894_JPG.rf.a529695e3e5e6c6b5cd507cd89c524cb.jpg,SPEED LIMIT 16,train
+0,train/signs/SAM_0897_JPG.rf.8c723213b06981e26b3d5504c3d02054.jpg,STOP,train
+0,train/signs/SAM_0898_JPG.rf.994d68d0e2ef3c8d3c89bd4280878a6b.jpg,STOP,train
+0,train/signs/SAM_0900_JPG.rf.bb7dc2caa52286a909863e28b7381fe3.jpg,STOP,train
+0,train/signs/SAM_0901_JPG.rf.9c3d225453cbabbf119d06acb1e759bb.jpg,STOP,train
+0,train/signs/SAM_0902_JPG.rf.69da4b7c47d658f3436d6b9d08b7fac5.jpg,STOP,train
+0,train/signs/SAM_0905_JPG.rf.ab56150041cc95dce5a917b0c9fe6bce.jpg,STOP,train
+0,train/signs/SAM_0906_JPG.rf.e2dd468af859eb9cec36cdb95c93814c.jpg,STOP,train
+0,train/signs/SAM_0917_JPG.rf.d787b301eed61c1e0e358c5a870432e1.jpg,STOP,train
+0,train/signs/SAM_0918_JPG.rf.85e5acd89a1c8ce78555ca3a2f41f794.jpg,STOP,train
+0,train/signs/SAM_0922_JPG.rf.96458d5cd69e7c21114a17ab441f3a0f.jpg,RIGHT LANE MUST TURN RIGHT,train
+0,train/signs/SAM_0923_JPG.rf.19b5f56b0e41dabff6d5b9e0905e640a.jpg,STOP RIGHT TURN ONLY,train
+0,train/signs/SAM_0923_JPG.rf.cb118e53d443fcaf421d69e8a652db11.jpg,STOP RIGHT TURN ONLY,train
+0,train/signs/SAM_0925_JPG.rf.dbd31079d53fe301ceb086c4084a3360.jpg,STOP RIGHT TURN ONLY,train
+0,train/signs/SAM_0926_JPG.rf.ec6c97c51689f8aada9cda16bc32eb58.jpg,STOP RIGHT TURN ONLY,train
+0,train/signs/SAM_0927_JPG.rf.363d7c5aff6cd0a5fb5c42969fc0dfff.jpg,STOP RIGHT TURN ONLY,train
+0,train/signs/SAM_0928_JPG.rf.1f1c3164d82ca988dd9630bc22b22065.jpg,STOP RIGHT TURN ONLY,train
+0,train/signs/SAM_0929_JPG.rf.32bb262a0786f142412f70bd20d28c93.jpg,STOP RIGHT TURN ONLY,train
+0,train/signs/SAM_0930_JPG.rf.0c0b248b0081a14b589dc8599e7d5915.jpg,STOP RIGHT TURN ONLY,train
+0,train/signs/SAM_0930_JPG.rf.813eb7a7cdc607e10349419bb353361d.jpg,STOP RIGHT TURN ONLY,train
+0,train/signs/SAM_0940_JPG.rf.3bbba2cba82fff602fa5f9e05ddf41bb.jpg,SPEED LIMIT 45,train
+0,train/signs/SAM_0941_JPG.rf.ca92cb853f93b1a3a1363fcc94acff75.jpg,STOP,train
+0,train/signs/SAM_0942_JPG.rf.ff917782ab6359a3983b1f943d3df76a.jpg,STOP,train
+0,train/signs/SAM_0943_JPG.rf.afe4fe4e4a2f415e253c033328be96c8.jpg,STOP,train
+0,train/signs/SAM_0944_JPG.rf.62dec3d77b7bcbde609204aa5de02723.jpg,STOP,train
+0,train/signs/SAM_0945_JPG.rf.c05360ce2f3bf308e5d6e977edb0d288.jpg,STOP,train
+0,train/signs/SAM_0946_JPG.rf.36f2b5f8c7b49f37eb3c19ae67dc2563.jpg,STOP,train
+0,train/signs/SAM_0947_JPG.rf.36c547af2bc12e04bdd13b64cb1d5774.jpg,STOP TURN RIGHT ONLY,train
+0,train/signs/SAM_0949_JPG.rf.08e3ac044a8b8b0165ce0b7320b2a40c.jpg,STOP TURN RIGHT ONLY,train
+0,train/signs/SAM_0949_JPG.rf.7405534a08bfb4e6f3cdaa29cf150ab8.jpg,STOP TURN RIGHT ONLY,train
+0,train/signs/SAM_0956_JPG.rf.bdd31e35a4c4054775b8c40efb758730.jpg,SPEED LIMIT 45,train
+0,train/signs/SAM_0957_JPG.rf.6e68704ffe368564dcfa3c86d86992eb.jpg,SPEED LIMIT 46,train
+0,train/signs/SAM_0958_JPG.rf.b4165ff63f3a263d7093adc9c80d51f2.jpg,SPEED LIMIT 47,train
+0,train/signs/SAM_0959_JPG.rf.d4f361c8d4e3bc2dabfc884bb25e2c0e.jpg,SPEED LIMIT 48,train
+0,train/signs/SAM_0972_JPG.rf.744d4f6009cdac0b14135bd7928817fa.jpg,SPEED LIMIT 15,train
+0,train/signs/SAM_0974_JPG.rf.6434d7bee4668701fb8961f38ed436aa.jpg,CENTER LANE ONLY,train
+0,train/signs/SAM_0976_JPG.rf.331005ca6d086ff5995b3a01a885e043.jpg,CENTER LANE ONLY,train
+0,train/signs/SAM_0977_JPG.rf.b9624e09bc64985c63bf71f9bebd5429.jpg,SPEED LIMIT 35,train
+0,train/signs/SAM_0978_JPG.rf.613161262ddfa4300f66f96e5c3e27eb.jpg,CENTER LANE ONLY,train
+0,train/signs/SAM_1054_JPG.rf.5e6942d4c85567f56633f992f4fd2daf.jpg,STOP,train
+0,train/signs/SAM_1055_JPG.rf.0e13bfa572dcbfdb29f7e975f58c1611.jpg,STOP,train
+0,train/signs/SAM_1056_JPG.rf.61e204e6fd0179b90af2df77d777c12f.jpg,STOP,train
+0,train/signs/SAM_1057_JPG.rf.8422593e4f3a5185a243ef88143a89e3.jpg,STOP,train
+0,train/signs/SAM_1058_JPG.rf.7f62010c173688d91e76e9bb63205a82.jpg,STOP 3 WAY,train
+0,train/signs/SAM_1058_JPG.rf.e7b28a495fc19e1da5fe98ba8fd8b4cf.jpg,STOP 3 WAY,train
+0,train/signs/SAM_1060_JPG.rf.22e708978e99c227582f3e488077ece1.jpg,STOP 3 WAY,train
+0,train/signs/SAM_1062_JPG.rf.924c466fb18d5608531d93c398c1ae42.jpg,STOP 3 WAY,train
+0,train/signs/SAM_1063_JPG.rf.b83caa3d95ef65acad9021b5b50cfcae.jpg,STOP 3 WAY,train
+0,train/signs/SAM_1065_JPG.rf.a52ca76b74c0161bd4be34b02ff1e1a4.jpg,STOP 3 WAY,train
+0,train/signs/SAM_1068_JPG.rf.a52b32b8dee6ed07dfce44e955e47422.jpg,STOP 3 WAY,train
+0,train/signs/SAM_1069_JPG.rf.081bc3846074522a91bb95cd590ad1be.jpg,STOP 3 WAY,train
+0,train/signs/SAM_1070_JPG.rf.8cbfafdb87db8def2f85e898f00c55e0.jpg,STOP 3 WAY,train
+0,train/signs/SAM_1073_JPG.rf.746844269eb27e7b157a0d9a21fdd964.jpg,STOP 3 WAY,train
+0,train/signs/SAM_1074_JPG.rf.75abb252cf4b99bb53418a5eba0743a4.jpg,STOP,train
+0,train/signs/SAM_1075_JPG.rf.e28b9575b67c658d7fa43c29d2cb9eac.jpg,STOP,train
+0,train/signs/SAM_1199_JPG.rf.41214bb244aa5272d0bd486eafee0632.jpg,STOP ALL WAY,train
+0,train/signs/SAM_1200_JPG.rf.b46cd430c36c4a6cd2e1a1d930de644f.jpg,STOP ALL WAY,train
+0,train/signs/SAM_1202_JPG.rf.7ccfb428c837428c1c13241ea17997a7.jpg,STOP,train
+0,train/signs/SAM_1203_JPG.rf.09c1abe75aceffb26d9b4ea17447921f.jpg,STOP,train
+0,train/signs/SAM_1205_JPG.rf.9811e6a7b9f3c1c9fcd263ee821a6177.jpg,STOP,train
+0,train/signs/SAM_1208_JPG.rf.0a852dd0deb478a134d1f3d0e7e1cc69.jpg,STOP,train
+0,train/signs/SAM_1214_JPG.rf.f0c093b9e298b17d2a06f7405f80fec7.jpg,SPEED LIMIT 15,train
+0,train/signs/SAM_1216_JPG.rf.72bdc0d58f45db54f22170920b3299e6.jpg,STOP,train
+0,train/signs/SAM_1217_JPG.rf.2b1f031000367cc849e55266911f8662.jpg,STOP,train
+0,train/signs/SAM_1218_JPG.rf.95cc09fed71a762696de3be3e01a7a65.jpg,STOP,train
+0,train/signs/SAM_1219_JPG.rf.403ffe679acdf9d4e0e4f41fcd37b916.jpg,STOP,train
+0,train/signs/SAM_1220_JPG.rf.623ed32883c8dcd928cfb792af808cac.jpg,STOP,train
+0,train/signs/SAM_1222_JPG.rf.62b14e39a91903999be9d58cf8db60dc.jpg,STOP,train
+0,train/signs/SAM_1223_JPG.rf.8bebc6cfa8fca0533288df5ed8814b4c.jpg,STOP,train
+0,train/signs/SAM_1224_JPG.rf.0927e5b0bc429bf1cf00d5a41c0ebd01.jpg,STOP,train
+0,train/signs/SAM_1226_JPG.rf.95b767642bf13e2361c343633f48e96d.jpg,STOP,train
+0,train/signs/SAM_1227_JPG.rf.908fea2abb8892160e6495956ce0d4d1.jpg,STOP,train
+0,train/signs/SAM_1229_JPG.rf.c5a532c0f59e3b3008828590f5eead3c.jpg,STOP,train
+0,train/signs/SAM_1230_JPG.rf.8aadb526655697be5cba5c114be84574.jpg,STOP,train
+0,train/signs/SAM_1233_JPG.rf.2f178385615995bbec689fb55bf0d74b.jpg,STOP,train
+0,train/signs/SAM_1234_JPG.rf.1256a17f1966fc8124b4fe01127f7faf.jpg,STOP,train
+0,train/signs/SAM_1236_JPG.rf.284a989d03c56367a3d2344e03f7288f.jpg,STOP,train
+0,train/signs/SAM_1239_JPG.rf.170718137eba4bebedf1c0972eb58a4a.jpg,STOP,train
+0,train/signs/SAM_1240_JPG.rf.d793cbf296464dc3f10deadf78a3dc13.jpg,STOP,train
+0,train/signs/SAM_1241_JPG.rf.3640da48b6a783da150a23c19533c821.jpg,STOP,train
+0,train/signs/SAM_1242_JPG.rf.d94b71cd8c6b364d11e571982b0b9fdf.jpg,STOP,train
+0,train/signs/SAM_1245_JPG.rf.b40cc8a80153d7853fc316ea6898162f.jpg,STOP,train
+0,train/signs/SAM_1245_JPG.rf.cd6e665c188b1c74e0110d7cf6eee6be.jpg,STOP,train
+0,train/signs/SAM_1247_JPG.rf.c0daee711febd2299e1c18f57f3d5b3f.jpg,STOP,train
+0,train/signs/SAM_1248_JPG.rf.87aa61c6671ff4d08025e0bd5a1cf2ca.jpg,SPEED LIMIT 15,train
+0,train/signs/SAM_1249_JPG.rf.3d48cdea53376a593b533fb132aa6385.jpg,STOP,train
+0,train/signs/SAM_1250_JPG.rf.77d06587d7f0c7d3b30506e0175223af.jpg,STOP SPEED LIMIT 15 SLOW CHILDREN AT PLAY,train
+0,train/signs/SAM_1250_JPG.rf.dc8a3c23d4bf3afd3acdacb84a8838e5.jpg,STOP SPEED LIMIT 15 SLOW CHILDREN AT PLAY,train
+0,train/signs/SAM_1251_JPG.rf.493a7fd46b33ac0bcd39b7e1ff9fe133.jpg,STOP SPEED LIMIT 15 SLOW CHILDREN AT PLAY,train
+0,train/signs/SAM_1251_JPG.rf.51b9b75952ad72f12d29529132ef9d63.jpg,STOP SPEED LIMIT 15 SLOW CHILDREN AT PLAY,train
+0,train/signs/SAM_1252_JPG.rf.34aa730bea891dfd58568e43d82f7868.jpg,STOP SPEED LIMIT 15 SLOW ,train
+0,train/signs/SAM_1252_JPG.rf.638c2653dac6bd905ca2f9b34b10fb0d.jpg,STOP SPEED LIMIT 15 SLOW ,train
+0,train/signs/SAM_1253_JPG.rf.edc23dd1940c34cb37d6ae521b174c9c.jpg,STOP,train
+0,train/signs/SAM_1256_JPG.rf.59416b33b18e91d8751837597a1df179.jpg,STOP SPEED LIMIT 15,train
+0,train/signs/SAM_1256_JPG.rf.cc8fd9a686b5a07bc54984e154c81326.jpg,STOP SPEED LIMIT 16,train
+0,train/signs/SAM_1257_JPG.rf.0d619aa99b3e2f7849fa01417811a149.jpg,STOP,train
+0,train/signs/SAM_1259_JPG.rf.4f614db4067f217045535111a0d0af66.jpg,STOP,train
+0,train/signs/SAM_1260_JPG.rf.e18fa97cba3fdb365b98b0e88210601e.jpg,SPEED LIMIT 15,train
+0,train/signs/SAM_1261_JPG.rf.cc629f3b316e9fa87c45465e70de72d0.jpg,SPEED LIMIT 15 SLOW CHILDREN AT PLAY,train
+0,train/signs/SAM_1263_JPG.rf.e55bbf362b440397b5d2fabfa7377a76.jpg,PEDESTRIAN CROSSING SPEED LIMIT 15,train
+0,train/signs/SAM_1264_JPG.rf.a429e6848914096a6de7c492af16b6ef.jpg,PEDESTRIAN CROSSING SPEED LIMIT 16,train
+0,train/signs/SAM_1264_JPG.rf.e31e296ac34f2137a9ffeb96232c5a41.jpg,PEDESTRIAN CROSSING SPEED LIMIT 17,train
+0,train/signs/SAM_1265_JPG.rf.74257af4aea936a0a450b2c788765c91.jpg,PEDESTRIAN CROSSING SPEED LIMIT 18,train
+0,train/signs/SAM_1637_JPG.rf.600508a9089732a1a43017c2d974ede9.jpg,STOP 4 WAY,train
+0,train/signs/SAM_1639_JPG.rf.6479810d5c0fb21b9f4000d247928f1d.jpg,STOP 4 WAY,train
+0,train/signs/SAM_1640_JPG.rf.bfbe068d42bb0989203e9204ea321737.jpg,STOP 4 WAY,train
+0,train/signs/SAM_1650_JPG.rf.966e4d017a0e012be2e1650546900380.jpg,SPEED LIMIT 25,train
+0,train/signs/SAM_1651_JPG.rf.6ffbcaea7aa2a1da9d654c4a14bbdd9c.jpg,SPEED LIMIT 26,train
+0,train/signs/SAM_1652_JPG.rf.4b6ae6c9d2c6e056f20877a9d7d3eb74.jpg,SPEED LIMIT 27,train
+0,train/signs/SAM_1653_JPG.rf.74d87d894d26ba07d34b9f85cca93d01.jpg,SPEED LIMIT 28,train
+0,train/signs/SAM_1656_JPG.rf.661471fe2add1bada0282027cdce3aa8.jpg,STOP 3 WAY,train
+0,train/signs/SAM_1658_JPG.rf.d7907856fe17508babeccdb6b5681afe.jpg,STOP ,train
+0,train/signs/SAM_1659_JPG.rf.ed760a4e12b2f476c20fff8b791dc38d.jpg,SPEED LIMIT 25,train
+0,train/signs/SAM_1666_JPG.rf.07527b46447005b898be21595c114d1a.jpg,STOP,train
+0,train/signs/SAM_1668_JPG.rf.176e4cd712832e7ecbea4b9afc0f16f1.jpg,STOP,train
+0,train/signs/SAM_1669_JPG.rf.d3b0df35eca7a1388fea079126581640.jpg,STOP,train
+0,train/signs/SAM_1670_JPG.rf.bc40b8ed8ce4007ef07d5456b9c3ae20.jpg,STOP,train
+0,train/signs/SAM_1671_JPG.rf.b30b325478332d3369aae40c40135d8a.jpg,NO OUTLET,train
+0,train/signs/SAM_1675_JPG.rf.f9ac74ca8a21a89ede783f30ea5d4b97.jpg,STOP,train
+0,train/signs/SAM_1676_JPG.rf.3e389c756f77b5b310c633f2559f5b9e.jpg,STOP,train
+0,train/signs/SAM_1689_JPG.rf.6fae42f25b29b0de4b73e91ef4659e95.jpg,STOP,train
+0,train/signs/SAM_1690_JPG.rf.ca5794ed284df93c980ed572a21002f8.jpg,STOP,train
+0,train/signs/SAM_1691_JPG.rf.744bc364ec1ff4610946eefb3f022d5b.jpg,STOP,train
+0,train/signs/SAM_1692_JPG.rf.3455f87547dcdd64fa398c4b5f2db017.jpg,STOP,train
+0,train/signs/SAM_1694_JPG.rf.defad3e5d7994bdecdae1d0f74880514.jpg,STOP,train
+0,train/signs/SAM_1696_JPG.rf.a463ffbad33a720d3e32fbfb5b27aee2.jpg,STOP,train
+0,train/signs/SAM_1699_JPG.rf.49b247f92f1f35cd8fb2e48cfed74b3f.jpg,STOP,train
+0,train/signs/SAM_1700_JPG.rf.7b58add82bacb4972341205280809c1e.jpg,STOP,train
+0,train/signs/SAM_1701_JPG.rf.e223ec67f72569f954c6be183c1d9b6b.jpg,STOP,train
+0,valid/signs/IMG_0506_jpg.rf.199450091ec3504ddce0d7dbf07f5899.jpg,STOP,valid
+0,valid/signs/IMG_0549_jpg.rf.f88b387e5c34d794016930f271e5b2d0.jpg,SPEED LIMIT 45,valid
+0,valid/signs/IMG_0566_jpg.rf.2064df4fecf541f939ab293fed81cf88.jpg,20 MPH,valid
+0,valid/signs/IMG_0585_jpg.rf.72cb2d66f936ad85176a3eb63d5e227f.jpg,PASS WITH CARE,valid
+0,valid/signs/IMG_0632_jpg.rf.eeaf93bf304ccd3c3b503d54a3eb30a9.jpg,STOP,valid
+0,valid/signs/IMG_0635_jpg.rf.d6af760e3905e2b86bb31b7b9b708168.jpg,SPEED LIMIT 45,valid
+0,valid/signs/IMG_0648_jpg.rf.b69c3214f9e1813952bbb8ee46bcadd3.jpg,STOP,valid
+0,valid/signs/IMG_0674_jpg.rf.8dda37a1764976eba28b895f82f48960.jpg,LANE ENDS MERGE LEFT,valid
+0,valid/signs/IMG_0685_jpg.rf.e51d32145cdcfcdef4252f1f4cc4a40a.jpg,STOP,valid
+0,valid/signs/IMG_0689_jpg.rf.cb80720769f897813dfb97710bd95102.jpg,STOP,valid
+0,valid/signs/IMG_0709_jpg.rf.dc98d86bce9fbffaac872e54fa7dc310.jpg,DO NOT PASS,valid
+0,valid/signs/IMG_0711_jpg.rf.67ce0db60e8043a142efc5f5e9d94336.jpg,PASS WITH CARE,valid
+0,valid/signs/IMG_0743_jpg.rf.ec898340f761eeeabb2d200b1f79ba7c.jpg,SPEED LIMIT 55,valid
+0,valid/signs/n22_JPG.rf.98a7f0b82456448c878c054185317bec.jpg,STOP TURN RIGHT ONLY,valid
+0,valid/signs/n29_JPG.rf.08a3b1aa6d81fae4e63f4becf92dd4b1.jpg,SPEED LIMIT 35,valid
+0,valid/signs/n2_jpg.rf.b90b9f18bd5ff52ea17d3e8840dd2da6.jpg,STOP TURN RIGHT ONLY,valid
+0,valid/signs/n31_JPG.rf.86fa9d7591cf0be55beab5ebafbdba63.jpg,SPEED LIMIT 40,valid
+0,valid/signs/n4_JPG.rf.2c90d24d6d96ae72155ebbec514c512a.jpg,SPEED LIMIT 15,valid
+0,valid/signs/n54_jpg.rf.10cf57e1011149d767821180764ea511.jpg,SPEED LIMIT 25,valid
+0,valid/signs/n57_jpg.rf.ea22152c7f1c61b77bfbca605367a917.jpg,SPEED LIMIT 25,valid
+0,valid/signs/n63_jpg.rf.dc66df9b66beaae6d58ec79681757317.jpg,SPEED LIMIT 25,valid
+0,valid/signs/n64_jpg.rf.631b25d8c44fd2700d2e3c4900380fb6.jpg,SPEED LIMIT 25 SPEED LIMIT STRICTLY ENFORCED,valid
+0,valid/signs/n67_jpg.rf.56bd154c9c1a1446dc40e88874329664.jpg,SPEED LIMIT 25,valid
+0,valid/signs/n68_jpg.rf.35b3e84d99acd40f00e963bf2792cf8e.jpg,SPEED LIMIT 25,valid
+0,valid/signs/n69_jpg.rf.58e92062effa8b7cbf77278b9575a368.jpg,SCHOOL SPEED LIMIT 25,valid
+0,valid/signs/s30_JPG.rf.808d098b55b96dd01db0e17e010cc8a2.jpg,SPEED LIMIT 15,valid
+0,valid/signs/s35_JPG.rf.5f779254fbb3abab50c646c374306428.jpg,STOP TURN RIGHT ONLY,valid
+0,valid/signs/s47_JPG.rf.dab6c0ca32e4cbfc9afcfaa1906539df.jpg,SPEED LIMIT 25,valid
+0,valid/signs/SAM_0165_JPG.rf.96dbbd8d70830ced6f37386da724e500.jpg,STOP,valid
+0,valid/signs/SAM_0169_JPG.rf.95c6af3f55637a6f9d575fd570963c17.jpg,STOP,valid
+0,valid/signs/SAM_0179_JPG.rf.82d7931bfbb1b570f191222718f0a2d8.jpg,STOP,valid
+0,valid/signs/SAM_0224_JPG.rf.4aed3cda69c773e30d836a740ae237ab.jpg,SPEED LIMIT 30,valid
+0,valid/signs/SAM_0262_JPG.rf.bd61d2c3de80fe3126e92d874574f788.jpg,STOP TURN RIGHT ONLY,valid
+0,valid/signs/SAM_0288_JPG.rf.bf19e682f9a3425137e3777440013b5f.jpg,STOP,valid
+0,valid/signs/SAM_0317_JPG.rf.551bf9dcbd75d94be45749f2b5790d19.jpg,STOP,valid
+0,valid/signs/SAM_0806_JPG.rf.8e00448ca5a3e776f4a2b731cf458d31.jpg,SPEED LIMIT 45,valid
+0,valid/signs/SAM_0821_JPG.rf.19a2d25c75b060039a0c3b8e6b6cda2f.jpg,PASS WITH CARE,valid
+0,valid/signs/SAM_0822_JPG.rf.a7dccf758472ee262d68a0e826e4432e.jpg,PASS WITH CARE,valid
+0,valid/signs/SAM_0833_JPG.rf.b68048bc18a8b43ceefa70dd71f1eb71.jpg,SPEED LIMIT 45,valid
+0,valid/signs/SAM_0835_JPG.rf.4e95fd9e211891f47dbd077314b4546e.jpg,SPEED LIMIT 46,valid
+0,valid/signs/SAM_0853_JPG.rf.7b7b2153366c4e5294e8d2b4e01fcafe.jpg,STOP,valid
+0,valid/signs/SAM_0855_JPG.rf.3933f8ee15ff712778f1007bf0587edf.jpg,CENTER LANE ONLY,valid
+0,valid/signs/SAM_0859_JPG.rf.1bd4a900804ec5840485edc343ba32c0.jpg,CENTER LANE ONLY,valid
+0,valid/signs/SAM_0889_JPG.rf.1088b28b0f38e1d5cb742e7bcae1ce65.jpg,STOP,valid
+0,valid/signs/SAM_0899_JPG.rf.72ac8359b3fe834f075b6927a3a03040.jpg,STOP,valid
+0,valid/signs/SAM_0907_JPG.rf.ad7894e448fd85a26474411b1d49b19c.jpg,STOP,valid
+0,valid/signs/SAM_0916_JPG.rf.519b766aeb612d00828740be93c62e52.jpg,STOP,valid
+0,valid/signs/SAM_0926_JPG.rf.fe9c897aa46a9bef3681e471f66022cc.jpg,STOP TURN RIGHT ONLY,valid
+0,valid/signs/SAM_0928_JPG.rf.3cc9703f0760576464ea1aed451480ae.jpg,STOP TURN RIGHT ONLY,valid
+0,valid/signs/SAM_0929_JPG.rf.96707bc9aba3faef2e8d2ab337b027a3.jpg,STOP TURN RIGHT ONLY,valid
+0,valid/signs/SAM_0947_JPG.rf.2a800ce1ea1cd364bec5e9a4ead2ad5e.jpg,STOP TURN RIGHT ONLY,valid
+0,valid/signs/SAM_0948_JPG.rf.8a6d9b500fb6fad48ad5b14f336100c3.jpg,STOP TURN RIGHT ONLY,valid
+0,valid/signs/SAM_0948_JPG.rf.ff090e03117b8a770615e6a39ebe3c32.jpg,STOP TURN RIGHT ONLY,valid
+0,valid/signs/SAM_0975_JPG.rf.1f08298aabb08dc900c29b8303292ff8.jpg,CENTER LANE ONLY,valid
+0,valid/signs/SAM_1059_JPG.rf.c925ef862827b6c8eb25e80f479dfae9.jpg,STOP 3 WAY,valid
+0,valid/signs/SAM_1061_JPG.rf.6abdc8b23af207a2eb7912fa15c31b1f.jpg,STOP 3 WAY,valid
+0,valid/signs/SAM_1071_JPG.rf.8de0a43d31b690007a86c1567e9eefdb.jpg,STOP 3 WAY,valid
+0,valid/signs/SAM_1076_JPG.rf.ee8548b2992aa6275343be0ce2048a5a.jpg,STOP,valid
+0,valid/signs/SAM_1204_JPG.rf.7d71208bbd1f3de18ad7477a5518bc37.jpg,STOP,valid
+0,valid/signs/SAM_1207_JPG.rf.dc65cdd39212cadf9af2826f39c5bcda.jpg,STOP,valid
+0,valid/signs/SAM_1209_JPG.rf.56cce81c8e33c9b94a209649c70103e0.jpg,STOP,valid
+0,valid/signs/SAM_1210_JPG.rf.3751638462dd2c841addb578e0a1973c.jpg,STOP,valid
+0,valid/signs/SAM_1211_JPG.rf.afae39f32550259d9862efbe606d746b.jpg,STOP,valid
+0,valid/signs/SAM_1215_JPG.rf.0f62a596257e15a8d1a33f32ffb94039.jpg,STOP,valid
+0,valid/signs/SAM_1225_JPG.rf.e09dfe91b74c01f9e6f62ec786de3813.jpg,STOP,valid
+0,valid/signs/SAM_1228_JPG.rf.8ed8ddf58ba995cb3ae30100b35ddf3b.jpg,STOP,valid
+0,valid/signs/SAM_1232_JPG.rf.706bf8204b7ff2bef5f70e5dea6c5168.jpg,STOP,valid
+0,valid/signs/SAM_1235_JPG.rf.f95eddfabc2c69dc09bfbb8927e83a91.jpg,STOP,valid
+0,valid/signs/SAM_1238_JPG.rf.a07d770298b784f7b8f583a9fea1d867.jpg,STOP,valid
+0,valid/signs/SAM_1258_JPG.rf.d5cb79e1f2c01640fbf8bacd54d6704d.jpg,STOP,valid
+0,valid/signs/SAM_1262_JPG.rf.481842183785505330514088566e4131.jpg,SPEED LIMIT 15 SLOW CHILDREN AT PLAY,valid
+0,valid/signs/SAM_1265_JPG.rf.0c40e94b62e3eb6f6b7a02d9c9e5ec88.jpg,PEDESTRIAN CROSSING SPEED LIMIT 15,valid
+0,valid/signs/SAM_1641_JPG.rf.aa9f7b3c7b25f1cb585bf4e70c3e75bc.jpg,STOP 4 WAY,valid
+0,valid/signs/SAM_1642_JPG.rf.81da7f0dee29a4c057f8b1c3fa8b6008.jpg,STOP ALL WAY,valid
+0,valid/signs/SAM_1665_JPG.rf.13e4443899c454dca95a3d37558137f0.jpg,STOP,valid
+0,valid/signs/SAM_1688_JPG.rf.9b0091acfd1e2f8030b466c4f4e801c4.jpg,STOP,valid
+0,valid/signs/SAM_1693_JPG.rf.c6e4765bb755aa237960c13e87c1b30e.jpg,STOP,valid
+0,test/signs/IMG_0450_jpg.rf.eeb9a894cfe444b0769db38f00529b9d.jpg,STOP,test
+0,test/signs/IMG_0486_jpg.rf.37fe7da32eab0456ccca1fa94564e15f.jpg,SPEED LIMIT 50,test
+0,test/signs/IMG_0615_jpg.rf.76e4575c4460b1f1da4882d98f2a3470.jpg,RIGHT LANE MUST TURN RIGHT,test
+0,test/signs/IMG_0630_jpg.rf.c4afb269c64471df9bbb8e40d682dd4d.jpg,BRIDGE MAY BE ICY,test
+0,test/signs/IMG_0645_jpg.rf.189b3fa1b6bf850f6e337330fc3bbdfc.jpg,NEXT MILE,test
+0,test/signs/IMG_0653_jpg.rf.46b2e278a174bae12aa5586c8184cb74.jpg,LANES ENDS MERGE LEFT,test
+0,test/signs/IMG_0704_jpg.rf.065db9b65307b1a9c33be2b6cefeb82d.jpg,BRIDGE ICES BEFORE ROAD,test
+0,test/signs/n50_jpg.rf.e1ff81f75b69723118f7fd2afbcae2c6.jpg,SPEED LIMIT 25,test
+0,test/signs/n59_jpg.rf.5f2ae1381f3b5ce7b2fe9abac3993f28.jpg,SPEED LIMIT 25,test
+0,test/signs/n67_jpg.rf.47bdab2ace748ba351a5401bb7df0d11.jpg,SPEED LIMIT 25,test
+0,test/signs/n68_jpg.rf.f11f69d038e06648565d9c72707eff8c.jpg,SPEED LIMIT 25,test
+0,test/signs/n6_JPG.rf.239b1c297903f678ac9daaa75709a580.jpg,SPEED LIMIT 25,test
+0,test/signs/n9_JPG.rf.cf84af532d4f25f0452da54d21ae48d0.jpg,SPEED LIMIT 25,test
+0,test/signs/o4_jpg.rf.1679a144e089b21be8e913b54a35a040.jpg,ROAD ENDS,test
+0,test/signs/o4_jpg.rf.d2c6802eb3f9f549450801aea27d602f.jpg,ROAD ENDS,test
+0,test/signs/SAM_0166_JPG.rf.3d353f6eb0538a1588c4b4b3726dc573.jpg,STOP,test
+0,test/signs/SAM_0175_JPG.rf.1c29763246285f674d8a87086894856f.jpg,STOP,test
+0,test/signs/SAM_0177_JPG.rf.a3f0daf0d36d6803cd6912901c38a981.jpg,STOP,test
+0,test/signs/SAM_0193_JPG.rf.05e1913572f9861b53f6b2262378e74c.jpg,NO OUTLET,test
+0,test/signs/SAM_0231_JPG.rf.d5b07803d1415f146d004dea1de4f086.jpg,CENTER LANE ONLY,test
+0,test/signs/SAM_0818_JPG.rf.3295d9939748676fc2c5e5c3cc52feaf.jpg,DO NOT PASS,test
+0,test/signs/SAM_0839_JPG.rf.59e9128e28a3c7e8e8f08150c80b28c7.jpg,DO NOT PASS,test
+0,test/signs/SAM_0843_JPG.rf.0d15154fa357fc76ca0cb1db2b8d4c7d.jpg,STOP 4 WAY,test
+0,test/signs/SAM_0858_JPG.rf.7b80f5a27ce647990db2e940edbacf0a.jpg,CENTER LANE ONLY,test
+0,test/signs/SAM_0865_JPG.rf.28a6504195fcea1863689c5819ceccf0.jpg,CENTER LANE ONLY,test
+0,test/signs/SAM_0875_JPG.rf.ddfc1d18cfc2651802fca159912c4ae5.jpg,REDUCED SPEED 50 AHEAD,test
+0,test/signs/SAM_0887_JPG.rf.49f868e13b8690a11834c255964a0d7a.jpg,BEGIN CENTER LANE ONLY,test
+0,test/signs/SAM_0888_JPG.rf.89c179139a8630e4abb5c9a18e24c0ea.jpg,SPEED LIMIT 45,test
+0,test/signs/SAM_0903_JPG.rf.c3d56f619b50e7261fa328efcec790e0.jpg,STOP  ,test
+0,test/signs/SAM_0904_JPG.rf.4f3649d126b3ba13da6518f9927e215e.jpg,STOP  ,test
+0,test/signs/SAM_0924_JPG.rf.ac044f3e0d10e5a30e928f58ab126fbf.jpg,RIGHT TURN ONLY,test
+0,test/signs/SAM_0925_JPG.rf.cffa9079924dbf606ec432e58c26095c.jpg,STOP RIGHT TURN ONLY,test
+0,test/signs/SAM_0927_JPG.rf.d989b52ead75a86cb4091602ba40952f.jpg,STOP RIGHT TURN ONLY,test
+0,test/signs/SAM_0955_JPG.rf.25a49449de10d0088d48841dd287f0c8.jpg,SPEED LIMIT 45,test
+0,test/signs/SAM_0969_JPG.rf.5fd342681a99b4bd4925624ca4fcd389.jpg,SPEED LIMIT 45,test
+0,test/signs/SAM_1062_JPG.rf.d6d1c03e8596630c67741bffb56fd7c8.jpg,STOP 3 WAY,test
+0,test/signs/SAM_1064_JPG.rf.ffffbfaab56687be7d5483c6fc1e476f.jpg,STOP 3 WAY,test
+0,test/signs/SAM_1066_JPG.rf.eb84223c2c05898bca66bbb21322388f.jpg,STOP 3 WAY,test
+0,test/signs/SAM_1067_JPG.rf.b4519031f65f34f3a1e4579b6d4f4cc2.jpg,STOP 3 WAY,test
+0,test/signs/SAM_1072_JPG.rf.c9053b9d06a667913decc121e5bd545a.jpg,STOP 3 WAY,test
+0,test/signs/SAM_1201_JPG.rf.a7d0abaf4f317308cc1813512617f051.jpg,STOP ALL WAY,test
+0,test/signs/SAM_1206_JPG.rf.da4279a64ca9351950d852b9947774e4.jpg,STOP,test
+0,test/signs/SAM_1212_JPG.rf.6593d2c803d33f0cb39fe0a2799d284d.jpg,SPEED LIMIT 15,test
+0,test/signs/SAM_1213_JPG.rf.6d7367111afe2c12c6f33caa8c278c92.jpg,SPEED LIMIT 16,test
+0,test/signs/SAM_1221_JPG.rf.a567cea5623ba00f927efbeac41d8d9b.jpg,STOP,test
+0,test/signs/SAM_1231_JPG.rf.f5c516d0c6977103ae5ea7c7b9ca6b76.jpg,STOP,test
+0,test/signs/SAM_1237_JPG.rf.d7118da087518b359a236c737e2f2613.jpg,STOP,test
+0,test/signs/SAM_1243_JPG.rf.d14ad0c5ca0528140994173242ca3962.jpg,STOP,test
+0,test/signs/SAM_1244_JPG.rf.9968f135b5377714bb1e19c968a47082.jpg,STOP,test
+0,test/signs/SAM_1246_JPG.rf.640cf7a5f99ed212e64cedaf94a1c996.jpg,STOP,test
+0,test/signs/SAM_1246_JPG.rf.9fa8a788d31197bd50b4cf2aab300b1d.jpg,STOP,test
+0,test/signs/SAM_1254_JPG.rf.3b84eca917c2a1ac51298afa48184baa.jpg,STOP,test
+0,test/signs/SAM_1255_JPG.rf.ea1d646611607c402d80a1f304edf770.jpg,SPEED LIMIT 15,test
+0,test/signs/SAM_1263_JPG.rf.ce1b6ea71cf837c2ece542469405c4f0.jpg,PEDESTRIAN CROSSING SPEED LIMIT 15,test
+0,test/signs/SAM_1638_JPG.rf.8d2c7b09a1e85c249439ab1a8504283f.jpg,STOP 4 WAY,test
+0,test/signs/SAM_1656_JPG.rf.9ce06bf028b2e1850ba5cc7271e33072.jpg,STOP 3 WAY,test
+0,test/signs/SAM_1667_JPG.rf.881810757e17f0bd4c1d4b3be493df06.jpg,STOP,test
+0,test/signs/SAM_1672_JPG.rf.18c13f7efb717dbfc19ebff6b3578d40.jpg,NO OUTLET,test
+0,test/signs/SAM_1673_JPG.rf.32692b277fbce379cd8d0b1206584321.jpg,NO OUTLET,test
+0,test/signs/SAM_1674_JPG.rf.ff7c9bbaf24b2eb966830da83af791da.jpg,NO OUTLET,test
