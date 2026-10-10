@@ -13,7 +13,7 @@ To test the OCR model on your own images, you need to run the **Inference Server
 
 ### Prerequisites
 Ensure you have the virtual environment available at:
-`C:\Users\CrX\Optical-Character-Recognition\amd-ocr-challenge\.venv\Scripts\python.exe`
+`C:\Users\[USER_PROFILE]\Optical-Character-Recognition\amd-ocr-challenge\.venv\Scripts\python.exe`
 And that all requirements needed have been installed.
 ---
 
@@ -23,9 +23,9 @@ The server must be running in the background to handle requests. It loads the VL
 1. Open a terminal (PowerShell).
 2. Run the following commands:
    ```powershell
-   cd C:\Users\CrX\Optical-Character-Recognition\amd-ocr-challenge
-   $env:PYTHONPATH = "C:\Users\CrX\Optical-Character-Recognition\amd-ocr-challenge"
-   & "C:\Users\CrX\Optical-Character-Recognition\amd-ocr-challenge\.venv\Scripts\python.exe" -m app.server
+   cd C:\Users\[USER_PROFILE]\Optical-Character-Recognition\amd-ocr-challenge
+   $env:PYTHONPATH = "C:\Users\[USER_PROFILE]\Optical-Character-Recognition\amd-ocr-challenge"
+   & "C:\Users\[USER_PROFILE]\Optical-Character-Recognition\amd-ocr-challenge\.venv\Scripts\python.exe" -m app.server
    ```
 3. **Wait** until you see the message: `OCR engine initialized successfully.`
 4. **Keep this terminal open.** If you close it, the model is unloaded from the GPU.
@@ -38,9 +38,9 @@ Now that the server is ready, you can use `app.py` to process any image on your 
 1. Open a **second terminal** (PowerShell).
 2. Run the following command, replacing `path/to/your/image.jpg` with the actual path to your file:
    ```powershell
-   cd C:\Users\CrX\Optical-Character-Recognition\amd-ocr-challenge
-   $env:PYTHONPATH = "C:\Users\CrX\Optical-Character-Recognition\amd-ocr-challenge"
-   & "C:\Users\CrX\Optical-Character-Recognition\amd-ocr-challenge\.venv\Scripts\python.exe" app/app.py --input-image "C:\Users\CrX\Pictures\my_plate.jpg"
+   cd C:\Users\[USER_PROFILE]\Optical-Character-Recognition\amd-ocr-challenge
+   $env:PYTHONPATH = "C:\Users\[USER_PROFILE]\Optical-Character-Recognition\amd-ocr-challenge"
+   & "C:\Users\[USER_PROFILE]\Optical-Character-Recognition\amd-ocr-challenge\.venv\Scripts\python.exe" app/app.py --input-image "C:\Users\CrX\Pictures\my_plate.jpg"
    ```
 
 ### What happens next?
