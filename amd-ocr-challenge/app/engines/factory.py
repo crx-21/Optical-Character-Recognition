@@ -1,17 +1,13 @@
 from typing import Dict, Type
 from app.engines.base import BaseOCREngine
-from app.engines.easyocr_engine import EasyOCREngine
+from app.engines.qwen_vl_engine import QwenVLEngine
+from app.config import MODEL_ADAPTER_PATH
 
 class OCREngineFactory:
     """Factory to create OCR engines based on configuration."""
 
     _engines: Dict[str, Type[BaseOCREngine]] = {
-        "easyocr": EasyOCREngine,
-        # Future models will be added here:
-        # "qwen2.5-vl": QwenVLEngine,
-        # "paddle": PaddleOCREngine,
-        # "deepseek-ocr": DeepSeekOCREngine,
-        # "florence-2": Florence2Engine,
+        "qwen2.5-vl": QwenVLEngine,
     }
 
     @classmethod
@@ -33,4 +29,4 @@ class OCREngineFactory:
             supported = ", ".join(cls._engines.keys())
             raise ValueError(f"Unsupported model type '{model_type}'. Supported types: {supported}")
 
-        return engine_class()
+        return QwenVLEngine(adapter_path=MODEL_ADAPTER_PATH) if engine_class == QwenVLEngine else engine_class()

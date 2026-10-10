@@ -2,6 +2,11 @@ fastapi>=0.115.0
 uvicorn>=0.31.0
 requests>=2.32.3
 pillow>=11.0.0
-easyocr
+transformers
+accelerate
+bitsandbytes
+qwen-vl-utils
 opencv-python-headless
 python-multipart>=0.0.12
+tqdm
+scipy
