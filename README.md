@@ -40,7 +40,7 @@ Now that the server is ready, you can use `app.py` to process any image on your 
    ```powershell
    cd C:\Users\[USER_PROFILE]\Optical-Character-Recognition\amd-ocr-challenge
    $env:PYTHONPATH = "C:\Users\[USER_PROFILE]\Optical-Character-Recognition\amd-ocr-challenge"
-   & "C:\Users\[USER_PROFILE]\Optical-Character-Recognition\amd-ocr-challenge\.venv\Scripts\python.exe" app/app.py --input-image "C:\Users\CrX\Pictures\my_plate.jpg"
+   & "C:\Users\[USER_PROFILE]\Optical-Character-Recognition\amd-ocr-challenge\.venv\Scripts\python.exe" app/app.py --input-image "C:\Users\[USER_PROFILE]\Pictures\my_plate.jpg"
    ```
 
 ### What happens next?
