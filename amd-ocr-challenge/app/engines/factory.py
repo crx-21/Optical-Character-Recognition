@@ -4,8 +4,6 @@ from app.engines.qwen_vl_engine import QwenVLEngine
 from app.config import MODEL_ADAPTER_PATH
 
 class OCREngineFactory:
-
-class OCREngineFactory:
     """Factory to create OCR engines based on configuration."""
 
     _engines: Dict[str, Type[BaseOCREngine]] = {

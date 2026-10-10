@@ -4,7 +4,7 @@ from PIL import Image
 from transformers import Qwen2_5_VLForConditionalGeneration, AutoProcessor
 from transformers import BitsAndBytesConfig
 from peft import PeftModel
-from amd_ocr_challenge.app.engines.base import BaseOCREngine
+from app.engines.base import BaseOCREngine
 
 class QwenVLEngine(BaseOCREngine):
     """

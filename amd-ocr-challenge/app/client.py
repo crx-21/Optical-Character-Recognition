@@ -3,8 +3,8 @@ import requests
 import json
 import time
 from pathlib import Path
-from app.config import SERVER_URL, RETRY_SETTINGS
-from app.postprocess import normalize_text, detect_category
+from client.config import SERVER_URL, RETRY_SETTINGS
+from client.postprocess import normalize_text, detect_category
 
 def main():
     """

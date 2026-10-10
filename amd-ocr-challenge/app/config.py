@@ -5,7 +5,7 @@ DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
 # Model Configuration
 MODEL_TYPE = "qwen2.5-vl"  # Options: "easyocr", "qwen2.5-vl", "paddle", etc.
-MODEL_ADAPTER_PATH = "amd-ocr-challenge/app/qwen_finetuned_lora"
+MODEL_ADAPTER_PATH = "amd-ocr-challenge/app/qwen_finetuned_lora2"
 
 # Server Settings
 SERVER_URL = "http://127.0.0.1:8000/predict"
